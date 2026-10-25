@@ -2,9 +2,7 @@
 
 娜乌斯嘉AI 的图片模型画风横评（第二轮）。同一道题、同一段提示词，看 Midjourney V8.2、GPT Image 2、Nano Banana Pro、Seedream 5.0 Pro、FLUX 2 Max、Luma uni-1 Max 在 25 种画风上各自画成什么样。
 
-**在线浏览：** https://nawusijia.github.io/25style-of-AI-image/
-
-也可以下载整个仓库，直接双击打开 `index.html`。
+**怎么看：** 点右上角 Code → Download ZIP，解压后双击 `index.html` 就能在浏览器里看。
 
 ## 里面有什么
 
