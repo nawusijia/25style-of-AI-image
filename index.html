@@ -1,0 +1,184 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>25 种画风 × 6 个图片模型 · 娜乌斯嘉AI</title>
+<meta name="description" content="同一道题、同一段提示词，Midjourney V8.2 / GPT Image 2 / Nano Banana Pro / Seedream 5.0 Pro / FLUX 2 Max / Luma uni-1 Max 在 25 种画风上的完整对照。">
+<style>
+@font-face{font-family:Pixel;src:url(assets/FusionPixel12-zh_hans.woff2) format("woff2");font-display:swap}
+:root{--bg:#0B0F1C;--bg2:#141C33;--card:#111829;--ink:#05070D;--cyan:#3DF5FF;--pink:#FF4FA3;--gold:#FFD34D;--white:#F4F6FA;--dim:#7C8AA8;--line:rgba(61,245,255,.16)}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;scroll-padding-top:72px}
+body{overflow-x:hidden;margin:0;background:radial-gradient(120% 60% at 50% 0,var(--bg2),var(--bg) 60%) fixed,var(--bg);color:var(--white);font:16px/1.7 "PingFang SC","Microsoft YaHei","Source Han Sans CN",sans-serif}
+body::before{content:"";position:fixed;inset:0;pointer-events:none;background-image:linear-gradient(rgba(61,245,255,.04) 1px,transparent 1px),linear-gradient(90deg,rgba(61,245,255,.04) 1px,transparent 1px);background-size:48px 48px}
+a{color:var(--cyan)}
+.px{font-family:Pixel,monospace;letter-spacing:.02em}
+.wrap{max-width:1320px;margin:0 auto;padding:0 20px;position:relative}
+header.hero{padding:72px 0 28px}
+.kicker{display:inline-block;background:var(--cyan);color:var(--ink);padding:4px 10px;font-size:15px;box-shadow:4px 4px 0 var(--pink)}
+h1{font-size:clamp(40px,7vw,88px);line-height:1.05;margin:22px 0 14px;text-shadow:5px 5px 0 var(--pink)}
+.lead{overflow-wrap:anywhere;max-width:860px;color:#C9D2E6;font-size:17px}
+.facts{display:flex;flex-wrap:wrap;gap:12px;margin:26px 0 8px}
+.fact{border:2px solid var(--cyan);background:rgba(8,11,22,.8);padding:8px 14px;box-shadow:4px 4px 0 rgba(255,79,163,.7)}
+.fact b{font-size:30px;color:var(--cyan);margin-right:6px}
+.method{overflow-wrap:anywhere;margin:22px 0 0;padding:16px 18px;border-left:4px solid var(--gold);background:rgba(20,28,51,.6);color:#C9D2E6;font-size:14.5px}
+.method li{margin:2px 0}
+.bar{position:sticky;top:0;z-index:20;background:rgba(11,15,28,.92);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
+.bar .wrap{display:flex;flex-wrap:wrap;align-items:center;gap:8px;padding-top:10px;padding-bottom:10px}
+.chip{border:2px solid var(--line);background:var(--card);color:var(--white);padding:5px 11px;font:inherit;font-size:14px;cursor:pointer}
+.chip:hover{border-color:var(--cyan)}
+.chip[aria-pressed=true]{background:var(--cyan);color:var(--ink);border-color:var(--cyan)}
+.chip.blind[aria-pressed=true]{background:var(--pink);border-color:var(--pink);color:#fff}
+.bar .sep{flex:1}
+.bar select{background:var(--card);color:var(--white);border:2px solid var(--line);padding:5px 8px;font:inherit;font-size:14px}
+h2.sec{font-size:30px;margin:56px 0 16px}
+table.sum{width:100%;border-collapse:collapse;font-size:15px}
+.sum th,.sum td{padding:9px 10px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}
+.sum th{color:var(--dim);font-weight:500;font-size:13px}
+.sum tr:hover td{background:rgba(61,245,255,.05)}
+.sum a{color:var(--white);text-decoration:none}
+.tag{display:inline-block;margin:2px 4px 2px 0;padding:1px 8px;font-size:13px;border:1px solid var(--dim);color:#C9D2E6}
+.tag.love{background:var(--pink);border-color:var(--pink);color:#fff}
+.tag.ok{border-color:var(--cyan);color:var(--cyan)}
+.tag.none{border-color:#FF8A3D;color:#FF8A3D}
+.style{padding:40px 0 10px;border-top:1px solid var(--line);margin-top:30px}
+.style-head{display:flex;flex-wrap:wrap;align-items:baseline;gap:14px}
+.num{background:var(--cyan);color:var(--ink);padding:2px 10px;font-size:26px;box-shadow:4px 4px 0 var(--pink)}
+.style-head h3{font-size:34px;margin:0}
+.meta{color:var(--dim);font-size:14px}
+.prompt{position:relative;margin:14px 0 18px;padding:14px 92px 14px 16px;background:rgba(8,11,22,.85);border:1px solid var(--line);font-size:14.5px;color:#D8DFEE}
+.prompt .lab{color:var(--gold);margin-right:8px}
+.copy{position:absolute;right:10px;top:10px}
+.grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+.card{background:var(--card);border:2px solid transparent;transition:border-color .15s,transform .15s;cursor:zoom-in}
+.card:hover{border-color:var(--cyan);transform:translateY(-2px)}
+.card.love{border-color:var(--pink)}
+.card.dim{opacity:.22}
+.ph{aspect-ratio:4/3;background:#000;display:grid;place-items:center;overflow:hidden}
+.ph img{width:100%;height:100%;object-fit:contain;display:block}
+.cap{display:flex;justify-content:space-between;gap:8px;align-items:center;padding:10px 12px}
+.mname{font-size:17px;font-weight:700}
+.plat{font-size:12px;color:var(--dim)}
+.blinded .mname,.blinded .plat,.blinded .badges{visibility:hidden}
+.blinded .mname::before{content:attr(data-letter);visibility:visible}
+.badges{text-align:right;white-space:nowrap}
+.sheet-link{display:inline-block;margin-top:14px;font-size:14px}
+footer{margin:80px 0 40px;padding-top:24px;border-top:1px solid var(--line);color:var(--dim);font-size:14px}
+#lb{position:fixed;inset:0;z-index:50;background:rgba(5,7,13,.96);display:none;flex-direction:column}
+#lb.on{display:flex}
+#lb .top{display:flex;justify-content:space-between;align-items:center;gap:12px;padding:12px 18px;border-bottom:1px solid var(--line)}
+#lb .stage{flex:1;display:grid;place-items:center;min-height:0;padding:14px;position:relative}
+#lb .stage img{max-width:100%;max-height:100%;object-fit:contain}
+#lb .nav{position:absolute;top:50%;transform:translateY(-50%);font-size:30px;padding:10px 16px}
+#lb .prev{left:12px}#lb .next{right:12px}
+@media(max-width:900px){.grid{grid-template-columns:repeat(2,minmax(0,1fr))}.sum .hide-s{display:none}}
+@media(max-width:560px){.grid{grid-template-columns:1fr}.prompt{padding-right:16px}.copy{position:static;margin-top:8px}h2.sec{font-size:24px}.style-head h3{font-size:26px}}
+</style>
+</head>
+<body>
+<header class="hero wrap">
+  <span class="kicker px">娜乌斯嘉AI · 画风横评 · 第二轮</span>
+  <h1 class="px">25 种画风<br>× 6 个图片模型</h1>
+  <p class="lead">同一道题、同一段提示词，看六个图片模型在 25 种画风上各自画成什么样。每种画风配了一个适合它的题材；图片全部原样保留，没有挑图、修图或裁图。</p>
+  <div class="facts px"><div class="fact"><b>25</b>种画风</div><div class="fact"><b>6</b>个模型</div><div class="fact"><b>150</b>张主对照</div></div>
+  <ul class="method">
+    <li>参赛：Midjourney V8.2（LibTV，mj-v8.2）、GPT Image 2、Nano Banana Pro、Seedream 5.0 Pro、FLUX 2 Max、Luma uni-1 Max（以上五家在 Lovart 调用）。</li>
+    <li>每题同一段提示词、同一画幅；不用参考图、不加个人风格码、不做后期。MJ 每题出 4 张，固定取第 1 张参加对照。</li>
+    <li>「很喜欢 / 可以用」是娜娜在匿名状态下的个人评分，只代表她的口味；没标记不等于不好。</li>
+    <li>想自己先盲猜：打开下面的「盲测模式」，模型名会换成 A–F。</li>
+  </ul>
+</header>
+
+<nav class="bar"><div class="wrap" id="bar"></div></nav>
+
+<main class="wrap">
+  <h2 class="sec px" id="summary">速查表</h2>
+  <table class="sum" id="sum"><thead><tr><th>画风</th><th>娜娜很喜欢</th><th class="hide-s">可以用</th></tr></thead><tbody></tbody></table>
+  <div id="styles"></div>
+</main>
+
+<footer class="wrap">
+  <p>视频：抖音 / 小红书 / B站 搜「娜乌斯嘉AI」。图片由各模型生成，评分只代表娜娜个人口味。跑图：洄光（GPT）；网页与视频包装：克肆（Claude）。</p>
+  <p>标题字体：缝合像素字体 Fusion Pixel（SIL OFL 1.1，见 assets/FusionPixel-OFL.txt）。</p>
+</footer>
+
+<div id="lb" role="dialog" aria-modal="true">
+  <div class="top"><div><span class="px" id="lbt"></span> <span class="plat" id="lbm"></span></div><div><a id="lbo" class="chip" target="_blank">原图</a> <button class="chip" id="lbx">关闭 ✕</button></div></div>
+  <div class="stage"><button class="chip nav prev" id="lbp">‹</button><img id="lbi" alt=""><button class="chip nav next" id="lbn">›</button></div>
+</div>
+
+<script src="assets/data.js"></script>
+<script>
+const D = window.DATA, LET = 'ABCDEF';
+const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({'&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;'}[c]));
+const MODELS = D[0].models.map((m) => [m.id, m.name]);
+let filter = 'ALL', blind = false;
+// 盲测时每题打乱 A–F 的顺序（固定种子，刷新不变）
+const order = (sid) => { const a = [0, 1, 2, 3, 4, 5]; let x = +sid * 9301 + 49297; for (let i = 5; i > 0; i--) { x = (x * 9301 + 49297) % 233280; const j = Math.floor(x / 233280 * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; };
+
+const bar = document.getElementById('bar');
+bar.innerHTML = '<span class="px" style="color:var(--dim);font-size:14px">只看：</span>' +
+  [['ALL', '全部'], ...MODELS].map(([id, n]) => `<button class="chip" data-f="${id}" aria-pressed="${id === 'ALL'}">${esc(n)}</button>`).join('') +
+  '<span class="sep"></span><button class="chip blind" id="blind" aria-pressed="false">盲测模式</button>' +
+  `<select id="jump"><option value="">跳到画风…</option><option value="summary">速查表</option>${D.map((s) => `<option value="s${s.id}">${s.id} ${esc(s.name)}</option>`).join('')}</select>`;
+
+document.querySelector('#sum tbody').innerHTML = D.map((s) => {
+  const love = s.models.filter((m) => m.like === '很喜欢'), ok = s.models.filter((m) => m.like === '可以用');
+  return `<tr><td><a href="#s${s.id}"><span class="px" style="color:var(--dim)">${s.id}</span> ${esc(s.name)}</a></td>
+    <td>${love.length ? love.map((m) => `<span class="tag love">♥ ${esc(m.name)}</span>`).join('') : `<span class="tag ${ok.length ? '' : 'none'}">${ok.length ? '没有很喜欢' : '暂无心动'}</span>`}</td>
+    <td class="hide-s">${ok.map((m) => `<span class="tag ok">${esc(m.name)}</span>`).join('')}</td></tr>`;
+}).join('');
+
+function render() {
+  document.getElementById('styles').innerHTML = D.map((s) => {
+    const idx = blind ? order(s.id) : [0, 1, 2, 3, 4, 5];
+    return `<section class="style" id="s${s.id}">
+      <div class="style-head"><span class="num px">${s.id}</span><h3 class="px">${esc(s.name)}</h3><span class="meta">画幅 ${s.ratio} · 看点：${esc(s.focus)}</span></div>
+      <div class="prompt"><span class="lab px">提示词</span>${esc(s.prompt)}<button class="chip copy" data-copy="${esc(s.prompt)}">复制</button></div>
+      <div class="grid ${blind ? 'blinded' : ''}">${idx.map((k, pos) => { const m = s.models[k];
+        const dim = !blind && filter !== 'ALL' && filter !== m.id ? ' dim' : '';
+        return `<figure class="card${m.like === '很喜欢' && !blind ? ' love' : ''}${dim}" data-s="${s.id}" data-m="${k}" style="margin:0">
+          <div class="ph"><img loading="lazy" src="${m.thumb}" alt="${esc(s.name)} · ${blind ? LET[pos] : esc(m.name)}"></div>
+          <figcaption class="cap"><div><div class="mname" data-letter="${LET[pos]}">${esc(m.name)}</div><div class="plat">${esc(m.platform)} · 原图 ${m.w}×${m.h}</div></div>
+          <div class="badges">${m.like ? `<span class="tag ${m.like === '很喜欢' ? 'love' : 'ok'}">${m.like === '很喜欢' ? '♥ ' : ''}${m.like}</span>` : ''}${m.fit ? '<br><span class="tag">画风到位</span>' : ''}</div></figcaption></figure>`; }).join('')}</div>
+      <a class="sheet-link" href="${s.sheet}" target="_blank">↓ 本题带模型名的对照大图</a>
+    </section>`;
+  }).join('');
+}
+render();
+
+bar.addEventListener('click', (e) => {
+  const b = e.target.closest('button'); if (!b) return;
+  if (b.id === 'blind') { blind = !blind; b.setAttribute('aria-pressed', blind); render(); return; }
+  if (b.dataset.f) { filter = b.dataset.f; bar.querySelectorAll('[data-f]').forEach((x) => x.setAttribute('aria-pressed', x === b)); render(); }
+});
+document.getElementById('jump').addEventListener('change', (e) => { if (e.target.value) location.hash = e.target.value; e.target.value = ''; });
+
+const lb = document.getElementById('lb'); let cur = null;
+function show(si, mi) {
+  const s = D[si], m = s.models[mi]; cur = [si, mi];
+  const pos = blind ? order(s.id).indexOf(mi) : -1;
+  document.getElementById('lbi').src = m.full;
+  document.getElementById('lbt').textContent = `${s.id} ${s.name} · ${blind ? LET[pos] : m.name}`;
+  document.getElementById('lbm').textContent = blind ? '' : (m.like ? `娜娜：${m.like}` : '');
+  document.getElementById('lbo').href = m.full;
+  lb.classList.add('on');
+}
+document.getElementById('styles').addEventListener('click', (e) => {
+  const c = e.target.closest('[data-copy]');
+  if (c) { navigator.clipboard?.writeText(c.dataset.copy); c.textContent = '已复制'; setTimeout(() => (c.textContent = '复制'), 1200); return; }
+  const f = e.target.closest('.card'); if (!f) return;
+  show(D.findIndex((s) => s.id === f.dataset.s), +f.dataset.m);
+});
+const step = (d) => { if (!cur) return; let [si, mi] = cur; const ord = blind ? order(D[si].id) : [0, 1, 2, 3, 4, 5]; let p = ord.indexOf(mi) + d;
+  if (p < 0) { si = (si + D.length - 1) % D.length; p = 5; } else if (p > 5) { si = (si + 1) % D.length; p = 0; }
+  show(si, (blind ? order(D[si].id) : [0, 1, 2, 3, 4, 5])[p]); };
+document.getElementById('lbp').onclick = () => step(-1);
+document.getElementById('lbn').onclick = () => step(1);
+document.getElementById('lbx').onclick = () => lb.classList.remove('on');
+lb.addEventListener('click', (e) => { if (e.target.classList.contains('stage')) lb.classList.remove('on'); });
+addEventListener('keydown', (e) => { if (!lb.classList.contains('on')) return; if (e.key === 'Escape') lb.classList.remove('on'); if (e.key === 'ArrowLeft') step(-1); if (e.key === 'ArrowRight') step(1); });
+</script>
+</body>
+</html>
