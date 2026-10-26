@@ -1,0 +1,118 @@
+{
+  "thread_id": "cc3806d4-ab83-4e65-84a1-8a24ada31047",
+  "project_id": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+  "status": "done",
+  "requested_model": "generate_image_luma_uni_1_max",
+  "items": [
+    {
+      "type": "assistant",
+      "text": "已按要求使用 `generate_image_luma_uni_1_max` 完成全部 25 道题，每题生成一张独立图片，未拼贴、未使用参考图、未编辑、未后处理。结果如下：\n\n01｜自然纪实摄影  \nURL: https://a.lovart.ai/artifacts/agent/q9UiPJxeZ32S4W1v.png  \n实际调用模型：generate_image_luma_uni_1_max  \n尺寸：2464×1632（3:2）  \n底层未暴露参数：未知  \n\n02｜高级时尚大片  \nURL: https://a.lovart.ai/artifacts/agent/kZYHwrBeOF18UhKp.png  \n实际调用模型：generate_image_luma_uni_1_max  \n尺寸：1632×2464（3:4）  \n底层未暴露参数：未知  \n\n03｜电影叙事剧照  \nURL: https://a.lovart.ai/artifacts/agent/ZObvY2qidvGMZGjH.png  \n实际调用模型：generate_image_luma_uni_1_max  \n尺寸：2672×1504（16:9）  \n底层未暴露参数：未知  \n\n04｜复古胶片摄影  \nURL: https://a.lovart.ai/artifacts/agent/HxKRJsnWRuJ5E2yd.png  \n实际调用模型：generate_image_luma_uni_1_max  \n尺寸：2464×1632（3:2）  \n底层未暴露参数：未知  \n\n05｜超现实商业摄影  \nURL: https://a.lovart.ai/artifacts/agent/dNw2AqQRsa2QlyI7.png  \n实际调用模型：generate_image_luma_uni_1_max  \n尺寸：2464×1632（4:3）  \n底层未暴露参数：未知  \n\n06｜电影级写实CG  \nURL: https://a.lovart.ai/artifacts/agent/fsHDlwKstLK01xrs.png  \n实际调用模型：generate_image_luma_uni_1_max  \n尺寸：1632×2464（3:4）  \n底层未暴露参数：未知  \n\n07｜风格化3D动画  \nURL: https://a.lovart.ai/artifacts/agent/3p0sicgkh7FsVAcm.png  \n实际调用模型：generate_image_luma_uni_1_max  \n尺寸：2464×1632（4:3）  \n底层未暴露参数：未知  \n\n08｜黏土定格  \nURL: https://a.lovart.ai/artifacts/agent/KZTj4h6eJc8QtNCm.png  \n实际调用模型：generate_image_luma_uni_1_max  \n尺寸：2464×1632（4:3）  \n底层未暴露参数：未知  \n\n09｜纸艺立体场景  \nURL: https://a.lovart.ai/artifacts/agent/1PEVNA1s1W3JCuMt.png  \n实际调用模型：generate_image_luma_uni_1_max  \n尺寸：2672×1504（16:9）  \n底层未暴露参数：未知  \n\n10｜等距低多边形  \nURL: https://a.lovart.ai/artifacts/agent/TswBT6KKAJ9gHVfH.png  \n实际调用模型：generate_image_luma_uni_1_max  \n尺寸：2464×1632（4:3）  \n底层未暴露参数：未知  \n\n11｜日系赛璐璐动画  \nURL: https://a.lovart.ai/artifacts/agent/DF2edZsEdxFFfERo.png  \n实际调用模型：generate_image_luma_uni_1_max  \n尺寸：2672×1504（16:9）  \n底层未暴露参数：未知  \n\n12｜日系厚涂游戏插画  \nURL: https://a.lovart.ai/artifacts/agent/HEJ2niFFOEGDoO1z.png  \n实际调用模型：generate_image_luma_uni_1_max  \n尺寸：1632×2464（3:4）  \n底层未暴露参数：未知  \n\n13｜美式漫画  \nURL: https://a.lovart.ai/artifacts/agent/QOdWQuS24gE3dgxS.png  \n实际调用模型：generate_image_luma_uni_1_max  \n尺寸：2672×1504（16:9）  \n底层未暴露参数：未知  \n\n14｜欧式绘本  \nURL: https://a.lovart.ai/artifacts/agent/9YkDi4rr2XAqeXaY.png  \n实际调用模型：generate_image_luma_uni_1_max  \n尺寸：2672×1504（16:9）  \n底层未暴露参数：未知  \n\n15｜平面商业插画  \nURL: https://a.lovart.ai/artifacts/agent/uNwHsV5zKu3aCvK3.png  \n实际调用模型：generate_image_luma_uni_1_max  \n尺寸：2672×1504（16:9）  \n底层未暴露参数：未知  \n\n16｜古典油画  \nURL: https://a.lovart.ai/artifacts/agent/g70dvYxznQ2hjfIc.png  \n实际调用模型：generate_image_luma_uni_1_max  \n尺寸：1632×2464（3:4）  \n底层未暴露参数：未知  \n\n17｜印象派油画  \nURL: https://a.lovart.ai/artifacts/agent/5HYX3yqsx8Cffs9z.png  \n实际调用模型：generate_image_luma_uni_1_max  \n尺寸：2672×1504（16:9）  \n底层未暴露参数：未知  \n\n18｜透明水彩  \nURL: https://a.lovart.ai/artifacts/agent/qFH9KmiVE46oClTd.png  \n实际调用模型：generate_image_luma_uni_1_max  \n尺寸：2464×1632（4:3）  \n底层未暴露参数：未知  \n\n19｜水粉／不透明水彩  \nURL: https://a.lovart.ai/artifacts/agent/C7OCuCvdWZ4w6jxu.png  \n实际调用模型：generate_image_luma_uni_1_max  \n尺寸：2464×1632（4:3）  \n底层未暴露参数：未知  \n\n20｜木刻／套色版画  \nURL: https://a.lovart.ai/artifacts/agent/jbscYGdfWaJv5aZ7.png  \n实际调用模型：generate_image_luma_uni_1_max  \n尺寸：2672×1504（16:9）  \n底层未暴露参数：未知  \n\n21｜中国水墨写意  \nURL: https://a.lovart.ai/artifacts/agent/N5Z9wwM8O574AV7X.png  \n实际调用模型：generate_image_luma_uni_1_max  \n尺寸：2672×1504（16:9）  \n底层未暴露参数：未知  \n\n22｜工笔重彩  \nURL: https://a.lovart.ai/artifacts/agent/rOm0P3cwhP5ZeXlZ.png  \n实际调用模型：generate_image_luma_uni_1_max  \n尺寸：1632×2464（3:4）  \n底层未暴露参数：未知  \n\n23｜浮世绘  \nURL: https://a.lovart.ai/artifacts/agent/aDbAqqrywS2hD8YY.png  \n实际调用模型：generate_image_luma_uni_1_max  \n尺寸：2464×1632（3:2）  \n底层未暴露参数：未知  \n\n24｜新艺术装饰风格  \nURL: https://a.lovart.ai/artifacts/agent/pDglTRiYaYCXj0Sh.png  \n实际调用模型：generate_image_luma_uni_1_max  \n尺寸：1632×2464（3:4）  \n底层未暴露参数：未知  \n\n25｜像素艺术  \nURL: https://a.lovart.ai/artifacts/agent/9EDUCBJpnX5vEhiB.png  \n实际调用模型：generate_image_luma_uni_1_max  \n尺寸：2672×1504（16:9）  \n底层未暴露参数：未知  \n\n备注：以上图片均为首次生成结果，未做重试、修正或后期处理；如需逐图查看细节或标记特定瑕疵，可继续告知。"
+    },
+    {
+      "type": "generator",
+      "artifacts": [
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/dNw2AqQRsa2QlyI7.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/ZObvY2qidvGMZGjH.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/kZYHwrBeOF18UhKp.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/HxKRJsnWRuJ5E2yd.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/q9UiPJxeZ32S4W1v.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/3p0sicgkh7FsVAcm.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/TswBT6KKAJ9gHVfH.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/1PEVNA1s1W3JCuMt.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/KZTj4h6eJc8QtNCm.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/fsHDlwKstLK01xrs.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/uNwHsV5zKu3aCvK3.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/9YkDi4rr2XAqeXaY.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/HEJ2niFFOEGDoO1z.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/QOdWQuS24gE3dgxS.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/DF2edZsEdxFFfERo.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/qFH9KmiVE46oClTd.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/jbscYGdfWaJv5aZ7.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/5HYX3yqsx8Cffs9z.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/C7OCuCvdWZ4w6jxu.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/g70dvYxznQ2hjfIc.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/pDglTRiYaYCXj0Sh.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/aDbAqqrywS2hD8YY.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/9EDUCBJpnX5vEhiB.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/N5Z9wwM8O574AV7X.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/rOm0P3cwhP5ZeXlZ.png"
+        }
+      ],
+      "name": "artifacts"
+    }
+  ]
+}

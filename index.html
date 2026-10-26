@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>25 种画风 × 6 个图片模型 · 娜乌斯嘉AI</title>
-<meta name="description" content="同一道题、同一段提示词，Midjourney V8.2 / GPT Image 2 / Nano Banana Pro / Seedream 5.0 Pro / FLUX 2 Max / Luma uni-1 Max 在 25 种画风上的完整对照。">
+<meta name="description" content="同一道题，逐模型公开提交题面与参数，Midjourney V8.2 / GPT Image 2 / Nano Banana Pro / Seedream 5.0 Pro / FLUX 2 Max / Luma uni-1 Max 在 25 种画风上的完整对照。">
 <style>
 @font-face{font-family:Pixel;src:url(assets/FusionPixel12-zh_hans.woff2) format("woff2");font-display:swap}
 :root{--bg:#0B0F1C;--bg2:#141C33;--card:#111829;--ink:#05070D;--cyan:#3DF5FF;--pink:#FF4FA3;--gold:#FFD34D;--white:#F4F6FA;--dim:#7C8AA8;--line:rgba(61,245,255,.16)}
@@ -74,17 +74,18 @@ footer{margin:80px 0 40px;padding-top:24px;border-top:1px solid var(--line);colo
 #lb .prev{left:12px}#lb .next{right:12px}
 @media(max-width:900px){.grid{grid-template-columns:repeat(2,minmax(0,1fr))}.sum .hide-s{display:none}}
 @media(max-width:560px){.grid{grid-template-columns:1fr}.prompt{padding-right:16px}.copy{position:static;margin-top:8px}h2.sec{font-size:24px}.style-head h3{font-size:26px}}
+.model-prompt{padding:12px 16px;font-size:13px;overflow-wrap:anywhere}.model-prompt summary{cursor:pointer;color:var(--gold)}.model-prompt p{white-space:pre-wrap}.blinded .model-prompt{display:none}
 </style>
 </head>
 <body>
 <header class="hero wrap">
   <span class="kicker px">娜乌斯嘉AI · 画风横评 · 第二轮</span>
   <h1 class="px">25 种画风<br>× 6 个图片模型</h1>
-  <p class="lead">同一道题、同一段提示词，看六个图片模型在 25 种画风上各自画成什么样。每种画风配了一个适合它的题材；图片全部原样保留，没有挑图、修图或裁图。</p>
+  <p class="lead">同一道题，逐模型公开提交题面与参数，看六个图片模型在 25 种画风上各自画成什么样。每种画风配了一个适合它的题材；图片全部原样保留，没有挑图、修图或裁图。</p>
   <div class="facts px"><div class="fact"><b>25</b>种画风</div><div class="fact"><b>6</b>个模型</div><div class="fact"><b>150</b>张主对照</div></div>
   <ul class="method">
     <li>参赛：Midjourney V8.2（LibTV，mj-v8.2）、GPT Image 2、Nano Banana Pro、Seedream 5.0 Pro、FLUX 2 Max、Luma uni-1 Max（以上五家在 Lovart 调用）。</li>
-    <li>每题同一段提示词、同一画幅；不用参考图、不加个人风格码、不做后期。MJ 每题出 4 张，固定取第 1 张参加对照。</li>
+    <li>每题使用相同中文题面和请求画幅；Lovart 底层提示词未公开，实际出图比例可能偏离；不用参考图、不加个人风格码、不做后期。MJ 每题出 4 张，固定取第 1 张参加对照。</li>
     <li>「很喜欢 / 可以用」是娜娜在匿名状态下的个人评分，只代表她的口味；没标记不等于不好。</li>
     <li>想自己先盲猜：打开下面的「盲测模式」，模型名会换成 A–F。</li>
   </ul>
@@ -135,13 +136,13 @@ function render() {
     const idx = blind ? order(s.id) : [0, 1, 2, 3, 4, 5];
     return `<section class="style" id="s${s.id}">
       <div class="style-head"><span class="num px">${s.id}</span><h3 class="px">${esc(s.name)}</h3><span class="meta">画幅 ${s.ratio} · 看点：${esc(s.focus)}</span></div>
-      <div class="prompt"><span class="lab px">提示词</span>${esc(s.prompt)}<button class="chip copy" data-copy="${esc(s.prompt)}">复制</button></div>
+      <div class="prompt"><span class="lab px">公共题面</span>${esc(s.prompt)}<button class="chip copy" data-copy="${esc(s.prompt)}">复制</button></div>
       <div class="grid ${blind ? 'blinded' : ''}">${idx.map((k, pos) => { const m = s.models[k];
         const dim = !blind && filter !== 'ALL' && filter !== m.id ? ' dim' : '';
         return `<figure class="card${m.like === '很喜欢' && !blind ? ' love' : ''}${dim}" data-s="${s.id}" data-m="${k}" style="margin:0">
           <div class="ph"><img loading="lazy" src="${m.thumb}" alt="${esc(s.name)} · ${blind ? LET[pos] : esc(m.name)}"></div>
           <figcaption class="cap"><div><div class="mname" data-letter="${LET[pos]}">${esc(m.name)}</div><div class="plat">${esc(m.platform)} · 原图 ${m.w}×${m.h}</div></div>
-          <div class="badges">${m.like ? `<span class="tag ${m.like === '很喜欢' ? 'love' : 'ok'}">${m.like === '很喜欢' ? '♥ ' : ''}${m.like}</span>` : ''}${m.fit ? '<br><span class="tag">画风到位</span>' : ''}</div></figcaption></figure>`; }).join('')}</div>
+          <div class="badges">${m.like ? `<span class="tag ${m.like === '很喜欢' ? 'love' : 'ok'}">${m.like === '很喜欢' ? '♥ ' : ''}${m.like}</span>` : ''}${m.fit ? '<br><span class="tag">画风到位</span>' : ''}</div></figcaption><details class="model-prompt"><summary>${m.promptDiffersFromCommon ? '与公共题面不同' : '与公共题面相同'} · ${m.promptStatus === 'verified_execution' ? '运行原文已核实' : '代理提交题面，底层原文未知'}</summary><p>${esc(m.prompt)}</p><p>${esc(m.promptStatus === 'verified_execution' ? '参数：' + JSON.stringify(m.parameters) : '请求模型：' + m.parameters.requestedModel + '；请求画幅：' + m.parameters.requestedRatio + '；底层 prompt / seed / cfg / 重试：未知')}</p><p>原始输出：${m.sourceImage.width}×${m.sourceImage.height}</p><button class="chip" data-copy="${esc(m.prompt)}">复制提示词</button> <a href="${m.evidence.file}" target="_blank">提交记录</a>${m.evidence.resultFile ? ` · <a href="${m.evidence.resultFile}" target="_blank">结果记录</a>` : ''}</details></figure>`; }).join('')}</div>
       <a class="sheet-link" href="${s.sheet}" target="_blank">↓ 本题带模型名的对照大图</a>
     </section>`;
   }).join('');
@@ -167,7 +168,18 @@ function show(si, mi) {
 }
 document.getElementById('styles').addEventListener('click', (e) => {
   const c = e.target.closest('[data-copy]');
-  if (c) { navigator.clipboard?.writeText(c.dataset.copy); c.textContent = '已复制'; setTimeout(() => (c.textContent = '复制'), 1200); return; }
+  if (c) {
+    const label = c.textContent;
+    (async () => {
+      try {
+        try { await navigator.clipboard.writeText(c.dataset.copy); }
+        catch { const t = document.createElement('textarea'); t.value = c.dataset.copy; t.style.position = 'fixed'; document.body.appendChild(t); t.select(); const ok = document.execCommand('copy'); t.remove(); if (!ok) throw new Error('copy failed'); }
+        c.textContent = '已复制';
+      } catch { c.textContent = '复制失败，请展开后手动复制'; }
+      setTimeout(() => (c.textContent = label), 1800);
+    })(); return;
+  }
+  if (e.target.closest('.model-prompt')) return;
   const f = e.target.closest('.card'); if (!f) return;
   show(D.findIndex((s) => s.id === f.dataset.s), +f.dataset.m);
 });

@@ -16,7 +16,37 @@
     "w": 1344,
     "h": 896,
     "full": "images/full/01-MJ82.jpg",
-    "thumb": "images/thumb/01-MJ82.jpg"
+    "thumb": "images/thumb/01-MJ82.jpg",
+    "sourceImage": {
+     "url": "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976018137_71b20b72d00f4c70add084b5e30f6abf.png",
+     "width": 1344,
+     "height": 896
+    },
+    "prompt": "自然纪实摄影。清晨菜市场，摊主把一袋青菜递给顾客，侧面的日光穿过遮雨棚，表情与动作自然。画风重点：生活瞬间、自然光、真实皮肤与衣料。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "verified_execution",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "model": "Style Image V8.2",
+     "count": 4,
+     "modeType": "text2image",
+     "settings": {
+      "quality": "auto",
+      "ratio": "3:2"
+     },
+     "advancedSettings": {
+      "personalisation": "",
+      "stylize": 100,
+      "weird": 0,
+      "chaos": 0
+     }
+    },
+    "evidence": {
+     "file": "assets/provenance/MJ82-executions.json",
+     "nodeKey": "5a5c83ea-69e0-4ab9-8a1b-dc8edd8d5791",
+     "taskId": "20261022083703293544106",
+     "projectId": "e6e972f302324aae8d9b8a868d70be0f",
+     "returnedIndex": 1
+    }
    },
    {
     "id": "GPT",
@@ -27,7 +57,31 @@
     "w": 2016,
     "h": 1344,
     "full": "images/full/01-GPT.jpg",
-    "thumb": "images/thumb/01-GPT.jpg"
+    "thumb": "images/thumb/01-GPT.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/eJs4WN4twU3ghhhL.png",
+     "width": 2016,
+     "height": 1344
+    },
+    "prompt": "自然纪实摄影。清晨菜市场，摊主把一袋青菜递给顾客，侧面的日光穿过遮雨棚，表情与动作自然。画风重点：生活瞬间、自然光、真实皮肤与衣料。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_gpt_image_2_high",
+     "requestedRatio": "3:2",
+     "requestedCount": 1,
+     "quality": "high (requested; platform reported)",
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/GPT-submission.txt",
+     "resultFile": "assets/provenance/GPT-result.json",
+     "threadId": "8172608a-6903-47b0-8cc4-0c38b989478a",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "NBP",
@@ -38,7 +92,31 @@
     "w": 1264,
     "h": 848,
     "full": "images/full/01-NBP.jpg",
-    "thumb": "images/thumb/01-NBP.jpg"
+    "thumb": "images/thumb/01-NBP.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/rbXqphlcirBR83t5.png",
+     "width": 1264,
+     "height": 848
+    },
+    "prompt": "自然纪实摄影。清晨菜市场，摊主把一袋青菜递给顾客，侧面的日光穿过遮雨棚，表情与动作自然。画风重点：生活瞬间、自然光、真实皮肤与衣料。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_nano_banana_pro",
+     "requestedRatio": "3:2",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/NBP-submission.txt",
+     "resultFile": "assets/provenance/NBP-result.json",
+     "threadId": "e664abf1-2146-4576-9933-416d0626ce32",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "SD",
@@ -49,7 +127,31 @@
     "w": 1248,
     "h": 832,
     "full": "images/full/01-SD.jpg",
-    "thumb": "images/thumb/01-SD.jpg"
+    "thumb": "images/thumb/01-SD.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/RzTNRsXTS1CANsVR.png",
+     "width": 1248,
+     "height": 832
+    },
+    "prompt": "自然纪实摄影。清晨菜市场，摊主把一袋青菜递给顾客，侧面的日光穿过遮雨棚，表情与动作自然。画风重点：生活瞬间、自然光、真实皮肤与衣料。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_seedream_v5_pro",
+     "requestedRatio": "3:2",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/SD-submission.txt",
+     "resultFile": "assets/provenance/SD-result.json",
+     "threadId": "1f23f2b4-9d17-4f5a-9b1f-4c38881cf438",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "FLUX",
@@ -60,7 +162,31 @@
     "w": 1024,
     "h": 672,
     "full": "images/full/01-FLUX.jpg",
-    "thumb": "images/thumb/01-FLUX.jpg"
+    "thumb": "images/thumb/01-FLUX.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/iMgN1gP99DubKAy9.jpeg",
+     "width": 1024,
+     "height": 672
+    },
+    "prompt": "自然纪实摄影。清晨菜市场，摊主把一袋青菜递给顾客，侧面的日光穿过遮雨棚，表情与动作自然。画风重点：生活瞬间、自然光、真实皮肤与衣料。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_flux_2_max",
+     "requestedRatio": "3:2",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/FLUX-submission.txt",
+     "resultFile": "assets/provenance/FLUX-result.json",
+     "threadId": "0cacc718-6f4d-4c39-98ab-4c4bf16dcca4",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "LUMA",
@@ -71,7 +197,31 @@
     "w": 2464,
     "h": 1632,
     "full": "images/full/01-LUMA.jpg",
-    "thumb": "images/thumb/01-LUMA.jpg"
+    "thumb": "images/thumb/01-LUMA.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/q9UiPJxeZ32S4W1v.png",
+     "width": 2464,
+     "height": 1632
+    },
+    "prompt": "自然纪实摄影。清晨菜市场，摊主把一袋青菜递给顾客，侧面的日光穿过遮雨棚，表情与动作自然。画风重点：生活瞬间、自然光、真实皮肤与衣料。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_luma_uni_1_max",
+     "requestedRatio": "3:2",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/LUMA-submission.txt",
+     "resultFile": "assets/provenance/LUMA-result.json",
+     "threadId": "cc3806d4-ab83-4e65-84a1-8a24ada31047",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    }
   ],
   "sheet": "sheets/01-自然纪实摄影.jpg"
@@ -93,7 +243,37 @@
     "w": 928,
     "h": 1232,
     "full": "images/full/02-MJ82.jpg",
-    "thumb": "images/thumb/02-MJ82.jpg"
+    "thumb": "images/thumb/02-MJ82.jpg",
+    "sourceImage": {
+     "url": "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976016842_3e00b204efa54f5ea18845190bcb000c.png",
+     "width": 928,
+     "height": 1232
+    },
+    "prompt": "高级时尚大片。成年女性模特穿黑色雕塑感高级定制礼服，站在奶油色弧形楼梯平台，造型利落，服装廓形是主体。画风重点：造型、廓形、精确布光与版面感。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "verified_execution",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "model": "Style Image V8.2",
+     "count": 4,
+     "modeType": "text2image",
+     "settings": {
+      "quality": "auto",
+      "ratio": "3:4"
+     },
+     "advancedSettings": {
+      "personalisation": "",
+      "stylize": 100,
+      "weird": 0,
+      "chaos": 0
+     }
+    },
+    "evidence": {
+     "file": "assets/provenance/MJ82-executions.json",
+     "nodeKey": "7bd93bdd-efd9-42d1-b32f-499705bf6074",
+     "taskId": "20261022083403201244106",
+     "projectId": "e6e972f302324aae8d9b8a868d70be0f",
+     "returnedIndex": 1
+    }
    },
    {
     "id": "GPT",
@@ -104,7 +284,31 @@
     "w": 1536,
     "h": 2048,
     "full": "images/full/02-GPT.jpg",
-    "thumb": "images/thumb/02-GPT.jpg"
+    "thumb": "images/thumb/02-GPT.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/yuY3dzRyWjAgUqsm.png",
+     "width": 1536,
+     "height": 2048
+    },
+    "prompt": "高级时尚大片。成年女性模特穿黑色雕塑感高级定制礼服，站在奶油色弧形楼梯平台，造型利落，服装廓形是主体。画风重点：造型、廓形、精确布光与版面感。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_gpt_image_2_high",
+     "requestedRatio": "3:4",
+     "requestedCount": 1,
+     "quality": "high (requested; platform reported)",
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/GPT-submission.txt",
+     "resultFile": "assets/provenance/GPT-result.json",
+     "threadId": "8172608a-6903-47b0-8cc4-0c38b989478a",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "NBP",
@@ -115,7 +319,31 @@
     "w": 896,
     "h": 1200,
     "full": "images/full/02-NBP.jpg",
-    "thumb": "images/thumb/02-NBP.jpg"
+    "thumb": "images/thumb/02-NBP.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/ZgiXqV2sOR5KTrCm.png",
+     "width": 896,
+     "height": 1200
+    },
+    "prompt": "高级时尚大片。成年女性模特穿黑色雕塑感高级定制礼服，站在奶油色弧形楼梯平台，造型利落，服装廓形是主体。画风重点：造型、廓形、精确布光与版面感。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_nano_banana_pro",
+     "requestedRatio": "3:4",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/NBP-submission.txt",
+     "resultFile": "assets/provenance/NBP-result.json",
+     "threadId": "e664abf1-2146-4576-9933-416d0626ce32",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "SD",
@@ -126,7 +354,31 @@
     "w": 864,
     "h": 1152,
     "full": "images/full/02-SD.jpg",
-    "thumb": "images/thumb/02-SD.jpg"
+    "thumb": "images/thumb/02-SD.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/cHek8sBaQ8ZlHfT8.png",
+     "width": 864,
+     "height": 1152
+    },
+    "prompt": "高级时尚大片。成年女性模特穿黑色雕塑感高级定制礼服，站在奶油色弧形楼梯平台，造型利落，服装廓形是主体。画风重点：造型、廓形、精确布光与版面感。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_seedream_v5_pro",
+     "requestedRatio": "3:4",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/SD-submission.txt",
+     "resultFile": "assets/provenance/SD-result.json",
+     "threadId": "1f23f2b4-9d17-4f5a-9b1f-4c38881cf438",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "FLUX",
@@ -137,7 +389,31 @@
     "w": 768,
     "h": 1024,
     "full": "images/full/02-FLUX.jpg",
-    "thumb": "images/thumb/02-FLUX.jpg"
+    "thumb": "images/thumb/02-FLUX.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/7NaFdwwyJcEc0ngg.jpeg",
+     "width": 768,
+     "height": 1024
+    },
+    "prompt": "高级时尚大片。成年女性模特穿黑色雕塑感高级定制礼服，站在奶油色弧形楼梯平台，造型利落，服装廓形是主体。画风重点：造型、廓形、精确布光与版面感。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_flux_2_max",
+     "requestedRatio": "3:4",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/FLUX-submission.txt",
+     "resultFile": "assets/provenance/FLUX-result.json",
+     "threadId": "0cacc718-6f4d-4c39-98ab-4c4bf16dcca4",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "LUMA",
@@ -148,7 +424,31 @@
     "w": 1632,
     "h": 2464,
     "full": "images/full/02-LUMA.jpg",
-    "thumb": "images/thumb/02-LUMA.jpg"
+    "thumb": "images/thumb/02-LUMA.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/kZYHwrBeOF18UhKp.png",
+     "width": 1632,
+     "height": 2464
+    },
+    "prompt": "高级时尚大片。成年女性模特穿黑色雕塑感高级定制礼服，站在奶油色弧形楼梯平台，造型利落，服装廓形是主体。画风重点：造型、廓形、精确布光与版面感。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_luma_uni_1_max",
+     "requestedRatio": "3:4",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/LUMA-submission.txt",
+     "resultFile": "assets/provenance/LUMA-result.json",
+     "threadId": "cc3806d4-ab83-4e65-84a1-8a24ada31047",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    }
   ],
   "sheet": "sheets/02-高级时尚大片.jpg"
@@ -170,7 +470,37 @@
     "w": 1456,
     "h": 816,
     "full": "images/full/03-MJ82.jpg",
-    "thumb": "images/thumb/03-MJ82.jpg"
+    "thumb": "images/thumb/03-MJ82.jpg",
+    "sourceImage": {
+     "url": "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976018138_163db235db604183997af6095dbbee26.png",
+     "width": 1456,
+     "height": 816
+    },
+    "prompt": "电影叙事剧照。雨后的夜间小站，末班列车刚离开，一名成年旅人拎旧皮箱站在暖色站灯下，湿地面映出尾灯。画风重点：单帧叙事、人物与环境、光源动机。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "verified_execution",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "model": "Style Image V8.2",
+     "count": 4,
+     "modeType": "text2image",
+     "settings": {
+      "quality": "auto",
+      "ratio": "16:9"
+     },
+     "advancedSettings": {
+      "personalisation": "",
+      "stylize": 100,
+      "weird": 0,
+      "chaos": 0
+     }
+    },
+    "evidence": {
+     "file": "assets/provenance/MJ82-executions.json",
+     "nodeKey": "547bdacc-40a9-4336-a206-c81f2c6d7d16",
+     "taskId": "20261022083703446204106",
+     "projectId": "e6e972f302324aae8d9b8a868d70be0f",
+     "returnedIndex": 1
+    }
    },
    {
     "id": "GPT",
@@ -181,7 +511,31 @@
     "w": 2048,
     "h": 1152,
     "full": "images/full/03-GPT.jpg",
-    "thumb": "images/thumb/03-GPT.jpg"
+    "thumb": "images/thumb/03-GPT.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/WqfY86jNIXIodA1a.png",
+     "width": 2048,
+     "height": 1152
+    },
+    "prompt": "电影叙事剧照。雨后的夜间小站，末班列车刚离开，一名成年旅人拎旧皮箱站在暖色站灯下，湿地面映出尾灯。画风重点：单帧叙事、人物与环境、光源动机。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_gpt_image_2_high",
+     "requestedRatio": "16:9",
+     "requestedCount": 1,
+     "quality": "high (requested; platform reported)",
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/GPT-submission.txt",
+     "resultFile": "assets/provenance/GPT-result.json",
+     "threadId": "8172608a-6903-47b0-8cc4-0c38b989478a",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "NBP",
@@ -192,7 +546,31 @@
     "w": 1376,
     "h": 768,
     "full": "images/full/03-NBP.jpg",
-    "thumb": "images/thumb/03-NBP.jpg"
+    "thumb": "images/thumb/03-NBP.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/xDFrXqZOpTVdh2Xa.png",
+     "width": 1376,
+     "height": 768
+    },
+    "prompt": "电影叙事剧照。雨后的夜间小站，末班列车刚离开，一名成年旅人拎旧皮箱站在暖色站灯下，湿地面映出尾灯。画风重点：单帧叙事、人物与环境、光源动机。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_nano_banana_pro",
+     "requestedRatio": "16:9",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/NBP-submission.txt",
+     "resultFile": "assets/provenance/NBP-result.json",
+     "threadId": "e664abf1-2146-4576-9933-416d0626ce32",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "SD",
@@ -203,7 +581,31 @@
     "w": 1424,
     "h": 800,
     "full": "images/full/03-SD.jpg",
-    "thumb": "images/thumb/03-SD.jpg"
+    "thumb": "images/thumb/03-SD.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/Vne2QO4EivFrt0C5.png",
+     "width": 1424,
+     "height": 800
+    },
+    "prompt": "电影叙事剧照。雨后的夜间小站，末班列车刚离开，一名成年旅人拎旧皮箱站在暖色站灯下，湿地面映出尾灯。画风重点：单帧叙事、人物与环境、光源动机。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_seedream_v5_pro",
+     "requestedRatio": "16:9",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/SD-submission.txt",
+     "resultFile": "assets/provenance/SD-result.json",
+     "threadId": "1f23f2b4-9d17-4f5a-9b1f-4c38881cf438",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "FLUX",
@@ -214,7 +616,31 @@
     "w": 1024,
     "h": 576,
     "full": "images/full/03-FLUX.jpg",
-    "thumb": "images/thumb/03-FLUX.jpg"
+    "thumb": "images/thumb/03-FLUX.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/T7mjI5dYTsGRX8Eb.jpeg",
+     "width": 1024,
+     "height": 576
+    },
+    "prompt": "电影叙事剧照。雨后的夜间小站，末班列车刚离开，一名成年旅人拎旧皮箱站在暖色站灯下，湿地面映出尾灯。画风重点：单帧叙事、人物与环境、光源动机。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_flux_2_max",
+     "requestedRatio": "16:9",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/FLUX-submission.txt",
+     "resultFile": "assets/provenance/FLUX-result.json",
+     "threadId": "0cacc718-6f4d-4c39-98ab-4c4bf16dcca4",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "LUMA",
@@ -225,7 +651,31 @@
     "w": 2672,
     "h": 1504,
     "full": "images/full/03-LUMA.jpg",
-    "thumb": "images/thumb/03-LUMA.jpg"
+    "thumb": "images/thumb/03-LUMA.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/ZObvY2qidvGMZGjH.png",
+     "width": 2672,
+     "height": 1504
+    },
+    "prompt": "电影叙事剧照。雨后的夜间小站，末班列车刚离开，一名成年旅人拎旧皮箱站在暖色站灯下，湿地面映出尾灯。画风重点：单帧叙事、人物与环境、光源动机。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_luma_uni_1_max",
+     "requestedRatio": "16:9",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/LUMA-submission.txt",
+     "resultFile": "assets/provenance/LUMA-result.json",
+     "threadId": "cc3806d4-ab83-4e65-84a1-8a24ada31047",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    }
   ],
   "sheet": "sheets/03-电影叙事剧照.jpg"
@@ -247,7 +697,37 @@
     "w": 1344,
     "h": 896,
     "full": "images/full/04-MJ82.jpg",
-    "thumb": "images/thumb/04-MJ82.jpg"
+    "thumb": "images/thumb/04-MJ82.jpg",
+    "sourceImage": {
+     "url": "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976018135_09a1e102ffef41c3b568857714a1def4.png",
+     "width": 1344,
+     "height": 896
+    },
+    "prompt": "复古胶片摄影。夏日海边公路休息区，两名成年朋友靠在旧敞篷车旁吃冰棍，阳光照着褪色遮阳伞与海风吹动的衣角。画风重点：胶片色彩、高光过渡、自然而非棚拍的气息。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "verified_execution",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "model": "Style Image V8.2",
+     "count": 4,
+     "modeType": "text2image",
+     "settings": {
+      "quality": "auto",
+      "ratio": "3:2"
+     },
+     "advancedSettings": {
+      "personalisation": "",
+      "stylize": 100,
+      "weird": 0,
+      "chaos": 0
+     }
+    },
+    "evidence": {
+     "file": "assets/provenance/MJ82-executions.json",
+     "nodeKey": "f9ca5d93-40a5-49db-99cb-15c94a44f95c",
+     "taskId": "20261022083703304914106",
+     "projectId": "e6e972f302324aae8d9b8a868d70be0f",
+     "returnedIndex": 1
+    }
    },
    {
     "id": "GPT",
@@ -258,7 +738,31 @@
     "w": 2016,
     "h": 1344,
     "full": "images/full/04-GPT.jpg",
-    "thumb": "images/thumb/04-GPT.jpg"
+    "thumb": "images/thumb/04-GPT.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/PtIwh1SqckJImS1k.png",
+     "width": 2016,
+     "height": 1344
+    },
+    "prompt": "复古胶片摄影。夏日海边公路休息区，两名成年朋友靠在旧敞篷车旁吃冰棍，阳光照着褪色遮阳伞与海风吹动的衣角。画风重点：胶片色彩、高光过渡、自然而非棚拍的气息。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_gpt_image_2_high",
+     "requestedRatio": "3:2",
+     "requestedCount": 1,
+     "quality": "high (requested; platform reported)",
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/GPT-submission.txt",
+     "resultFile": "assets/provenance/GPT-result.json",
+     "threadId": "8172608a-6903-47b0-8cc4-0c38b989478a",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "NBP",
@@ -269,7 +773,31 @@
     "w": 1264,
     "h": 848,
     "full": "images/full/04-NBP.jpg",
-    "thumb": "images/thumb/04-NBP.jpg"
+    "thumb": "images/thumb/04-NBP.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/aCysvMgg96jizoO3.png",
+     "width": 1264,
+     "height": 848
+    },
+    "prompt": "复古胶片摄影。夏日海边公路休息区，两名成年朋友靠在旧敞篷车旁吃冰棍，阳光照着褪色遮阳伞与海风吹动的衣角。画风重点：胶片色彩、高光过渡、自然而非棚拍的气息。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_nano_banana_pro",
+     "requestedRatio": "3:2",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/NBP-submission.txt",
+     "resultFile": "assets/provenance/NBP-result.json",
+     "threadId": "e664abf1-2146-4576-9933-416d0626ce32",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "SD",
@@ -280,7 +808,31 @@
     "w": 1248,
     "h": 832,
     "full": "images/full/04-SD.jpg",
-    "thumb": "images/thumb/04-SD.jpg"
+    "thumb": "images/thumb/04-SD.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/hF63YOajgk2leuc4.png",
+     "width": 1248,
+     "height": 832
+    },
+    "prompt": "复古胶片摄影。夏日海边公路休息区，两名成年朋友靠在旧敞篷车旁吃冰棍，阳光照着褪色遮阳伞与海风吹动的衣角。画风重点：胶片色彩、高光过渡、自然而非棚拍的气息。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_seedream_v5_pro",
+     "requestedRatio": "3:2",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/SD-submission.txt",
+     "resultFile": "assets/provenance/SD-result.json",
+     "threadId": "1f23f2b4-9d17-4f5a-9b1f-4c38881cf438",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "FLUX",
@@ -291,7 +843,31 @@
     "w": 1024,
     "h": 672,
     "full": "images/full/04-FLUX.jpg",
-    "thumb": "images/thumb/04-FLUX.jpg"
+    "thumb": "images/thumb/04-FLUX.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/NrCinfGdO12OyzUs.jpeg",
+     "width": 1024,
+     "height": 672
+    },
+    "prompt": "复古胶片摄影。夏日海边公路休息区，两名成年朋友靠在旧敞篷车旁吃冰棍，阳光照着褪色遮阳伞与海风吹动的衣角。画风重点：胶片色彩、高光过渡、自然而非棚拍的气息。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_flux_2_max",
+     "requestedRatio": "3:2",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/FLUX-submission.txt",
+     "resultFile": "assets/provenance/FLUX-result.json",
+     "threadId": "0cacc718-6f4d-4c39-98ab-4c4bf16dcca4",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "LUMA",
@@ -302,7 +878,31 @@
     "w": 2464,
     "h": 1632,
     "full": "images/full/04-LUMA.jpg",
-    "thumb": "images/thumb/04-LUMA.jpg"
+    "thumb": "images/thumb/04-LUMA.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/HxKRJsnWRuJ5E2yd.png",
+     "width": 2464,
+     "height": 1632
+    },
+    "prompt": "复古胶片摄影。夏日海边公路休息区，两名成年朋友靠在旧敞篷车旁吃冰棍，阳光照着褪色遮阳伞与海风吹动的衣角。画风重点：胶片色彩、高光过渡、自然而非棚拍的气息。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_luma_uni_1_max",
+     "requestedRatio": "3:2",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/LUMA-submission.txt",
+     "resultFile": "assets/provenance/LUMA-result.json",
+     "threadId": "cc3806d4-ab83-4e65-84a1-8a24ada31047",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    }
   ],
   "sheet": "sheets/04-复古胶片摄影.jpg"
@@ -324,7 +924,37 @@
     "w": 1232,
     "h": 928,
     "full": "images/full/05-MJ82.jpg",
-    "thumb": "images/thumb/05-MJ82.jpg"
+    "thumb": "images/thumb/05-MJ82.jpg",
+    "sourceImage": {
+     "url": "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976018757_22cb093e9a1c49e2a335d6e02e8909ae.png",
+     "width": 1232,
+     "height": 928
+    },
+    "prompt": "超现实商业摄影。一瓶无品牌柑橘香水悬在剖开的巨大橙子上方，橙皮像长丝带卷起，浅杏色背景，物体轮廓清晰。画风重点：产品主次、创意物理关系、材质与广告布光。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "verified_execution",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "model": "Style Image V8.2",
+     "count": 4,
+     "modeType": "text2image",
+     "settings": {
+      "quality": "auto",
+      "ratio": "4:3"
+     },
+     "advancedSettings": {
+      "personalisation": "",
+      "stylize": 100,
+      "weird": 0,
+      "chaos": 0
+     }
+    },
+    "evidence": {
+     "file": "assets/provenance/MJ82-executions.json",
+     "nodeKey": "de040316-57e3-405a-b49a-7421d6311c99",
+     "taskId": "20261022083803880544106",
+     "projectId": "e6e972f302324aae8d9b8a868d70be0f",
+     "returnedIndex": 1
+    }
    },
    {
     "id": "GPT",
@@ -335,7 +965,31 @@
     "w": 2048,
     "h": 1536,
     "full": "images/full/05-GPT.jpg",
-    "thumb": "images/thumb/05-GPT.jpg"
+    "thumb": "images/thumb/05-GPT.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/l6B0J1nnubGsGa6p.png",
+     "width": 2048,
+     "height": 1536
+    },
+    "prompt": "超现实商业摄影。一瓶无品牌柑橘香水悬在剖开的巨大橙子上方，橙皮像长丝带卷起，浅杏色背景，物体轮廓清晰。画风重点：产品主次、创意物理关系、材质与广告布光。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_gpt_image_2_high",
+     "requestedRatio": "4:3",
+     "requestedCount": 1,
+     "quality": "high (requested; platform reported)",
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/GPT-submission.txt",
+     "resultFile": "assets/provenance/GPT-result.json",
+     "threadId": "8172608a-6903-47b0-8cc4-0c38b989478a",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "NBP",
@@ -346,7 +1000,31 @@
     "w": 1200,
     "h": 896,
     "full": "images/full/05-NBP.jpg",
-    "thumb": "images/thumb/05-NBP.jpg"
+    "thumb": "images/thumb/05-NBP.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/vj8Ound9QB1r3dFw.png",
+     "width": 1200,
+     "height": 896
+    },
+    "prompt": "超现实商业摄影。一瓶无品牌柑橘香水悬在剖开的巨大橙子上方，橙皮像长丝带卷起，浅杏色背景，物体轮廓清晰。画风重点：产品主次、创意物理关系、材质与广告布光。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_nano_banana_pro",
+     "requestedRatio": "4:3",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/NBP-submission.txt",
+     "resultFile": "assets/provenance/NBP-result.json",
+     "threadId": "e664abf1-2146-4576-9933-416d0626ce32",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "SD",
@@ -357,7 +1035,31 @@
     "w": 1152,
     "h": 864,
     "full": "images/full/05-SD.jpg",
-    "thumb": "images/thumb/05-SD.jpg"
+    "thumb": "images/thumb/05-SD.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/lmOHaDTuVaIweZcZ.png",
+     "width": 1152,
+     "height": 864
+    },
+    "prompt": "超现实商业摄影。一瓶无品牌柑橘香水悬在剖开的巨大橙子上方，橙皮像长丝带卷起，浅杏色背景，物体轮廓清晰。画风重点：产品主次、创意物理关系、材质与广告布光。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_seedream_v5_pro",
+     "requestedRatio": "4:3",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/SD-submission.txt",
+     "resultFile": "assets/provenance/SD-result.json",
+     "threadId": "1f23f2b4-9d17-4f5a-9b1f-4c38881cf438",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "FLUX",
@@ -368,7 +1070,31 @@
     "w": 1024,
     "h": 768,
     "full": "images/full/05-FLUX.jpg",
-    "thumb": "images/thumb/05-FLUX.jpg"
+    "thumb": "images/thumb/05-FLUX.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/EWizzqyu3r9lTDqk.jpeg",
+     "width": 1024,
+     "height": 768
+    },
+    "prompt": "超现实商业摄影。一瓶无品牌柑橘香水悬在剖开的巨大橙子上方，橙皮像长丝带卷起，浅杏色背景，物体轮廓清晰。画风重点：产品主次、创意物理关系、材质与广告布光。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_flux_2_max",
+     "requestedRatio": "4:3",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/FLUX-submission.txt",
+     "resultFile": "assets/provenance/FLUX-result.json",
+     "threadId": "0cacc718-6f4d-4c39-98ab-4c4bf16dcca4",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "LUMA",
@@ -379,7 +1105,31 @@
     "w": 2464,
     "h": 1632,
     "full": "images/full/05-LUMA.jpg",
-    "thumb": "images/thumb/05-LUMA.jpg"
+    "thumb": "images/thumb/05-LUMA.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/dNw2AqQRsa2QlyI7.png",
+     "width": 2464,
+     "height": 1632
+    },
+    "prompt": "超现实商业摄影。一瓶无品牌柑橘香水悬在剖开的巨大橙子上方，橙皮像长丝带卷起，浅杏色背景，物体轮廓清晰。画风重点：产品主次、创意物理关系、材质与广告布光。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_luma_uni_1_max",
+     "requestedRatio": "4:3",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/LUMA-submission.txt",
+     "resultFile": "assets/provenance/LUMA-result.json",
+     "threadId": "cc3806d4-ab83-4e65-84a1-8a24ada31047",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    }
   ],
   "sheet": "sheets/05-超现实商业摄影.jpg"
@@ -401,7 +1151,37 @@
     "w": 928,
     "h": 1232,
     "full": "images/full/06-MJ82.jpg",
-    "thumb": "images/thumb/06-MJ82.jpg"
+    "thumb": "images/thumb/06-MJ82.jpg",
+    "sourceImage": {
+     "url": "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976018760_f1badbd765084fe0bc2f8ae3c52e8587.png",
+     "width": 928,
+     "height": 1232
+    },
+    "prompt": "电影级写实CG。成年银甲女骑士走进巨大的废弃天文殿，破碎星盘悬在穹顶下，冷光照出铠甲、石材与轻薄披风。画风重点：角色设计、真实材质、空间尺度与CG表现。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "verified_execution",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "model": "Style Image V8.2",
+     "count": 4,
+     "modeType": "text2image",
+     "settings": {
+      "quality": "auto",
+      "ratio": "3:4"
+     },
+     "advancedSettings": {
+      "personalisation": "",
+      "stylize": 100,
+      "weird": 0,
+      "chaos": 0
+     }
+    },
+    "evidence": {
+     "file": "assets/provenance/MJ82-executions.json",
+     "nodeKey": "35368b5b-3faa-43ff-8869-54aa3b1ffeb9",
+     "taskId": "20261022083803123474106",
+     "projectId": "e6e972f302324aae8d9b8a868d70be0f",
+     "returnedIndex": 1
+    }
    },
    {
     "id": "GPT",
@@ -412,7 +1192,31 @@
     "w": 1536,
     "h": 2048,
     "full": "images/full/06-GPT.jpg",
-    "thumb": "images/thumb/06-GPT.jpg"
+    "thumb": "images/thumb/06-GPT.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/ZG9YItBtmbLw4inJ.png",
+     "width": 1536,
+     "height": 2048
+    },
+    "prompt": "电影级写实CG。成年银甲女骑士走进巨大的废弃天文殿，破碎星盘悬在穹顶下，冷光照出铠甲、石材与轻薄披风。画风重点：角色设计、真实材质、空间尺度与CG表现。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_gpt_image_2_high",
+     "requestedRatio": "3:4",
+     "requestedCount": 1,
+     "quality": "high (requested; platform reported)",
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/GPT-submission.txt",
+     "resultFile": "assets/provenance/GPT-result.json",
+     "threadId": "8172608a-6903-47b0-8cc4-0c38b989478a",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "NBP",
@@ -423,7 +1227,31 @@
     "w": 896,
     "h": 1200,
     "full": "images/full/06-NBP.jpg",
-    "thumb": "images/thumb/06-NBP.jpg"
+    "thumb": "images/thumb/06-NBP.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/XJPTnWHzeg8if1Lq.png",
+     "width": 896,
+     "height": 1200
+    },
+    "prompt": "电影级写实CG。成年银甲女骑士走进巨大的废弃天文殿，破碎星盘悬在穹顶下，冷光照出铠甲、石材与轻薄披风。画风重点：角色设计、真实材质、空间尺度与CG表现。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_nano_banana_pro",
+     "requestedRatio": "3:4",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/NBP-submission.txt",
+     "resultFile": "assets/provenance/NBP-result.json",
+     "threadId": "e664abf1-2146-4576-9933-416d0626ce32",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "SD",
@@ -434,7 +1262,31 @@
     "w": 864,
     "h": 1152,
     "full": "images/full/06-SD.jpg",
-    "thumb": "images/thumb/06-SD.jpg"
+    "thumb": "images/thumb/06-SD.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/X2EIGjyy5X3yj3yk.png",
+     "width": 864,
+     "height": 1152
+    },
+    "prompt": "电影级写实CG。成年银甲女骑士走进巨大的废弃天文殿，破碎星盘悬在穹顶下，冷光照出铠甲、石材与轻薄披风。画风重点：角色设计、真实材质、空间尺度与CG表现。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_seedream_v5_pro",
+     "requestedRatio": "3:4",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/SD-submission.txt",
+     "resultFile": "assets/provenance/SD-result.json",
+     "threadId": "1f23f2b4-9d17-4f5a-9b1f-4c38881cf438",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "FLUX",
@@ -445,7 +1297,31 @@
     "w": 768,
     "h": 1024,
     "full": "images/full/06-FLUX.jpg",
-    "thumb": "images/thumb/06-FLUX.jpg"
+    "thumb": "images/thumb/06-FLUX.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/2XR6WylyNB49evri.jpeg",
+     "width": 768,
+     "height": 1024
+    },
+    "prompt": "电影级写实CG。成年银甲女骑士走进巨大的废弃天文殿，破碎星盘悬在穹顶下，冷光照出铠甲、石材与轻薄披风。画风重点：角色设计、真实材质、空间尺度与CG表现。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_flux_2_max",
+     "requestedRatio": "3:4",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/FLUX-submission.txt",
+     "resultFile": "assets/provenance/FLUX-result.json",
+     "threadId": "0cacc718-6f4d-4c39-98ab-4c4bf16dcca4",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "LUMA",
@@ -456,7 +1332,31 @@
     "w": 1632,
     "h": 2464,
     "full": "images/full/06-LUMA.jpg",
-    "thumb": "images/thumb/06-LUMA.jpg"
+    "thumb": "images/thumb/06-LUMA.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/fsHDlwKstLK01xrs.png",
+     "width": 1632,
+     "height": 2464
+    },
+    "prompt": "电影级写实CG。成年银甲女骑士走进巨大的废弃天文殿，破碎星盘悬在穹顶下，冷光照出铠甲、石材与轻薄披风。画风重点：角色设计、真实材质、空间尺度与CG表现。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_luma_uni_1_max",
+     "requestedRatio": "3:4",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/LUMA-submission.txt",
+     "resultFile": "assets/provenance/LUMA-result.json",
+     "threadId": "cc3806d4-ab83-4e65-84a1-8a24ada31047",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    }
   ],
   "sheet": "sheets/06-电影级写实CG.jpg"
@@ -478,7 +1378,37 @@
     "w": 1232,
     "h": 928,
     "full": "images/full/07-MJ82.jpg",
-    "thumb": "images/thumb/07-MJ82.jpg"
+    "thumb": "images/thumb/07-MJ82.jpg",
+    "sourceImage": {
+     "url": "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976018919_b7112155f0eb4fc797cc58146fd4a959.png",
+     "width": 1232,
+     "height": 928
+    },
+    "prompt": "风格化3D动画。圆滚滚的小松鼠邮差披着宽大雨衣，在蘑菇屋门口踮脚把信塞进高高的信箱，造型夸张可爱。画风重点：三维体积、造型概括、表情与动作。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "verified_execution",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "model": "Style Image V8.2",
+     "count": 4,
+     "modeType": "text2image",
+     "settings": {
+      "quality": "auto",
+      "ratio": "4:3"
+     },
+     "advancedSettings": {
+      "personalisation": "",
+      "stylize": 100,
+      "weird": 0,
+      "chaos": 0
+     }
+    },
+    "evidence": {
+     "file": "assets/provenance/MJ82-executions.json",
+     "nodeKey": "716e1d4a-708e-43db-80b2-9f5d7d4324ab",
+     "taskId": "20261022083903487324106",
+     "projectId": "e6e972f302324aae8d9b8a868d70be0f",
+     "returnedIndex": 1
+    }
    },
    {
     "id": "GPT",
@@ -489,7 +1419,31 @@
     "w": 2048,
     "h": 1536,
     "full": "images/full/07-GPT.jpg",
-    "thumb": "images/thumb/07-GPT.jpg"
+    "thumb": "images/thumb/07-GPT.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/uPXLOJQLWzAup5yz.png",
+     "width": 2048,
+     "height": 1536
+    },
+    "prompt": "风格化3D动画。圆滚滚的小松鼠邮差披着宽大雨衣，在蘑菇屋门口踮脚把信塞进高高的信箱，造型夸张可爱。画风重点：三维体积、造型概括、表情与动作。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_gpt_image_2_high",
+     "requestedRatio": "4:3",
+     "requestedCount": 1,
+     "quality": "high (requested; platform reported)",
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/GPT-submission.txt",
+     "resultFile": "assets/provenance/GPT-result.json",
+     "threadId": "8172608a-6903-47b0-8cc4-0c38b989478a",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "NBP",
@@ -500,7 +1454,31 @@
     "w": 1200,
     "h": 896,
     "full": "images/full/07-NBP.jpg",
-    "thumb": "images/thumb/07-NBP.jpg"
+    "thumb": "images/thumb/07-NBP.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/w95Pmrw4KgHfrxkT.png",
+     "width": 1200,
+     "height": 896
+    },
+    "prompt": "风格化3D动画。圆滚滚的小松鼠邮差披着宽大雨衣，在蘑菇屋门口踮脚把信塞进高高的信箱，造型夸张可爱。画风重点：三维体积、造型概括、表情与动作。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_nano_banana_pro",
+     "requestedRatio": "4:3",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/NBP-submission.txt",
+     "resultFile": "assets/provenance/NBP-result.json",
+     "threadId": "e664abf1-2146-4576-9933-416d0626ce32",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "SD",
@@ -511,7 +1489,31 @@
     "w": 1152,
     "h": 864,
     "full": "images/full/07-SD.jpg",
-    "thumb": "images/thumb/07-SD.jpg"
+    "thumb": "images/thumb/07-SD.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/5O7VAX0MtX48RvY7.png",
+     "width": 1152,
+     "height": 864
+    },
+    "prompt": "风格化3D动画。圆滚滚的小松鼠邮差披着宽大雨衣，在蘑菇屋门口踮脚把信塞进高高的信箱，造型夸张可爱。画风重点：三维体积、造型概括、表情与动作。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_seedream_v5_pro",
+     "requestedRatio": "4:3",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/SD-submission.txt",
+     "resultFile": "assets/provenance/SD-result.json",
+     "threadId": "1f23f2b4-9d17-4f5a-9b1f-4c38881cf438",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "FLUX",
@@ -522,7 +1524,31 @@
     "w": 1024,
     "h": 768,
     "full": "images/full/07-FLUX.jpg",
-    "thumb": "images/thumb/07-FLUX.jpg"
+    "thumb": "images/thumb/07-FLUX.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/5nMzHjEbyeFukOl2.jpeg",
+     "width": 1024,
+     "height": 768
+    },
+    "prompt": "风格化3D动画。圆滚滚的小松鼠邮差披着宽大雨衣，在蘑菇屋门口踮脚把信塞进高高的信箱，造型夸张可爱。画风重点：三维体积、造型概括、表情与动作。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_flux_2_max",
+     "requestedRatio": "4:3",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/FLUX-submission.txt",
+     "resultFile": "assets/provenance/FLUX-result.json",
+     "threadId": "0cacc718-6f4d-4c39-98ab-4c4bf16dcca4",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "LUMA",
@@ -533,7 +1559,31 @@
     "w": 2464,
     "h": 1632,
     "full": "images/full/07-LUMA.jpg",
-    "thumb": "images/thumb/07-LUMA.jpg"
+    "thumb": "images/thumb/07-LUMA.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/3p0sicgkh7FsVAcm.png",
+     "width": 2464,
+     "height": 1632
+    },
+    "prompt": "风格化3D动画。圆滚滚的小松鼠邮差披着宽大雨衣，在蘑菇屋门口踮脚把信塞进高高的信箱，造型夸张可爱。画风重点：三维体积、造型概括、表情与动作。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_luma_uni_1_max",
+     "requestedRatio": "4:3",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/LUMA-submission.txt",
+     "resultFile": "assets/provenance/LUMA-result.json",
+     "threadId": "cc3806d4-ab83-4e65-84a1-8a24ada31047",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    }
   ],
   "sheet": "sheets/07-风格化3D动画.jpg"
@@ -555,7 +1605,37 @@
     "w": 1232,
     "h": 928,
     "full": "images/full/08-MJ82.jpg",
-    "thumb": "images/thumb/08-MJ82.jpg"
+    "thumb": "images/thumb/08-MJ82.jpg",
+    "sourceImage": {
+     "url": "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976019411_d4048a720a3b450f933f3291e1ea955e.png",
+     "width": 1232,
+     "height": 928
+    },
+    "prompt": "黏土定格。一只系围裙的圆脸猫在微型面包房揉面，面团、烤炉、围裙和面包全部是哑光黏土，留有压痕与手工痕迹。画风重点：真正的黏土材质、手工感、定格布景。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "verified_execution",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "model": "Style Image V8.2",
+     "count": 4,
+     "modeType": "text2image",
+     "settings": {
+      "quality": "auto",
+      "ratio": "4:3"
+     },
+     "advancedSettings": {
+      "personalisation": "",
+      "stylize": 100,
+      "weird": 0,
+      "chaos": 0
+     }
+    },
+    "evidence": {
+     "file": "assets/provenance/MJ82-executions.json",
+     "nodeKey": "51e9ae50-53f5-4089-90cb-3b0221dcee75",
+     "taskId": "20261022084003384204106",
+     "projectId": "e6e972f302324aae8d9b8a868d70be0f",
+     "returnedIndex": 1
+    }
    },
    {
     "id": "GPT",
@@ -566,7 +1646,31 @@
     "w": 2048,
     "h": 1536,
     "full": "images/full/08-GPT.jpg",
-    "thumb": "images/thumb/08-GPT.jpg"
+    "thumb": "images/thumb/08-GPT.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/oMyMvmh2H9AtJ0QI.png",
+     "width": 2048,
+     "height": 1536
+    },
+    "prompt": "黏土定格。一只系围裙的圆脸猫在微型面包房揉面，面团、烤炉、围裙和面包全部是哑光黏土，留有压痕与手工痕迹。画风重点：真正的黏土材质、手工感、定格布景。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_gpt_image_2_high",
+     "requestedRatio": "4:3",
+     "requestedCount": 1,
+     "quality": "high (requested; platform reported)",
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/GPT-submission.txt",
+     "resultFile": "assets/provenance/GPT-result.json",
+     "threadId": "8172608a-6903-47b0-8cc4-0c38b989478a",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "NBP",
@@ -577,7 +1681,31 @@
     "w": 1200,
     "h": 896,
     "full": "images/full/08-NBP.jpg",
-    "thumb": "images/thumb/08-NBP.jpg"
+    "thumb": "images/thumb/08-NBP.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/PSXLhIfN13Kh1mHF.png",
+     "width": 1200,
+     "height": 896
+    },
+    "prompt": "黏土定格。一只系围裙的圆脸猫在微型面包房揉面，面团、烤炉、围裙和面包全部是哑光黏土，留有压痕与手工痕迹。画风重点：真正的黏土材质、手工感、定格布景。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_nano_banana_pro",
+     "requestedRatio": "4:3",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/NBP-submission.txt",
+     "resultFile": "assets/provenance/NBP-result.json",
+     "threadId": "e664abf1-2146-4576-9933-416d0626ce32",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "SD",
@@ -588,7 +1716,31 @@
     "w": 1152,
     "h": 864,
     "full": "images/full/08-SD.jpg",
-    "thumb": "images/thumb/08-SD.jpg"
+    "thumb": "images/thumb/08-SD.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/DwXT4NU6DT3NyZr8.png",
+     "width": 1152,
+     "height": 864
+    },
+    "prompt": "黏土定格。一只系围裙的圆脸猫在微型面包房揉面，面团、烤炉、围裙和面包全部是哑光黏土，留有压痕与手工痕迹。画风重点：真正的黏土材质、手工感、定格布景。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_seedream_v5_pro",
+     "requestedRatio": "4:3",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/SD-submission.txt",
+     "resultFile": "assets/provenance/SD-result.json",
+     "threadId": "1f23f2b4-9d17-4f5a-9b1f-4c38881cf438",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "FLUX",
@@ -599,7 +1751,31 @@
     "w": 1024,
     "h": 768,
     "full": "images/full/08-FLUX.jpg",
-    "thumb": "images/thumb/08-FLUX.jpg"
+    "thumb": "images/thumb/08-FLUX.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/EiwaJY4Dd0IvbeVk.jpeg",
+     "width": 1024,
+     "height": 768
+    },
+    "prompt": "黏土定格。一只系围裙的圆脸猫在微型面包房揉面，面团、烤炉、围裙和面包全部是哑光黏土，留有压痕与手工痕迹。画风重点：真正的黏土材质、手工感、定格布景。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_flux_2_max",
+     "requestedRatio": "4:3",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/FLUX-submission.txt",
+     "resultFile": "assets/provenance/FLUX-result.json",
+     "threadId": "0cacc718-6f4d-4c39-98ab-4c4bf16dcca4",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "LUMA",
@@ -610,7 +1786,31 @@
     "w": 2464,
     "h": 1632,
     "full": "images/full/08-LUMA.jpg",
-    "thumb": "images/thumb/08-LUMA.jpg"
+    "thumb": "images/thumb/08-LUMA.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/KZTj4h6eJc8QtNCm.png",
+     "width": 2464,
+     "height": 1632
+    },
+    "prompt": "黏土定格。一只系围裙的圆脸猫在微型面包房揉面，面团、烤炉、围裙和面包全部是哑光黏土，留有压痕与手工痕迹。画风重点：真正的黏土材质、手工感、定格布景。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_luma_uni_1_max",
+     "requestedRatio": "4:3",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/LUMA-submission.txt",
+     "resultFile": "assets/provenance/LUMA-result.json",
+     "threadId": "cc3806d4-ab83-4e65-84a1-8a24ada31047",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    }
   ],
   "sheet": "sheets/08-黏土定格.jpg"
@@ -632,7 +1832,37 @@
     "w": 1456,
     "h": 816,
     "full": "images/full/09-MJ82.jpg",
-    "thumb": "images/thumb/09-MJ82.jpg"
+    "thumb": "images/thumb/09-MJ82.jpg",
+    "sourceImage": {
+     "url": "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976019506_ab691d8277f645d6860ec302125ca3d7.png",
+     "width": 1456,
+     "height": 816
+    },
+    "prompt": "纸艺立体场景。层层裁切的森林中，一只纸鹿站在弯曲溪流旁，鸟、树冠、河水和山峦都由折纸与纸片搭起。画风重点：纸边、折痕、叠层与投影，而非普通山水CG。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "verified_execution",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "model": "Style Image V8.2",
+     "count": 4,
+     "modeType": "text2image",
+     "settings": {
+      "quality": "auto",
+      "ratio": "16:9"
+     },
+     "advancedSettings": {
+      "personalisation": "",
+      "stylize": 100,
+      "weird": 0,
+      "chaos": 0
+     }
+    },
+    "evidence": {
+     "file": "assets/provenance/MJ82-executions.json",
+     "nodeKey": "3ffed850-89fa-4b5e-b7ed-1dad6e8ae2e5",
+     "taskId": "20261022084003864024106",
+     "projectId": "e6e972f302324aae8d9b8a868d70be0f",
+     "returnedIndex": 1
+    }
    },
    {
     "id": "GPT",
@@ -643,7 +1873,31 @@
     "w": 2048,
     "h": 1152,
     "full": "images/full/09-GPT.jpg",
-    "thumb": "images/thumb/09-GPT.jpg"
+    "thumb": "images/thumb/09-GPT.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/YPBiHdAs6S9qBrUq.png",
+     "width": 2048,
+     "height": 1152
+    },
+    "prompt": "纸艺立体场景。层层裁切的森林中，一只纸鹿站在弯曲溪流旁，鸟、树冠、河水和山峦都由折纸与纸片搭起。画风重点：纸边、折痕、叠层与投影，而非普通山水CG。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_gpt_image_2_high",
+     "requestedRatio": "16:9",
+     "requestedCount": 1,
+     "quality": "high (requested; platform reported)",
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/GPT-submission.txt",
+     "resultFile": "assets/provenance/GPT-result.json",
+     "threadId": "8172608a-6903-47b0-8cc4-0c38b989478a",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "NBP",
@@ -654,7 +1908,31 @@
     "w": 1376,
     "h": 768,
     "full": "images/full/09-NBP.jpg",
-    "thumb": "images/thumb/09-NBP.jpg"
+    "thumb": "images/thumb/09-NBP.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/nV8Z7MC2HVIqAeA6.png",
+     "width": 1376,
+     "height": 768
+    },
+    "prompt": "纸艺立体场景。层层裁切的森林中，一只纸鹿站在弯曲溪流旁，鸟、树冠、河水和山峦都由折纸与纸片搭起。画风重点：纸边、折痕、叠层与投影，而非普通山水CG。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_nano_banana_pro",
+     "requestedRatio": "16:9",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/NBP-submission.txt",
+     "resultFile": "assets/provenance/NBP-result.json",
+     "threadId": "e664abf1-2146-4576-9933-416d0626ce32",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "SD",
@@ -665,7 +1943,31 @@
     "w": 1424,
     "h": 800,
     "full": "images/full/09-SD.jpg",
-    "thumb": "images/thumb/09-SD.jpg"
+    "thumb": "images/thumb/09-SD.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/ZGJNiBkn452eVeqE.png",
+     "width": 1424,
+     "height": 800
+    },
+    "prompt": "纸艺立体场景。层层裁切的森林中，一只纸鹿站在弯曲溪流旁，鸟、树冠、河水和山峦都由折纸与纸片搭起。画风重点：纸边、折痕、叠层与投影，而非普通山水CG。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_seedream_v5_pro",
+     "requestedRatio": "16:9",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/SD-submission.txt",
+     "resultFile": "assets/provenance/SD-result.json",
+     "threadId": "1f23f2b4-9d17-4f5a-9b1f-4c38881cf438",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "FLUX",
@@ -676,7 +1978,31 @@
     "w": 1024,
     "h": 576,
     "full": "images/full/09-FLUX.jpg",
-    "thumb": "images/thumb/09-FLUX.jpg"
+    "thumb": "images/thumb/09-FLUX.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/pl5vkeJPqgHBD99y.jpeg",
+     "width": 1024,
+     "height": 576
+    },
+    "prompt": "纸艺立体场景。层层裁切的森林中，一只纸鹿站在弯曲溪流旁，鸟、树冠、河水和山峦都由折纸与纸片搭起。画风重点：纸边、折痕、叠层与投影，而非普通山水CG。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_flux_2_max",
+     "requestedRatio": "16:9",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/FLUX-submission.txt",
+     "resultFile": "assets/provenance/FLUX-result.json",
+     "threadId": "0cacc718-6f4d-4c39-98ab-4c4bf16dcca4",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "LUMA",
@@ -687,7 +2013,31 @@
     "w": 2672,
     "h": 1504,
     "full": "images/full/09-LUMA.jpg",
-    "thumb": "images/thumb/09-LUMA.jpg"
+    "thumb": "images/thumb/09-LUMA.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/1PEVNA1s1W3JCuMt.png",
+     "width": 2672,
+     "height": 1504
+    },
+    "prompt": "纸艺立体场景。层层裁切的森林中，一只纸鹿站在弯曲溪流旁，鸟、树冠、河水和山峦都由折纸与纸片搭起。画风重点：纸边、折痕、叠层与投影，而非普通山水CG。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_luma_uni_1_max",
+     "requestedRatio": "16:9",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/LUMA-submission.txt",
+     "resultFile": "assets/provenance/LUMA-result.json",
+     "threadId": "cc3806d4-ab83-4e65-84a1-8a24ada31047",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    }
   ],
   "sheet": "sheets/09-纸艺立体场景.jpg"
@@ -709,7 +2059,37 @@
     "w": 1232,
     "h": 928,
     "full": "images/full/10-MJ82.jpg",
-    "thumb": "images/thumb/10-MJ82.jpg"
+    "thumb": "images/thumb/10-MJ82.jpg",
+    "sourceImage": {
+     "url": "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976019596_290a49ead7f843a083ea4e44579bac32.png",
+     "width": 1232,
+     "height": 928
+    },
+    "prompt": "等距低多边形。一座小型灯塔港湾，码头、两艘帆船、坡道和三间彩色小屋组成清晰的等距场景，使用少量平整多边形面。画风重点：正交等距关系、明确多边形、统一尺度。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "verified_execution",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "model": "Style Image V8.2",
+     "count": 4,
+     "modeType": "text2image",
+     "settings": {
+      "quality": "auto",
+      "ratio": "4:3"
+     },
+     "advancedSettings": {
+      "personalisation": "",
+      "stylize": 100,
+      "weird": 0,
+      "chaos": 0
+     }
+    },
+    "evidence": {
+     "file": "assets/provenance/MJ82-executions.json",
+     "nodeKey": "a5e7b9db-449f-4bab-99c9-b2e3d116f33a",
+     "taskId": "20261022084003422514106",
+     "projectId": "e6e972f302324aae8d9b8a868d70be0f",
+     "returnedIndex": 1
+    }
    },
    {
     "id": "GPT",
@@ -720,7 +2100,31 @@
     "w": 2048,
     "h": 1536,
     "full": "images/full/10-GPT.jpg",
-    "thumb": "images/thumb/10-GPT.jpg"
+    "thumb": "images/thumb/10-GPT.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/Dhbkr16Qn9IjdsVP.png",
+     "width": 2048,
+     "height": 1536
+    },
+    "prompt": "等距低多边形。一座小型灯塔港湾，码头、两艘帆船、坡道和三间彩色小屋组成清晰的等距场景，使用少量平整多边形面。画风重点：正交等距关系、明确多边形、统一尺度。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_gpt_image_2_high",
+     "requestedRatio": "4:3",
+     "requestedCount": 1,
+     "quality": "high (requested; platform reported)",
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/GPT-submission.txt",
+     "resultFile": "assets/provenance/GPT-result.json",
+     "threadId": "8172608a-6903-47b0-8cc4-0c38b989478a",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "NBP",
@@ -731,7 +2135,31 @@
     "w": 1200,
     "h": 896,
     "full": "images/full/10-NBP.jpg",
-    "thumb": "images/thumb/10-NBP.jpg"
+    "thumb": "images/thumb/10-NBP.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/X46NfLXsJBKSrEyJ.png",
+     "width": 1200,
+     "height": 896
+    },
+    "prompt": "等距低多边形。一座小型灯塔港湾，码头、两艘帆船、坡道和三间彩色小屋组成清晰的等距场景，使用少量平整多边形面。画风重点：正交等距关系、明确多边形、统一尺度。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_nano_banana_pro",
+     "requestedRatio": "4:3",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/NBP-submission.txt",
+     "resultFile": "assets/provenance/NBP-result.json",
+     "threadId": "e664abf1-2146-4576-9933-416d0626ce32",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "SD",
@@ -742,7 +2170,31 @@
     "w": 1152,
     "h": 864,
     "full": "images/full/10-SD.jpg",
-    "thumb": "images/thumb/10-SD.jpg"
+    "thumb": "images/thumb/10-SD.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/T0Yw0n4bcrDgeX13.png",
+     "width": 1152,
+     "height": 864
+    },
+    "prompt": "等距低多边形。一座小型灯塔港湾，码头、两艘帆船、坡道和三间彩色小屋组成清晰的等距场景，使用少量平整多边形面。画风重点：正交等距关系、明确多边形、统一尺度。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_seedream_v5_pro",
+     "requestedRatio": "4:3",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/SD-submission.txt",
+     "resultFile": "assets/provenance/SD-result.json",
+     "threadId": "1f23f2b4-9d17-4f5a-9b1f-4c38881cf438",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "FLUX",
@@ -753,7 +2205,31 @@
     "w": 1024,
     "h": 768,
     "full": "images/full/10-FLUX.jpg",
-    "thumb": "images/thumb/10-FLUX.jpg"
+    "thumb": "images/thumb/10-FLUX.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/GcM08e5tmr2sF0iT.jpeg",
+     "width": 1024,
+     "height": 768
+    },
+    "prompt": "等距低多边形。一座小型灯塔港湾，码头、两艘帆船、坡道和三间彩色小屋组成清晰的等距场景，使用少量平整多边形面。画风重点：正交等距关系、明确多边形、统一尺度。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_flux_2_max",
+     "requestedRatio": "4:3",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/FLUX-submission.txt",
+     "resultFile": "assets/provenance/FLUX-result.json",
+     "threadId": "0cacc718-6f4d-4c39-98ab-4c4bf16dcca4",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "LUMA",
@@ -764,7 +2240,31 @@
     "w": 2464,
     "h": 1632,
     "full": "images/full/10-LUMA.jpg",
-    "thumb": "images/thumb/10-LUMA.jpg"
+    "thumb": "images/thumb/10-LUMA.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/TswBT6KKAJ9gHVfH.png",
+     "width": 2464,
+     "height": 1632
+    },
+    "prompt": "等距低多边形。一座小型灯塔港湾，码头、两艘帆船、坡道和三间彩色小屋组成清晰的等距场景，使用少量平整多边形面。画风重点：正交等距关系、明确多边形、统一尺度。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_luma_uni_1_max",
+     "requestedRatio": "4:3",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/LUMA-submission.txt",
+     "resultFile": "assets/provenance/LUMA-result.json",
+     "threadId": "cc3806d4-ab83-4e65-84a1-8a24ada31047",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    }
   ],
   "sheet": "sheets/10-等距低多边形.jpg"
@@ -786,7 +2286,37 @@
     "w": 1456,
     "h": 816,
     "full": "images/full/11-MJ82.jpg",
-    "thumb": "images/thumb/11-MJ82.jpg"
+    "thumb": "images/thumb/11-MJ82.jpg",
+    "sourceImage": {
+     "url": "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976016843_ef22952bcad84de3a97865ac752623f8.png",
+     "width": 1456,
+     "height": 816
+    },
+    "prompt": "日系赛璐璐动画。夏日傍晚的地方铁路站台，短发少女抱着书包回头，海风吹起白衬衫衣角，远处是蓝海与缓慢经过的列车。画风重点：干净线稿、平涂、硬边阴影与动画背景。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "verified_execution",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "model": "Style Image V8.2",
+     "count": 4,
+     "modeType": "text2image",
+     "settings": {
+      "quality": "auto",
+      "ratio": "16:9"
+     },
+     "advancedSettings": {
+      "personalisation": "",
+      "stylize": 100,
+      "weird": 0,
+      "chaos": 0
+     }
+    },
+    "evidence": {
+     "file": "assets/provenance/MJ82-executions.json",
+     "nodeKey": "38263f03-cc43-4d18-bf21-d19345f5bcea",
+     "taskId": "20261022083403404174106",
+     "projectId": "e6e972f302324aae8d9b8a868d70be0f",
+     "returnedIndex": 1
+    }
    },
    {
     "id": "GPT",
@@ -797,7 +2327,31 @@
     "w": 2048,
     "h": 1152,
     "full": "images/full/11-GPT.jpg",
-    "thumb": "images/thumb/11-GPT.jpg"
+    "thumb": "images/thumb/11-GPT.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/miKsKfiDuQ82m2el.png",
+     "width": 2048,
+     "height": 1152
+    },
+    "prompt": "日系赛璐璐动画。夏日傍晚的地方铁路站台，短发少女抱着书包回头，海风吹起白衬衫衣角，远处是蓝海与缓慢经过的列车。画风重点：干净线稿、平涂、硬边阴影与动画背景。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_gpt_image_2_high",
+     "requestedRatio": "16:9",
+     "requestedCount": 1,
+     "quality": "high (requested; platform reported)",
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/GPT-submission.txt",
+     "resultFile": "assets/provenance/GPT-result.json",
+     "threadId": "8172608a-6903-47b0-8cc4-0c38b989478a",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "NBP",
@@ -808,7 +2362,31 @@
     "w": 1376,
     "h": 768,
     "full": "images/full/11-NBP.jpg",
-    "thumb": "images/thumb/11-NBP.jpg"
+    "thumb": "images/thumb/11-NBP.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/GBeoGrSgms7SOppI.png",
+     "width": 1376,
+     "height": 768
+    },
+    "prompt": "日系赛璐璐动画。夏日傍晚的地方铁路站台，短发少女抱着书包回头，海风吹起白衬衫衣角，远处是蓝海与缓慢经过的列车。画风重点：干净线稿、平涂、硬边阴影与动画背景。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_nano_banana_pro",
+     "requestedRatio": "16:9",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/NBP-submission.txt",
+     "resultFile": "assets/provenance/NBP-result.json",
+     "threadId": "e664abf1-2146-4576-9933-416d0626ce32",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "SD",
@@ -819,7 +2397,31 @@
     "w": 1424,
     "h": 800,
     "full": "images/full/11-SD.jpg",
-    "thumb": "images/thumb/11-SD.jpg"
+    "thumb": "images/thumb/11-SD.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/9V7qgHYhlP7UKABt.png",
+     "width": 1424,
+     "height": 800
+    },
+    "prompt": "日系赛璐璐动画。夏日傍晚的地方铁路站台，短发少女抱着书包回头，海风吹起白衬衫衣角，远处是蓝海与缓慢经过的列车。画风重点：干净线稿、平涂、硬边阴影与动画背景。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_seedream_v5_pro",
+     "requestedRatio": "16:9",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/SD-submission.txt",
+     "resultFile": "assets/provenance/SD-result.json",
+     "threadId": "1f23f2b4-9d17-4f5a-9b1f-4c38881cf438",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "FLUX",
@@ -830,7 +2432,31 @@
     "w": 1024,
     "h": 576,
     "full": "images/full/11-FLUX.jpg",
-    "thumb": "images/thumb/11-FLUX.jpg"
+    "thumb": "images/thumb/11-FLUX.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/3WKIMPNwW4IykyNA.jpeg",
+     "width": 1024,
+     "height": 576
+    },
+    "prompt": "日系赛璐璐动画。夏日傍晚的地方铁路站台，短发少女抱着书包回头，海风吹起白衬衫衣角，远处是蓝海与缓慢经过的列车。画风重点：干净线稿、平涂、硬边阴影与动画背景。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_flux_2_max",
+     "requestedRatio": "16:9",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/FLUX-submission.txt",
+     "resultFile": "assets/provenance/FLUX-result.json",
+     "threadId": "0cacc718-6f4d-4c39-98ab-4c4bf16dcca4",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "LUMA",
@@ -841,7 +2467,31 @@
     "w": 2672,
     "h": 1504,
     "full": "images/full/11-LUMA.jpg",
-    "thumb": "images/thumb/11-LUMA.jpg"
+    "thumb": "images/thumb/11-LUMA.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/DF2edZsEdxFFfERo.png",
+     "width": 2672,
+     "height": 1504
+    },
+    "prompt": "日系赛璐璐动画。夏日傍晚的地方铁路站台，短发少女抱着书包回头，海风吹起白衬衫衣角，远处是蓝海与缓慢经过的列车。画风重点：干净线稿、平涂、硬边阴影与动画背景。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_luma_uni_1_max",
+     "requestedRatio": "16:9",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/LUMA-submission.txt",
+     "resultFile": "assets/provenance/LUMA-result.json",
+     "threadId": "cc3806d4-ab83-4e65-84a1-8a24ada31047",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    }
   ],
   "sheet": "sheets/11-日系赛璐璐动画.jpg"
@@ -863,7 +2513,37 @@
     "w": 928,
     "h": 1232,
     "full": "images/full/12-MJ82.jpg",
-    "thumb": "images/thumb/12-MJ82.jpg"
+    "thumb": "images/thumb/12-MJ82.jpg",
+    "sourceImage": {
+     "url": "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976020249_8e1694b091bb4007840a7c1d9b9a9130.png",
+     "width": 928,
+     "height": 1232
+    },
+    "prompt": "日系厚涂游戏插画。成年银发女术士身穿深蓝黑色长袍，手握一枚发光星核，站在有月光的古老图书馆中，脸与服装设计清楚。画风重点：绘画塑形、角色设计、材质笔触和边缘控制。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "verified_execution",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "model": "Style Image V8.2",
+     "count": 4,
+     "modeType": "text2image",
+     "settings": {
+      "quality": "auto",
+      "ratio": "3:4"
+     },
+     "advancedSettings": {
+      "personalisation": "",
+      "stylize": 100,
+      "weird": 0,
+      "chaos": 0
+     }
+    },
+    "evidence": {
+     "file": "assets/provenance/MJ82-executions.json",
+     "nodeKey": "ca0918c1-7c69-4aab-9f3b-ede81a0da5cc",
+     "taskId": "20261022084203671934106",
+     "projectId": "e6e972f302324aae8d9b8a868d70be0f",
+     "returnedIndex": 1
+    }
    },
    {
     "id": "GPT",
@@ -874,7 +2554,31 @@
     "w": 1536,
     "h": 2048,
     "full": "images/full/12-GPT.jpg",
-    "thumb": "images/thumb/12-GPT.jpg"
+    "thumb": "images/thumb/12-GPT.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/SWM6yugfhp87B7Aj.png",
+     "width": 1536,
+     "height": 2048
+    },
+    "prompt": "日系厚涂游戏插画。成年银发女术士身穿深蓝黑色长袍，手握一枚发光星核，站在有月光的古老图书馆中，脸与服装设计清楚。画风重点：绘画塑形、角色设计、材质笔触和边缘控制。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_gpt_image_2_high",
+     "requestedRatio": "3:4",
+     "requestedCount": 1,
+     "quality": "high (requested; platform reported)",
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/GPT-submission.txt",
+     "resultFile": "assets/provenance/GPT-result.json",
+     "threadId": "8172608a-6903-47b0-8cc4-0c38b989478a",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "NBP",
@@ -885,7 +2589,31 @@
     "w": 896,
     "h": 1200,
     "full": "images/full/12-NBP.jpg",
-    "thumb": "images/thumb/12-NBP.jpg"
+    "thumb": "images/thumb/12-NBP.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/nyjclW1USK38vaWe.png",
+     "width": 896,
+     "height": 1200
+    },
+    "prompt": "日系厚涂游戏插画。成年银发女术士身穿深蓝黑色长袍，手握一枚发光星核，站在有月光的古老图书馆中，脸与服装设计清楚。画风重点：绘画塑形、角色设计、材质笔触和边缘控制。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_nano_banana_pro",
+     "requestedRatio": "3:4",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/NBP-submission.txt",
+     "resultFile": "assets/provenance/NBP-result.json",
+     "threadId": "e664abf1-2146-4576-9933-416d0626ce32",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "SD",
@@ -896,7 +2624,31 @@
     "w": 864,
     "h": 1152,
     "full": "images/full/12-SD.jpg",
-    "thumb": "images/thumb/12-SD.jpg"
+    "thumb": "images/thumb/12-SD.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/QKMLmL3bh2FZldLZ.png",
+     "width": 864,
+     "height": 1152
+    },
+    "prompt": "日系厚涂游戏插画。成年银发女术士身穿深蓝黑色长袍，手握一枚发光星核，站在有月光的古老图书馆中，脸与服装设计清楚。画风重点：绘画塑形、角色设计、材质笔触和边缘控制。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_seedream_v5_pro",
+     "requestedRatio": "3:4",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/SD-submission.txt",
+     "resultFile": "assets/provenance/SD-result.json",
+     "threadId": "1f23f2b4-9d17-4f5a-9b1f-4c38881cf438",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "FLUX",
@@ -907,7 +2659,31 @@
     "w": 768,
     "h": 1024,
     "full": "images/full/12-FLUX.jpg",
-    "thumb": "images/thumb/12-FLUX.jpg"
+    "thumb": "images/thumb/12-FLUX.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/8RahDJ5RibGaPRLt.jpeg",
+     "width": 768,
+     "height": 1024
+    },
+    "prompt": "日系厚涂游戏插画。成年银发女术士身穿深蓝黑色长袍，手握一枚发光星核，站在有月光的古老图书馆中，脸与服装设计清楚。画风重点：绘画塑形、角色设计、材质笔触和边缘控制。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_flux_2_max",
+     "requestedRatio": "3:4",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/FLUX-submission.txt",
+     "resultFile": "assets/provenance/FLUX-result.json",
+     "threadId": "0cacc718-6f4d-4c39-98ab-4c4bf16dcca4",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "LUMA",
@@ -918,7 +2694,31 @@
     "w": 1632,
     "h": 2464,
     "full": "images/full/12-LUMA.jpg",
-    "thumb": "images/thumb/12-LUMA.jpg"
+    "thumb": "images/thumb/12-LUMA.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/HEJ2niFFOEGDoO1z.png",
+     "width": 1632,
+     "height": 2464
+    },
+    "prompt": "日系厚涂游戏插画。成年银发女术士身穿深蓝黑色长袍，手握一枚发光星核，站在有月光的古老图书馆中，脸与服装设计清楚。画风重点：绘画塑形、角色设计、材质笔触和边缘控制。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_luma_uni_1_max",
+     "requestedRatio": "3:4",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/LUMA-submission.txt",
+     "resultFile": "assets/provenance/LUMA-result.json",
+     "threadId": "cc3806d4-ab83-4e65-84a1-8a24ada31047",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    }
   ],
   "sheet": "sheets/12-日系厚涂游戏插画.jpg"
@@ -940,7 +2740,37 @@
     "w": 1456,
     "h": 816,
     "full": "images/full/13-MJ82.jpg",
-    "thumb": "images/thumb/13-MJ82.jpg"
+    "thumb": "images/thumb/13-MJ82.jpg",
+    "sourceImage": {
+     "url": "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976020363_f3b3630fc10042658fee9f8144929297.png",
+     "width": 1456,
+     "height": 816
+    },
+    "prompt": "美式漫画。一位原创蒙面英雄从雨夜高楼屋顶跃起，披风形成有力黑色剪影，身后一道闪电照出城市，单幅构图。画风重点：有力墨线、黑白结构、网点与动作张力。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "verified_execution",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "model": "Style Image V8.2",
+     "count": 4,
+     "modeType": "text2image",
+     "settings": {
+      "quality": "auto",
+      "ratio": "16:9"
+     },
+     "advancedSettings": {
+      "personalisation": "",
+      "stylize": 100,
+      "weird": 0,
+      "chaos": 0
+     }
+    },
+    "evidence": {
+     "file": "assets/provenance/MJ82-executions.json",
+     "nodeKey": "daf48f07-c24d-43a8-b625-9b86565da26f",
+     "taskId": "20261022084203305174106",
+     "projectId": "e6e972f302324aae8d9b8a868d70be0f",
+     "returnedIndex": 1
+    }
    },
    {
     "id": "GPT",
@@ -951,7 +2781,31 @@
     "w": 2048,
     "h": 1152,
     "full": "images/full/13-GPT.jpg",
-    "thumb": "images/thumb/13-GPT.jpg"
+    "thumb": "images/thumb/13-GPT.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/R4dRd7eYHMF4rzfq.png",
+     "width": 2048,
+     "height": 1152
+    },
+    "prompt": "美式漫画。一位原创蒙面英雄从雨夜高楼屋顶跃起，披风形成有力黑色剪影，身后一道闪电照出城市，单幅构图。画风重点：有力墨线、黑白结构、网点与动作张力。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_gpt_image_2_high",
+     "requestedRatio": "16:9",
+     "requestedCount": 1,
+     "quality": "high (requested; platform reported)",
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/GPT-submission.txt",
+     "resultFile": "assets/provenance/GPT-result.json",
+     "threadId": "8172608a-6903-47b0-8cc4-0c38b989478a",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "NBP",
@@ -962,7 +2816,31 @@
     "w": 1376,
     "h": 768,
     "full": "images/full/13-NBP.jpg",
-    "thumb": "images/thumb/13-NBP.jpg"
+    "thumb": "images/thumb/13-NBP.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/8eZJN6Y0yj4ZTbPz.png",
+     "width": 1376,
+     "height": 768
+    },
+    "prompt": "美式漫画。一位原创蒙面英雄从雨夜高楼屋顶跃起，披风形成有力黑色剪影，身后一道闪电照出城市，单幅构图。画风重点：有力墨线、黑白结构、网点与动作张力。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_nano_banana_pro",
+     "requestedRatio": "16:9",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/NBP-submission.txt",
+     "resultFile": "assets/provenance/NBP-result.json",
+     "threadId": "e664abf1-2146-4576-9933-416d0626ce32",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "SD",
@@ -973,7 +2851,31 @@
     "w": 1424,
     "h": 800,
     "full": "images/full/13-SD.jpg",
-    "thumb": "images/thumb/13-SD.jpg"
+    "thumb": "images/thumb/13-SD.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/8VZShwwLzrLI1sLZ.png",
+     "width": 1424,
+     "height": 800
+    },
+    "prompt": "美式漫画。一位原创蒙面英雄从雨夜高楼屋顶跃起，披风形成有力黑色剪影，身后一道闪电照出城市，单幅构图。画风重点：有力墨线、黑白结构、网点与动作张力。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_seedream_v5_pro",
+     "requestedRatio": "16:9",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/SD-submission.txt",
+     "resultFile": "assets/provenance/SD-result.json",
+     "threadId": "1f23f2b4-9d17-4f5a-9b1f-4c38881cf438",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "FLUX",
@@ -984,7 +2886,31 @@
     "w": 1024,
     "h": 576,
     "full": "images/full/13-FLUX.jpg",
-    "thumb": "images/thumb/13-FLUX.jpg"
+    "thumb": "images/thumb/13-FLUX.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/auW7A2G8ikEx0dL2.jpeg",
+     "width": 1024,
+     "height": 576
+    },
+    "prompt": "美式漫画。一位原创蒙面英雄从雨夜高楼屋顶跃起，披风形成有力黑色剪影，身后一道闪电照出城市，单幅构图。画风重点：有力墨线、黑白结构、网点与动作张力。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_flux_2_max",
+     "requestedRatio": "16:9",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/FLUX-submission.txt",
+     "resultFile": "assets/provenance/FLUX-result.json",
+     "threadId": "0cacc718-6f4d-4c39-98ab-4c4bf16dcca4",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "LUMA",
@@ -995,7 +2921,31 @@
     "w": 2672,
     "h": 1504,
     "full": "images/full/13-LUMA.jpg",
-    "thumb": "images/thumb/13-LUMA.jpg"
+    "thumb": "images/thumb/13-LUMA.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/QOdWQuS24gE3dgxS.png",
+     "width": 2672,
+     "height": 1504
+    },
+    "prompt": "美式漫画。一位原创蒙面英雄从雨夜高楼屋顶跃起，披风形成有力黑色剪影，身后一道闪电照出城市，单幅构图。画风重点：有力墨线、黑白结构、网点与动作张力。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_luma_uni_1_max",
+     "requestedRatio": "16:9",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/LUMA-submission.txt",
+     "resultFile": "assets/provenance/LUMA-result.json",
+     "threadId": "cc3806d4-ab83-4e65-84a1-8a24ada31047",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    }
   ],
   "sheet": "sheets/13-美式漫画.jpg"
@@ -1017,7 +2967,37 @@
     "w": 1456,
     "h": 816,
     "full": "images/full/14-MJ82.jpg",
-    "thumb": "images/thumb/14-MJ82.jpg"
+    "thumb": "images/thumb/14-MJ82.jpg",
+    "sourceImage": {
+     "url": "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976020518_794ed90aebd94ecc82500f26ab19b5b9.png",
+     "width": 1456,
+     "height": 816
+    },
+    "prompt": "欧式绘本。秋天的小刺猬坐在树根小屋里给来访的兔子倒茶，窗边挂着落叶，木桌上有栗子和一盏小灯。画风重点：温柔造型、叙事细节、手绘线条与有限色彩。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "verified_execution",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "model": "Style Image V8.2",
+     "count": 4,
+     "modeType": "text2image",
+     "settings": {
+      "quality": "auto",
+      "ratio": "16:9"
+     },
+     "advancedSettings": {
+      "personalisation": "",
+      "stylize": 100,
+      "weird": 0,
+      "chaos": 0
+     }
+    },
+    "evidence": {
+     "file": "assets/provenance/MJ82-executions.json",
+     "nodeKey": "fee0ab1d-fd2e-4126-b487-c135a16ebe27",
+     "taskId": "20261022084203856034106",
+     "projectId": "e6e972f302324aae8d9b8a868d70be0f",
+     "returnedIndex": 1
+    }
    },
    {
     "id": "GPT",
@@ -1028,7 +3008,31 @@
     "w": 2048,
     "h": 1152,
     "full": "images/full/14-GPT.jpg",
-    "thumb": "images/thumb/14-GPT.jpg"
+    "thumb": "images/thumb/14-GPT.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/23fEX4eVNf6LH3tq.png",
+     "width": 2048,
+     "height": 1152
+    },
+    "prompt": "欧式绘本。秋天的小刺猬坐在树根小屋里给来访的兔子倒茶，窗边挂着落叶，木桌上有栗子和一盏小灯。画风重点：温柔造型、叙事细节、手绘线条与有限色彩。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_gpt_image_2_high",
+     "requestedRatio": "16:9",
+     "requestedCount": 1,
+     "quality": "high (requested; platform reported)",
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/GPT-submission.txt",
+     "resultFile": "assets/provenance/GPT-result.json",
+     "threadId": "8172608a-6903-47b0-8cc4-0c38b989478a",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "NBP",
@@ -1039,7 +3043,31 @@
     "w": 1376,
     "h": 768,
     "full": "images/full/14-NBP.jpg",
-    "thumb": "images/thumb/14-NBP.jpg"
+    "thumb": "images/thumb/14-NBP.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/gNcWr5JqzP3jIE6S.png",
+     "width": 1376,
+     "height": 768
+    },
+    "prompt": "欧式绘本。秋天的小刺猬坐在树根小屋里给来访的兔子倒茶，窗边挂着落叶，木桌上有栗子和一盏小灯。画风重点：温柔造型、叙事细节、手绘线条与有限色彩。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_nano_banana_pro",
+     "requestedRatio": "16:9",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/NBP-submission.txt",
+     "resultFile": "assets/provenance/NBP-result.json",
+     "threadId": "e664abf1-2146-4576-9933-416d0626ce32",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "SD",
@@ -1050,7 +3078,31 @@
     "w": 1424,
     "h": 800,
     "full": "images/full/14-SD.jpg",
-    "thumb": "images/thumb/14-SD.jpg"
+    "thumb": "images/thumb/14-SD.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/bWm1yCAjFiHZwKsL.png",
+     "width": 1424,
+     "height": 800
+    },
+    "prompt": "欧式绘本。秋天的小刺猬坐在树根小屋里给来访的兔子倒茶，窗边挂着落叶，木桌上有栗子和一盏小灯。画风重点：温柔造型、叙事细节、手绘线条与有限色彩。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_seedream_v5_pro",
+     "requestedRatio": "16:9",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/SD-submission.txt",
+     "resultFile": "assets/provenance/SD-result.json",
+     "threadId": "1f23f2b4-9d17-4f5a-9b1f-4c38881cf438",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "FLUX",
@@ -1061,7 +3113,31 @@
     "w": 1024,
     "h": 576,
     "full": "images/full/14-FLUX.jpg",
-    "thumb": "images/thumb/14-FLUX.jpg"
+    "thumb": "images/thumb/14-FLUX.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/751Z6lS23VKLnQKd.jpeg",
+     "width": 1024,
+     "height": 576
+    },
+    "prompt": "欧式绘本。秋天的小刺猬坐在树根小屋里给来访的兔子倒茶，窗边挂着落叶，木桌上有栗子和一盏小灯。画风重点：温柔造型、叙事细节、手绘线条与有限色彩。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_flux_2_max",
+     "requestedRatio": "16:9",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/FLUX-submission.txt",
+     "resultFile": "assets/provenance/FLUX-result.json",
+     "threadId": "0cacc718-6f4d-4c39-98ab-4c4bf16dcca4",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "LUMA",
@@ -1072,7 +3148,31 @@
     "w": 2672,
     "h": 1504,
     "full": "images/full/14-LUMA.jpg",
-    "thumb": "images/thumb/14-LUMA.jpg"
+    "thumb": "images/thumb/14-LUMA.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/9YkDi4rr2XAqeXaY.png",
+     "width": 2672,
+     "height": 1504
+    },
+    "prompt": "欧式绘本。秋天的小刺猬坐在树根小屋里给来访的兔子倒茶，窗边挂着落叶，木桌上有栗子和一盏小灯。画风重点：温柔造型、叙事细节、手绘线条与有限色彩。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_luma_uni_1_max",
+     "requestedRatio": "16:9",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/LUMA-submission.txt",
+     "resultFile": "assets/provenance/LUMA-result.json",
+     "threadId": "cc3806d4-ab83-4e65-84a1-8a24ada31047",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    }
   ],
   "sheet": "sheets/14-欧式绘本.jpg"
@@ -1094,7 +3194,37 @@
     "w": 1456,
     "h": 816,
     "full": "images/full/15-MJ82.jpg",
-    "thumb": "images/thumb/15-MJ82.jpg"
+    "thumb": "images/thumb/15-MJ82.jpg",
+    "sourceImage": {
+     "url": "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976021174_34b92d56651f4c73a08d36c7ee3701ac.png",
+     "width": 1456,
+     "height": 816
+    },
+    "prompt": "平面商业插画。三名成年人在城市公园骑车、散步和读书，树木与建筑被概括成蓝绿、珊瑚红、米黄色的几何色块。画风重点：平面轮廓、色块组织、负空间，不依赖写实玻璃。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "verified_execution",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "model": "Style Image V8.2",
+     "count": 4,
+     "modeType": "text2image",
+     "settings": {
+      "quality": "auto",
+      "ratio": "16:9"
+     },
+     "advancedSettings": {
+      "personalisation": "",
+      "stylize": 100,
+      "weird": 0,
+      "chaos": 0
+     }
+    },
+    "evidence": {
+     "file": "assets/provenance/MJ82-executions.json",
+     "nodeKey": "c36642a6-4970-4161-8d69-d204d33f3589",
+     "taskId": "20261022084303570504106",
+     "projectId": "e6e972f302324aae8d9b8a868d70be0f",
+     "returnedIndex": 1
+    }
    },
    {
     "id": "GPT",
@@ -1105,7 +3235,31 @@
     "w": 2048,
     "h": 1152,
     "full": "images/full/15-GPT.jpg",
-    "thumb": "images/thumb/15-GPT.jpg"
+    "thumb": "images/thumb/15-GPT.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/AHM1n97Hf5EmYDZV.png",
+     "width": 2048,
+     "height": 1152
+    },
+    "prompt": "平面商业插画。三名成年人在城市公园骑车、散步和读书，树木与建筑被概括成蓝绿、珊瑚红、米黄色的几何色块。画风重点：平面轮廓、色块组织、负空间，不依赖写实玻璃。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_gpt_image_2_high",
+     "requestedRatio": "16:9",
+     "requestedCount": 1,
+     "quality": "high (requested; platform reported)",
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/GPT-submission.txt",
+     "resultFile": "assets/provenance/GPT-result.json",
+     "threadId": "8172608a-6903-47b0-8cc4-0c38b989478a",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "NBP",
@@ -1116,7 +3270,31 @@
     "w": 1376,
     "h": 768,
     "full": "images/full/15-NBP.jpg",
-    "thumb": "images/thumb/15-NBP.jpg"
+    "thumb": "images/thumb/15-NBP.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/1AXuQXCwpNA618D0.png",
+     "width": 1376,
+     "height": 768
+    },
+    "prompt": "平面商业插画。三名成年人在城市公园骑车、散步和读书，树木与建筑被概括成蓝绿、珊瑚红、米黄色的几何色块。画风重点：平面轮廓、色块组织、负空间，不依赖写实玻璃。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_nano_banana_pro",
+     "requestedRatio": "16:9",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/NBP-submission.txt",
+     "resultFile": "assets/provenance/NBP-result.json",
+     "threadId": "e664abf1-2146-4576-9933-416d0626ce32",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "SD",
@@ -1127,7 +3305,31 @@
     "w": 1424,
     "h": 800,
     "full": "images/full/15-SD.jpg",
-    "thumb": "images/thumb/15-SD.jpg"
+    "thumb": "images/thumb/15-SD.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/x7mDJlYVwjKohKt4.png",
+     "width": 1424,
+     "height": 800
+    },
+    "prompt": "平面商业插画。三名成年人在城市公园骑车、散步和读书，树木与建筑被概括成蓝绿、珊瑚红、米黄色的几何色块。画风重点：平面轮廓、色块组织、负空间，不依赖写实玻璃。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_seedream_v5_pro",
+     "requestedRatio": "16:9",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/SD-submission.txt",
+     "resultFile": "assets/provenance/SD-result.json",
+     "threadId": "1f23f2b4-9d17-4f5a-9b1f-4c38881cf438",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "FLUX",
@@ -1138,7 +3340,31 @@
     "w": 1024,
     "h": 576,
     "full": "images/full/15-FLUX.jpg",
-    "thumb": "images/thumb/15-FLUX.jpg"
+    "thumb": "images/thumb/15-FLUX.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/OdK1wWa7wnLgnrzR.jpeg",
+     "width": 1024,
+     "height": 576
+    },
+    "prompt": "平面商业插画。三名成年人在城市公园骑车、散步和读书，树木与建筑被概括成蓝绿、珊瑚红、米黄色的几何色块。画风重点：平面轮廓、色块组织、负空间，不依赖写实玻璃。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_flux_2_max",
+     "requestedRatio": "16:9",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/FLUX-submission.txt",
+     "resultFile": "assets/provenance/FLUX-result.json",
+     "threadId": "0cacc718-6f4d-4c39-98ab-4c4bf16dcca4",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "LUMA",
@@ -1149,7 +3375,31 @@
     "w": 2672,
     "h": 1504,
     "full": "images/full/15-LUMA.jpg",
-    "thumb": "images/thumb/15-LUMA.jpg"
+    "thumb": "images/thumb/15-LUMA.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/uNwHsV5zKu3aCvK3.png",
+     "width": 2672,
+     "height": 1504
+    },
+    "prompt": "平面商业插画。三名成年人在城市公园骑车、散步和读书，树木与建筑被概括成蓝绿、珊瑚红、米黄色的几何色块。画风重点：平面轮廓、色块组织、负空间，不依赖写实玻璃。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_luma_uni_1_max",
+     "requestedRatio": "16:9",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/LUMA-submission.txt",
+     "resultFile": "assets/provenance/LUMA-result.json",
+     "threadId": "cc3806d4-ab83-4e65-84a1-8a24ada31047",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    }
   ],
   "sheet": "sheets/15-平面商业插画.jpg"
@@ -1171,7 +3421,37 @@
     "w": 928,
     "h": 1232,
     "full": "images/full/16-MJ82.jpg",
-    "thumb": "images/thumb/16-MJ82.jpg"
+    "thumb": "images/thumb/16-MJ82.jpg",
+    "sourceImage": {
+     "url": "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976021267_985dec59b7724a528ecc6bad8a5a8498.png",
+     "width": 928,
+     "height": 1232
+    },
+    "prompt": "古典油画。一位穿深色长裙的成年女性坐在木桌前读信，桌上有梨、瓷盘与一枝白花，窗边柔光照亮脸与双手。画风重点：罩染、明暗塑形、油彩与边缘虚实。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "verified_execution",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "model": "Style Image V8.2",
+     "count": 4,
+     "modeType": "text2image",
+     "settings": {
+      "quality": "auto",
+      "ratio": "3:4"
+     },
+     "advancedSettings": {
+      "personalisation": "",
+      "stylize": 100,
+      "weird": 0,
+      "chaos": 0
+     }
+    },
+    "evidence": {
+     "file": "assets/provenance/MJ82-executions.json",
+     "nodeKey": "d986aa69-f390-41a4-a1ce-5bbbc9244af3",
+     "taskId": "20261022084303265594106",
+     "projectId": "e6e972f302324aae8d9b8a868d70be0f",
+     "returnedIndex": 1
+    }
    },
    {
     "id": "GPT",
@@ -1182,7 +3462,31 @@
     "w": 1536,
     "h": 2048,
     "full": "images/full/16-GPT.jpg",
-    "thumb": "images/thumb/16-GPT.jpg"
+    "thumb": "images/thumb/16-GPT.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/0AbhRZ3MNg5SMLB5.png",
+     "width": 1536,
+     "height": 2048
+    },
+    "prompt": "古典油画。一位穿深色长裙的成年女性坐在木桌前读信，桌上有梨、瓷盘与一枝白花，窗边柔光照亮脸与双手。画风重点：罩染、明暗塑形、油彩与边缘虚实。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_gpt_image_2_high",
+     "requestedRatio": "3:4",
+     "requestedCount": 1,
+     "quality": "high (requested; platform reported)",
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/GPT-submission.txt",
+     "resultFile": "assets/provenance/GPT-result.json",
+     "threadId": "8172608a-6903-47b0-8cc4-0c38b989478a",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "NBP",
@@ -1193,7 +3497,31 @@
     "w": 896,
     "h": 1200,
     "full": "images/full/16-NBP.jpg",
-    "thumb": "images/thumb/16-NBP.jpg"
+    "thumb": "images/thumb/16-NBP.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/bYs3t7D5hO5NYdfz.png",
+     "width": 896,
+     "height": 1200
+    },
+    "prompt": "古典油画。一位穿深色长裙的成年女性坐在木桌前读信，桌上有梨、瓷盘与一枝白花，窗边柔光照亮脸与双手。画风重点：罩染、明暗塑形、油彩与边缘虚实。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_nano_banana_pro",
+     "requestedRatio": "3:4",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/NBP-submission.txt",
+     "resultFile": "assets/provenance/NBP-result.json",
+     "threadId": "e664abf1-2146-4576-9933-416d0626ce32",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "SD",
@@ -1204,7 +3532,31 @@
     "w": 864,
     "h": 1152,
     "full": "images/full/16-SD.jpg",
-    "thumb": "images/thumb/16-SD.jpg"
+    "thumb": "images/thumb/16-SD.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/f1aONB45ByGBaE1y.png",
+     "width": 864,
+     "height": 1152
+    },
+    "prompt": "古典油画。一位穿深色长裙的成年女性坐在木桌前读信，桌上有梨、瓷盘与一枝白花，窗边柔光照亮脸与双手。画风重点：罩染、明暗塑形、油彩与边缘虚实。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_seedream_v5_pro",
+     "requestedRatio": "3:4",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/SD-submission.txt",
+     "resultFile": "assets/provenance/SD-result.json",
+     "threadId": "1f23f2b4-9d17-4f5a-9b1f-4c38881cf438",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "FLUX",
@@ -1215,7 +3567,31 @@
     "w": 768,
     "h": 1024,
     "full": "images/full/16-FLUX.jpg",
-    "thumb": "images/thumb/16-FLUX.jpg"
+    "thumb": "images/thumb/16-FLUX.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/ztQpEjecH86aaLMI.jpeg",
+     "width": 768,
+     "height": 1024
+    },
+    "prompt": "古典油画。一位穿深色长裙的成年女性坐在木桌前读信，桌上有梨、瓷盘与一枝白花，窗边柔光照亮脸与双手。画风重点：罩染、明暗塑形、油彩与边缘虚实。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_flux_2_max",
+     "requestedRatio": "3:4",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/FLUX-submission.txt",
+     "resultFile": "assets/provenance/FLUX-result.json",
+     "threadId": "0cacc718-6f4d-4c39-98ab-4c4bf16dcca4",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "LUMA",
@@ -1226,7 +3602,31 @@
     "w": 1632,
     "h": 2464,
     "full": "images/full/16-LUMA.jpg",
-    "thumb": "images/thumb/16-LUMA.jpg"
+    "thumb": "images/thumb/16-LUMA.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/g70dvYxznQ2hjfIc.png",
+     "width": 1632,
+     "height": 2464
+    },
+    "prompt": "古典油画。一位穿深色长裙的成年女性坐在木桌前读信，桌上有梨、瓷盘与一枝白花，窗边柔光照亮脸与双手。画风重点：罩染、明暗塑形、油彩与边缘虚实。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_luma_uni_1_max",
+     "requestedRatio": "3:4",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/LUMA-submission.txt",
+     "resultFile": "assets/provenance/LUMA-result.json",
+     "threadId": "cc3806d4-ab83-4e65-84a1-8a24ada31047",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    }
   ],
   "sheet": "sheets/16-古典油画.jpg"
@@ -1248,7 +3648,37 @@
     "w": 1456,
     "h": 816,
     "full": "images/full/17-MJ82.jpg",
-    "thumb": "images/thumb/17-MJ82.jpg"
+    "thumb": "images/thumb/17-MJ82.jpg",
+    "sourceImage": {
+     "url": "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976021462_79c59f8db8e343329cdb6ca325b2f862.png",
+     "width": 1456,
+     "height": 816
+    },
+    "prompt": "印象派油画。晴日下午的河岸花园，树影碎落在小路上，远处有两只小船和撑浅色阳伞的游人，光与空气流动。画风重点：色彩并置、破碎笔触、光与空气，而非纹理滤镜。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "verified_execution",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "model": "Style Image V8.2",
+     "count": 4,
+     "modeType": "text2image",
+     "settings": {
+      "quality": "auto",
+      "ratio": "16:9"
+     },
+     "advancedSettings": {
+      "personalisation": "",
+      "stylize": 100,
+      "weird": 0,
+      "chaos": 0
+     }
+    },
+    "evidence": {
+     "file": "assets/provenance/MJ82-executions.json",
+     "nodeKey": "ca514596-4144-45fc-8cbd-1ac834f4988f",
+     "taskId": "20261022084403583484106",
+     "projectId": "e6e972f302324aae8d9b8a868d70be0f",
+     "returnedIndex": 1
+    }
    },
    {
     "id": "GPT",
@@ -1259,7 +3689,31 @@
     "w": 2048,
     "h": 1152,
     "full": "images/full/17-GPT.jpg",
-    "thumb": "images/thumb/17-GPT.jpg"
+    "thumb": "images/thumb/17-GPT.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/vAQOP81YN1CxrvwR.png",
+     "width": 2048,
+     "height": 1152
+    },
+    "prompt": "印象派油画。晴日下午的河岸花园，树影碎落在小路上，远处有两只小船和撑浅色阳伞的游人，光与空气流动。画风重点：色彩并置、破碎笔触、光与空气，而非纹理滤镜。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_gpt_image_2_high",
+     "requestedRatio": "16:9",
+     "requestedCount": 1,
+     "quality": "high (requested; platform reported)",
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/GPT-submission.txt",
+     "resultFile": "assets/provenance/GPT-result.json",
+     "threadId": "8172608a-6903-47b0-8cc4-0c38b989478a",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "NBP",
@@ -1270,7 +3724,31 @@
     "w": 1376,
     "h": 768,
     "full": "images/full/17-NBP.jpg",
-    "thumb": "images/thumb/17-NBP.jpg"
+    "thumb": "images/thumb/17-NBP.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/lvwUMrUdeW1rvjwL.png",
+     "width": 1376,
+     "height": 768
+    },
+    "prompt": "印象派油画。晴日下午的河岸花园，树影碎落在小路上，远处有两只小船和撑浅色阳伞的游人，光与空气流动。画风重点：色彩并置、破碎笔触、光与空气，而非纹理滤镜。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_nano_banana_pro",
+     "requestedRatio": "16:9",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/NBP-submission.txt",
+     "resultFile": "assets/provenance/NBP-result.json",
+     "threadId": "e664abf1-2146-4576-9933-416d0626ce32",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "SD",
@@ -1281,7 +3759,31 @@
     "w": 1424,
     "h": 800,
     "full": "images/full/17-SD.jpg",
-    "thumb": "images/thumb/17-SD.jpg"
+    "thumb": "images/thumb/17-SD.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/aQbgeFyZXk7StRGY.png",
+     "width": 1424,
+     "height": 800
+    },
+    "prompt": "印象派油画。晴日下午的河岸花园，树影碎落在小路上，远处有两只小船和撑浅色阳伞的游人，光与空气流动。画风重点：色彩并置、破碎笔触、光与空气，而非纹理滤镜。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_seedream_v5_pro",
+     "requestedRatio": "16:9",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/SD-submission.txt",
+     "resultFile": "assets/provenance/SD-result.json",
+     "threadId": "1f23f2b4-9d17-4f5a-9b1f-4c38881cf438",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "FLUX",
@@ -1292,7 +3794,31 @@
     "w": 1024,
     "h": 576,
     "full": "images/full/17-FLUX.jpg",
-    "thumb": "images/thumb/17-FLUX.jpg"
+    "thumb": "images/thumb/17-FLUX.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/FbRWbsFdmQ6qadqg.jpeg",
+     "width": 1024,
+     "height": 576
+    },
+    "prompt": "印象派油画。晴日下午的河岸花园，树影碎落在小路上，远处有两只小船和撑浅色阳伞的游人，光与空气流动。画风重点：色彩并置、破碎笔触、光与空气，而非纹理滤镜。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_flux_2_max",
+     "requestedRatio": "16:9",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/FLUX-submission.txt",
+     "resultFile": "assets/provenance/FLUX-result.json",
+     "threadId": "0cacc718-6f4d-4c39-98ab-4c4bf16dcca4",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "LUMA",
@@ -1303,7 +3829,31 @@
     "w": 2672,
     "h": 1504,
     "full": "images/full/17-LUMA.jpg",
-    "thumb": "images/thumb/17-LUMA.jpg"
+    "thumb": "images/thumb/17-LUMA.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/5HYX3yqsx8Cffs9z.png",
+     "width": 2672,
+     "height": 1504
+    },
+    "prompt": "印象派油画。晴日下午的河岸花园，树影碎落在小路上，远处有两只小船和撑浅色阳伞的游人，光与空气流动。画风重点：色彩并置、破碎笔触、光与空气，而非纹理滤镜。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_luma_uni_1_max",
+     "requestedRatio": "16:9",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/LUMA-submission.txt",
+     "resultFile": "assets/provenance/LUMA-result.json",
+     "threadId": "cc3806d4-ab83-4e65-84a1-8a24ada31047",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    }
   ],
   "sheet": "sheets/17-印象派油画.jpg"
@@ -1325,7 +3875,37 @@
     "w": 1232,
     "h": 928,
     "full": "images/full/18-MJ82.jpg",
-    "thumb": "images/thumb/18-MJ82.jpg"
+    "thumb": "images/thumb/18-MJ82.jpg",
+    "sourceImage": {
+     "url": "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976016845_7085a492dc294ca28c88bd00402871bd.png",
+     "width": 1232,
+     "height": 928
+    },
+    "prompt": "透明水彩。一只蓝白陶杯、两颗柠檬与一枝小花放在明亮窗台上，画面留出大片纸白，浅色阴影自然晕开。画风重点：透明罩染、纸白、水痕和晕边。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "verified_execution",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "model": "Style Image V8.2",
+     "count": 4,
+     "modeType": "text2image",
+     "settings": {
+      "quality": "auto",
+      "ratio": "4:3"
+     },
+     "advancedSettings": {
+      "personalisation": "",
+      "stylize": 100,
+      "weird": 0,
+      "chaos": 0
+     }
+    },
+    "evidence": {
+     "file": "assets/provenance/MJ82-executions.json",
+     "nodeKey": "c8072e82-7ecf-4c0d-bda8-176852975640",
+     "taskId": "20261022083403455114106",
+     "projectId": "e6e972f302324aae8d9b8a868d70be0f",
+     "returnedIndex": 1
+    }
    },
    {
     "id": "GPT",
@@ -1336,7 +3916,31 @@
     "w": 2048,
     "h": 1536,
     "full": "images/full/18-GPT.jpg",
-    "thumb": "images/thumb/18-GPT.jpg"
+    "thumb": "images/thumb/18-GPT.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/tbrHCtHvwpBX57N2.png",
+     "width": 2048,
+     "height": 1536
+    },
+    "prompt": "透明水彩。一只蓝白陶杯、两颗柠檬与一枝小花放在明亮窗台上，画面留出大片纸白，浅色阴影自然晕开。画风重点：透明罩染、纸白、水痕和晕边。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_gpt_image_2_high",
+     "requestedRatio": "4:3",
+     "requestedCount": 1,
+     "quality": "high (requested; platform reported)",
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/GPT-submission.txt",
+     "resultFile": "assets/provenance/GPT-result.json",
+     "threadId": "8172608a-6903-47b0-8cc4-0c38b989478a",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "NBP",
@@ -1347,7 +3951,31 @@
     "w": 1200,
     "h": 896,
     "full": "images/full/18-NBP.jpg",
-    "thumb": "images/thumb/18-NBP.jpg"
+    "thumb": "images/thumb/18-NBP.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/2t0eceAhcBBEr3Nk.png",
+     "width": 1200,
+     "height": 896
+    },
+    "prompt": "透明水彩。一只蓝白陶杯、两颗柠檬与一枝小花放在明亮窗台上，画面留出大片纸白，浅色阴影自然晕开。画风重点：透明罩染、纸白、水痕和晕边。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_nano_banana_pro",
+     "requestedRatio": "4:3",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/NBP-submission.txt",
+     "resultFile": "assets/provenance/NBP-result.json",
+     "threadId": "e664abf1-2146-4576-9933-416d0626ce32",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "SD",
@@ -1358,7 +3986,31 @@
     "w": 1152,
     "h": 864,
     "full": "images/full/18-SD.jpg",
-    "thumb": "images/thumb/18-SD.jpg"
+    "thumb": "images/thumb/18-SD.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/LlhJiybwAj2wGZgb.png",
+     "width": 1152,
+     "height": 864
+    },
+    "prompt": "透明水彩。一只蓝白陶杯、两颗柠檬与一枝小花放在明亮窗台上，画面留出大片纸白，浅色阴影自然晕开。画风重点：透明罩染、纸白、水痕和晕边。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_seedream_v5_pro",
+     "requestedRatio": "4:3",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/SD-submission.txt",
+     "resultFile": "assets/provenance/SD-result.json",
+     "threadId": "1f23f2b4-9d17-4f5a-9b1f-4c38881cf438",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "FLUX",
@@ -1369,7 +4021,31 @@
     "w": 1024,
     "h": 768,
     "full": "images/full/18-FLUX.jpg",
-    "thumb": "images/thumb/18-FLUX.jpg"
+    "thumb": "images/thumb/18-FLUX.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/HXa0jsHKHD4vHBEz.jpeg",
+     "width": 1024,
+     "height": 768
+    },
+    "prompt": "透明水彩。一只蓝白陶杯、两颗柠檬与一枝小花放在明亮窗台上，画面留出大片纸白，浅色阴影自然晕开。画风重点：透明罩染、纸白、水痕和晕边。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_flux_2_max",
+     "requestedRatio": "4:3",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/FLUX-submission.txt",
+     "resultFile": "assets/provenance/FLUX-result.json",
+     "threadId": "0cacc718-6f4d-4c39-98ab-4c4bf16dcca4",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "LUMA",
@@ -1380,7 +4056,31 @@
     "w": 2464,
     "h": 1632,
     "full": "images/full/18-LUMA.jpg",
-    "thumb": "images/thumb/18-LUMA.jpg"
+    "thumb": "images/thumb/18-LUMA.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/qFH9KmiVE46oClTd.png",
+     "width": 2464,
+     "height": 1632
+    },
+    "prompt": "透明水彩。一只蓝白陶杯、两颗柠檬与一枝小花放在明亮窗台上，画面留出大片纸白，浅色阴影自然晕开。画风重点：透明罩染、纸白、水痕和晕边。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_luma_uni_1_max",
+     "requestedRatio": "4:3",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/LUMA-submission.txt",
+     "resultFile": "assets/provenance/LUMA-result.json",
+     "threadId": "cc3806d4-ab83-4e65-84a1-8a24ada31047",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    }
   ],
   "sheet": "sheets/18-透明水彩.jpg"
@@ -1402,7 +4102,37 @@
     "w": 1232,
     "h": 928,
     "full": "images/full/19-MJ82.jpg",
-    "thumb": "images/thumb/19-MJ82.jpg"
+    "thumb": "images/thumb/19-MJ82.jpg",
+    "sourceImage": {
+     "url": "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976022111_c5fdf472d9834957a27c5eccd894a136.png",
+     "width": 1232,
+     "height": 928
+    },
+    "prompt": "水粉／不透明水彩。蓝色粗布上摆三只橙红柿子、一只白色陶罐和折起的米色纸，使用哑光厚实色块和肯定笔触。画风重点：不透明覆盖、干湿笔、色块与粉质感。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "verified_execution",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "model": "Style Image V8.2",
+     "count": 4,
+     "modeType": "text2image",
+     "settings": {
+      "quality": "auto",
+      "ratio": "4:3"
+     },
+     "advancedSettings": {
+      "personalisation": "",
+      "stylize": 100,
+      "weird": 0,
+      "chaos": 0
+     }
+    },
+    "evidence": {
+     "file": "assets/provenance/MJ82-executions.json",
+     "nodeKey": "4aa06a40-3b31-40bd-9b7f-f10cdc61390d",
+     "taskId": "20261022084503734194106",
+     "projectId": "e6e972f302324aae8d9b8a868d70be0f",
+     "returnedIndex": 1
+    }
    },
    {
     "id": "GPT",
@@ -1413,7 +4143,31 @@
     "w": 2048,
     "h": 1536,
     "full": "images/full/19-GPT.jpg",
-    "thumb": "images/thumb/19-GPT.jpg"
+    "thumb": "images/thumb/19-GPT.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/VBEy9ZPITnACNIaL.png",
+     "width": 2048,
+     "height": 1536
+    },
+    "prompt": "水粉／不透明水彩。蓝色粗布上摆三只橙红柿子、一只白色陶罐和折起的米色纸，使用哑光厚实色块和肯定笔触。画风重点：不透明覆盖、干湿笔、色块与粉质感。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_gpt_image_2_high",
+     "requestedRatio": "4:3",
+     "requestedCount": 1,
+     "quality": "high (requested; platform reported)",
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/GPT-submission.txt",
+     "resultFile": "assets/provenance/GPT-result.json",
+     "threadId": "8172608a-6903-47b0-8cc4-0c38b989478a",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "NBP",
@@ -1424,7 +4178,31 @@
     "w": 1200,
     "h": 896,
     "full": "images/full/19-NBP.jpg",
-    "thumb": "images/thumb/19-NBP.jpg"
+    "thumb": "images/thumb/19-NBP.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/W089ZHesMo6s7RFA.png",
+     "width": 1200,
+     "height": 896
+    },
+    "prompt": "水粉／不透明水彩。蓝色粗布上摆三只橙红柿子、一只白色陶罐和折起的米色纸，使用哑光厚实色块和肯定笔触。画风重点：不透明覆盖、干湿笔、色块与粉质感。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_nano_banana_pro",
+     "requestedRatio": "4:3",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/NBP-submission.txt",
+     "resultFile": "assets/provenance/NBP-result.json",
+     "threadId": "e664abf1-2146-4576-9933-416d0626ce32",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "SD",
@@ -1435,7 +4213,31 @@
     "w": 1152,
     "h": 864,
     "full": "images/full/19-SD.jpg",
-    "thumb": "images/thumb/19-SD.jpg"
+    "thumb": "images/thumb/19-SD.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/POS8DcMEcHDFoEAT.png",
+     "width": 1152,
+     "height": 864
+    },
+    "prompt": "水粉／不透明水彩。蓝色粗布上摆三只橙红柿子、一只白色陶罐和折起的米色纸，使用哑光厚实色块和肯定笔触。画风重点：不透明覆盖、干湿笔、色块与粉质感。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_seedream_v5_pro",
+     "requestedRatio": "4:3",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/SD-submission.txt",
+     "resultFile": "assets/provenance/SD-result.json",
+     "threadId": "1f23f2b4-9d17-4f5a-9b1f-4c38881cf438",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "FLUX",
@@ -1446,7 +4248,31 @@
     "w": 1024,
     "h": 768,
     "full": "images/full/19-FLUX.jpg",
-    "thumb": "images/thumb/19-FLUX.jpg"
+    "thumb": "images/thumb/19-FLUX.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/OgireStMapCrC2v1.jpeg",
+     "width": 1024,
+     "height": 768
+    },
+    "prompt": "水粉／不透明水彩。蓝色粗布上摆三只橙红柿子、一只白色陶罐和折起的米色纸，使用哑光厚实色块和肯定笔触。画风重点：不透明覆盖、干湿笔、色块与粉质感。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_flux_2_max",
+     "requestedRatio": "4:3",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/FLUX-submission.txt",
+     "resultFile": "assets/provenance/FLUX-result.json",
+     "threadId": "0cacc718-6f4d-4c39-98ab-4c4bf16dcca4",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "LUMA",
@@ -1457,7 +4283,31 @@
     "w": 2464,
     "h": 1632,
     "full": "images/full/19-LUMA.jpg",
-    "thumb": "images/thumb/19-LUMA.jpg"
+    "thumb": "images/thumb/19-LUMA.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/C7OCuCvdWZ4w6jxu.png",
+     "width": 2464,
+     "height": 1632
+    },
+    "prompt": "水粉／不透明水彩。蓝色粗布上摆三只橙红柿子、一只白色陶罐和折起的米色纸，使用哑光厚实色块和肯定笔触。画风重点：不透明覆盖、干湿笔、色块与粉质感。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_luma_uni_1_max",
+     "requestedRatio": "4:3",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/LUMA-submission.txt",
+     "resultFile": "assets/provenance/LUMA-result.json",
+     "threadId": "cc3806d4-ab83-4e65-84a1-8a24ada31047",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    }
   ],
   "sheet": "sheets/19-水粉-不透明水彩.jpg"
@@ -1479,7 +4329,37 @@
     "w": 1456,
     "h": 816,
     "full": "images/full/20-MJ82.jpg",
-    "thumb": "images/thumb/20-MJ82.jpg"
+    "thumb": "images/thumb/20-MJ82.jpg",
+    "sourceImage": {
+     "url": "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976022229_79739d23119546068adacfa6f819d200.png",
+     "width": 1456,
+     "height": 816
+    },
+    "prompt": "木刻／套色版画。一艘小渔船穿过起风的海湾，远处灯塔射出一束光，用黑、靛蓝与赭黄三种主要印色组织画面。画风重点：刀刻线条、黑白结构与套色印刷肌理。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "verified_execution",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "model": "Style Image V8.2",
+     "count": 4,
+     "modeType": "text2image",
+     "settings": {
+      "quality": "auto",
+      "ratio": "16:9"
+     },
+     "advancedSettings": {
+      "personalisation": "",
+      "stylize": 100,
+      "weird": 0,
+      "chaos": 0
+     }
+    },
+    "evidence": {
+     "file": "assets/provenance/MJ82-executions.json",
+     "nodeKey": "e6cc9690-b9e7-4f3a-a3c3-ca029a3835f6",
+     "taskId": "20261022084503160794106",
+     "projectId": "e6e972f302324aae8d9b8a868d70be0f",
+     "returnedIndex": 1
+    }
    },
    {
     "id": "GPT",
@@ -1490,7 +4370,31 @@
     "w": 2048,
     "h": 1152,
     "full": "images/full/20-GPT.jpg",
-    "thumb": "images/thumb/20-GPT.jpg"
+    "thumb": "images/thumb/20-GPT.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/UuuaOPyWRG8u1wIQ.png",
+     "width": 2048,
+     "height": 1152
+    },
+    "prompt": "木刻／套色版画。一艘小渔船穿过起风的海湾，远处灯塔射出一束光，用黑、靛蓝与赭黄三种主要印色组织画面。画风重点：刀刻线条、黑白结构与套色印刷肌理。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_gpt_image_2_high",
+     "requestedRatio": "16:9",
+     "requestedCount": 1,
+     "quality": "high (requested; platform reported)",
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/GPT-submission.txt",
+     "resultFile": "assets/provenance/GPT-result.json",
+     "threadId": "8172608a-6903-47b0-8cc4-0c38b989478a",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "NBP",
@@ -1501,7 +4405,31 @@
     "w": 1376,
     "h": 768,
     "full": "images/full/20-NBP.jpg",
-    "thumb": "images/thumb/20-NBP.jpg"
+    "thumb": "images/thumb/20-NBP.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/tWtTX7oZUMAmrOty.png",
+     "width": 1376,
+     "height": 768
+    },
+    "prompt": "木刻／套色版画。一艘小渔船穿过起风的海湾，远处灯塔射出一束光，用黑、靛蓝与赭黄三种主要印色组织画面。画风重点：刀刻线条、黑白结构与套色印刷肌理。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_nano_banana_pro",
+     "requestedRatio": "16:9",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/NBP-submission.txt",
+     "resultFile": "assets/provenance/NBP-result.json",
+     "threadId": "e664abf1-2146-4576-9933-416d0626ce32",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "SD",
@@ -1512,7 +4440,31 @@
     "w": 1424,
     "h": 800,
     "full": "images/full/20-SD.jpg",
-    "thumb": "images/thumb/20-SD.jpg"
+    "thumb": "images/thumb/20-SD.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/d592kz3YE7AAOnnU.png",
+     "width": 1424,
+     "height": 800
+    },
+    "prompt": "木刻／套色版画。一艘小渔船穿过起风的海湾，远处灯塔射出一束光，用黑、靛蓝与赭黄三种主要印色组织画面。画风重点：刀刻线条、黑白结构与套色印刷肌理。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_seedream_v5_pro",
+     "requestedRatio": "16:9",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/SD-submission.txt",
+     "resultFile": "assets/provenance/SD-result.json",
+     "threadId": "1f23f2b4-9d17-4f5a-9b1f-4c38881cf438",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "FLUX",
@@ -1523,7 +4475,31 @@
     "w": 1024,
     "h": 576,
     "full": "images/full/20-FLUX.jpg",
-    "thumb": "images/thumb/20-FLUX.jpg"
+    "thumb": "images/thumb/20-FLUX.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/RD5vPeKRQ2Fa7MVc.jpeg",
+     "width": 1024,
+     "height": 576
+    },
+    "prompt": "木刻／套色版画。一艘小渔船穿过起风的海湾，远处灯塔射出一束光，用黑、靛蓝与赭黄三种主要印色组织画面。画风重点：刀刻线条、黑白结构与套色印刷肌理。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_flux_2_max",
+     "requestedRatio": "16:9",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/FLUX-submission.txt",
+     "resultFile": "assets/provenance/FLUX-result.json",
+     "threadId": "0cacc718-6f4d-4c39-98ab-4c4bf16dcca4",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "LUMA",
@@ -1534,7 +4510,31 @@
     "w": 2672,
     "h": 1504,
     "full": "images/full/20-LUMA.jpg",
-    "thumb": "images/thumb/20-LUMA.jpg"
+    "thumb": "images/thumb/20-LUMA.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/jbscYGdfWaJv5aZ7.png",
+     "width": 2672,
+     "height": 1504
+    },
+    "prompt": "木刻／套色版画。一艘小渔船穿过起风的海湾，远处灯塔射出一束光，用黑、靛蓝与赭黄三种主要印色组织画面。画风重点：刀刻线条、黑白结构与套色印刷肌理。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_luma_uni_1_max",
+     "requestedRatio": "16:9",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/LUMA-submission.txt",
+     "resultFile": "assets/provenance/LUMA-result.json",
+     "threadId": "cc3806d4-ab83-4e65-84a1-8a24ada31047",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    }
   ],
   "sheet": "sheets/20-木刻-套色版画.jpg"
@@ -1556,7 +4556,37 @@
     "w": 1456,
     "h": 816,
     "full": "images/full/21-MJ82.jpg",
-    "thumb": "images/thumb/21-MJ82.jpg"
+    "thumb": "images/thumb/21-MJ82.jpg",
+    "sourceImage": {
+     "url": "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976022248_61791b6e8b5242b8abb050b6ab500b70.png",
+     "width": 1456,
+     "height": 816
+    },
+    "prompt": "中国水墨写意。雨后远山与江南水村，一叶小舟从芦苇旁经过，几笔屋顶与树影落在大片宣纸留白之间。画风重点：笔势、墨色干湿浓淡、留白与概括能力。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "verified_execution",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "model": "Style Image V8.2",
+     "count": 4,
+     "modeType": "text2image",
+     "settings": {
+      "quality": "auto",
+      "ratio": "16:9"
+     },
+     "advancedSettings": {
+      "personalisation": "",
+      "stylize": 100,
+      "weird": 0,
+      "chaos": 0
+     }
+    },
+    "evidence": {
+     "file": "assets/provenance/MJ82-executions.json",
+     "nodeKey": "47acac65-b1ab-4412-bf00-36bf0f0c08d3",
+     "taskId": "20261022084503501264106",
+     "projectId": "e6e972f302324aae8d9b8a868d70be0f",
+     "returnedIndex": 1
+    }
    },
    {
     "id": "GPT",
@@ -1567,7 +4597,31 @@
     "w": 2048,
     "h": 1152,
     "full": "images/full/21-GPT.jpg",
-    "thumb": "images/thumb/21-GPT.jpg"
+    "thumb": "images/thumb/21-GPT.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/IeE9yO76pk4fhf4s.png",
+     "width": 2048,
+     "height": 1152
+    },
+    "prompt": "中国水墨写意。雨后远山与江南水村，一叶小舟从芦苇旁经过，几笔屋顶与树影落在大片宣纸留白之间。画风重点：笔势、墨色干湿浓淡、留白与概括能力。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_gpt_image_2_high",
+     "requestedRatio": "16:9",
+     "requestedCount": 1,
+     "quality": "high (requested; platform reported)",
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/GPT-submission.txt",
+     "resultFile": "assets/provenance/GPT-result.json",
+     "threadId": "8172608a-6903-47b0-8cc4-0c38b989478a",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "NBP",
@@ -1578,7 +4632,31 @@
     "w": 1376,
     "h": 768,
     "full": "images/full/21-NBP.jpg",
-    "thumb": "images/thumb/21-NBP.jpg"
+    "thumb": "images/thumb/21-NBP.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/2jE3oRylFu33Dg1u.png",
+     "width": 1376,
+     "height": 768
+    },
+    "prompt": "中国水墨写意。雨后远山与江南水村，一叶小舟从芦苇旁经过，几笔屋顶与树影落在大片宣纸留白之间。画风重点：笔势、墨色干湿浓淡、留白与概括能力。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_nano_banana_pro",
+     "requestedRatio": "16:9",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/NBP-submission.txt",
+     "resultFile": "assets/provenance/NBP-result.json",
+     "threadId": "e664abf1-2146-4576-9933-416d0626ce32",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "SD",
@@ -1589,7 +4667,31 @@
     "w": 1424,
     "h": 800,
     "full": "images/full/21-SD.jpg",
-    "thumb": "images/thumb/21-SD.jpg"
+    "thumb": "images/thumb/21-SD.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/t9XSX7GQ6H15rLlw.png",
+     "width": 1424,
+     "height": 800
+    },
+    "prompt": "中国水墨写意。雨后远山与江南水村，一叶小舟从芦苇旁经过，几笔屋顶与树影落在大片宣纸留白之间。画风重点：笔势、墨色干湿浓淡、留白与概括能力。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_seedream_v5_pro",
+     "requestedRatio": "16:9",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/SD-submission.txt",
+     "resultFile": "assets/provenance/SD-result.json",
+     "threadId": "1f23f2b4-9d17-4f5a-9b1f-4c38881cf438",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "FLUX",
@@ -1600,7 +4702,31 @@
     "w": 1024,
     "h": 576,
     "full": "images/full/21-FLUX.jpg",
-    "thumb": "images/thumb/21-FLUX.jpg"
+    "thumb": "images/thumb/21-FLUX.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/zyU7NqKzdCHNR0NO.jpeg",
+     "width": 1024,
+     "height": 576
+    },
+    "prompt": "中国水墨写意。雨后远山与江南水村，一叶小舟从芦苇旁经过，几笔屋顶与树影落在大片宣纸留白之间。画风重点：笔势、墨色干湿浓淡、留白与概括能力。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_flux_2_max",
+     "requestedRatio": "16:9",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/FLUX-submission.txt",
+     "resultFile": "assets/provenance/FLUX-result.json",
+     "threadId": "0cacc718-6f4d-4c39-98ab-4c4bf16dcca4",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "LUMA",
@@ -1611,7 +4737,31 @@
     "w": 2672,
     "h": 1504,
     "full": "images/full/21-LUMA.jpg",
-    "thumb": "images/thumb/21-LUMA.jpg"
+    "thumb": "images/thumb/21-LUMA.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/N5Z9wwM8O574AV7X.png",
+     "width": 2672,
+     "height": 1504
+    },
+    "prompt": "中国水墨写意。雨后远山与江南水村，一叶小舟从芦苇旁经过，几笔屋顶与树影落在大片宣纸留白之间。画风重点：笔势、墨色干湿浓淡、留白与概括能力。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_luma_uni_1_max",
+     "requestedRatio": "16:9",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/LUMA-submission.txt",
+     "resultFile": "assets/provenance/LUMA-result.json",
+     "threadId": "cc3806d4-ab83-4e65-84a1-8a24ada31047",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    }
   ],
   "sheet": "sheets/21-中国水墨写意.jpg"
@@ -1633,7 +4783,37 @@
     "w": 928,
     "h": 1232,
     "full": "images/full/22-MJ82.jpg",
-    "thumb": "images/thumb/22-MJ82.jpg"
+    "thumb": "images/thumb/22-MJ82.jpg",
+    "sourceImage": {
+     "url": "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976022832_cbd94ec367fd4b95a5618e15d0d74543.png",
+     "width": 928,
+     "height": 1232
+    },
+    "prompt": "工笔重彩。一位穿浅色传统衣裙的成年女子站在盛开的牡丹旁，枝上停一只锦鸡，细线勾勒衣纹、羽毛和花瓣。画风重点：细劲勾线、分染、重彩和装饰性。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "verified_execution",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "model": "Style Image V8.2",
+     "count": 4,
+     "modeType": "text2image",
+     "settings": {
+      "quality": "auto",
+      "ratio": "3:4"
+     },
+     "advancedSettings": {
+      "personalisation": "",
+      "stylize": 100,
+      "weird": 0,
+      "chaos": 0
+     }
+    },
+    "evidence": {
+     "file": "assets/provenance/MJ82-executions.json",
+     "nodeKey": "c0c57af2-48e9-4666-9cb7-819123224387",
+     "taskId": "20261022084603760394106",
+     "projectId": "e6e972f302324aae8d9b8a868d70be0f",
+     "returnedIndex": 1
+    }
    },
    {
     "id": "GPT",
@@ -1644,7 +4824,31 @@
     "w": 1536,
     "h": 2048,
     "full": "images/full/22-GPT.jpg",
-    "thumb": "images/thumb/22-GPT.jpg"
+    "thumb": "images/thumb/22-GPT.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/DqZbyRGD0RB1aa4W.png",
+     "width": 1536,
+     "height": 2048
+    },
+    "prompt": "工笔重彩。一位穿浅色传统衣裙的成年女子站在盛开的牡丹旁，枝上停一只锦鸡，细线勾勒衣纹、羽毛和花瓣。画风重点：细劲勾线、分染、重彩和装饰性。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_gpt_image_2_high",
+     "requestedRatio": "3:4",
+     "requestedCount": 1,
+     "quality": "high (requested; platform reported)",
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/GPT-submission.txt",
+     "resultFile": "assets/provenance/GPT-result.json",
+     "threadId": "8172608a-6903-47b0-8cc4-0c38b989478a",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "NBP",
@@ -1655,7 +4859,31 @@
     "w": 896,
     "h": 1200,
     "full": "images/full/22-NBP.jpg",
-    "thumb": "images/thumb/22-NBP.jpg"
+    "thumb": "images/thumb/22-NBP.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/CYlUb5cRIiIsa2wd.png",
+     "width": 896,
+     "height": 1200
+    },
+    "prompt": "工笔重彩。一位穿浅色传统衣裙的成年女子站在盛开的牡丹旁，枝上停一只锦鸡，细线勾勒衣纹、羽毛和花瓣。画风重点：细劲勾线、分染、重彩和装饰性。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_nano_banana_pro",
+     "requestedRatio": "3:4",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/NBP-submission.txt",
+     "resultFile": "assets/provenance/NBP-result.json",
+     "threadId": "e664abf1-2146-4576-9933-416d0626ce32",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "SD",
@@ -1666,7 +4894,31 @@
     "w": 864,
     "h": 1152,
     "full": "images/full/22-SD.jpg",
-    "thumb": "images/thumb/22-SD.jpg"
+    "thumb": "images/thumb/22-SD.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/jsNdp3HygqB7Gc6Q.png",
+     "width": 864,
+     "height": 1152
+    },
+    "prompt": "工笔重彩。一位穿浅色传统衣裙的成年女子站在盛开的牡丹旁，枝上停一只锦鸡，细线勾勒衣纹、羽毛和花瓣。画风重点：细劲勾线、分染、重彩和装饰性。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_seedream_v5_pro",
+     "requestedRatio": "3:4",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/SD-submission.txt",
+     "resultFile": "assets/provenance/SD-result.json",
+     "threadId": "1f23f2b4-9d17-4f5a-9b1f-4c38881cf438",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "FLUX",
@@ -1677,7 +4929,31 @@
     "w": 768,
     "h": 1024,
     "full": "images/full/22-FLUX.jpg",
-    "thumb": "images/thumb/22-FLUX.jpg"
+    "thumb": "images/thumb/22-FLUX.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/tD07dlkyrvLLHm7y.jpeg",
+     "width": 768,
+     "height": 1024
+    },
+    "prompt": "工笔重彩。一位穿浅色传统衣裙的成年女子站在盛开的牡丹旁，枝上停一只锦鸡，细线勾勒衣纹、羽毛和花瓣。画风重点：细劲勾线、分染、重彩和装饰性。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_flux_2_max",
+     "requestedRatio": "3:4",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/FLUX-submission.txt",
+     "resultFile": "assets/provenance/FLUX-result.json",
+     "threadId": "0cacc718-6f4d-4c39-98ab-4c4bf16dcca4",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "LUMA",
@@ -1688,7 +4964,31 @@
     "w": 1632,
     "h": 2464,
     "full": "images/full/22-LUMA.jpg",
-    "thumb": "images/thumb/22-LUMA.jpg"
+    "thumb": "images/thumb/22-LUMA.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/rOm0P3cwhP5ZeXlZ.png",
+     "width": 1632,
+     "height": 2464
+    },
+    "prompt": "工笔重彩。一位穿浅色传统衣裙的成年女子站在盛开的牡丹旁，枝上停一只锦鸡，细线勾勒衣纹、羽毛和花瓣。画风重点：细劲勾线、分染、重彩和装饰性。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_luma_uni_1_max",
+     "requestedRatio": "3:4",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/LUMA-submission.txt",
+     "resultFile": "assets/provenance/LUMA-result.json",
+     "threadId": "cc3806d4-ab83-4e65-84a1-8a24ada31047",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    }
   ],
   "sheet": "sheets/22-工笔重彩.jpg"
@@ -1710,7 +5010,37 @@
     "w": 1344,
     "h": 896,
     "full": "images/full/23-MJ82.jpg",
-    "thumb": "images/thumb/23-MJ82.jpg"
+    "thumb": "images/thumb/23-MJ82.jpg",
+    "sourceImage": {
+     "url": "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976022904_5d8e9c17aa3f43e5abd26a086f0b3da7.png",
+     "width": 1344,
+     "height": 896
+    },
+    "prompt": "浮世绘。雪中的木桥横跨河面，撑红伞的成年行人经过桥中央，岸边有松树和低矮木屋，以平面套色组织雪景。画风重点：木版轮廓、套色、空间裁切与图案化。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "verified_execution",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "model": "Style Image V8.2",
+     "count": 4,
+     "modeType": "text2image",
+     "settings": {
+      "quality": "auto",
+      "ratio": "3:2"
+     },
+     "advancedSettings": {
+      "personalisation": "",
+      "stylize": 100,
+      "weird": 0,
+      "chaos": 0
+     }
+    },
+    "evidence": {
+     "file": "assets/provenance/MJ82-executions.json",
+     "nodeKey": "be89a406-f4be-440d-a7b9-00ef30861b21",
+     "taskId": "20261022084603871304106",
+     "projectId": "e6e972f302324aae8d9b8a868d70be0f",
+     "returnedIndex": 1
+    }
    },
    {
     "id": "GPT",
@@ -1721,7 +5051,31 @@
     "w": 2016,
     "h": 1344,
     "full": "images/full/23-GPT.jpg",
-    "thumb": "images/thumb/23-GPT.jpg"
+    "thumb": "images/thumb/23-GPT.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/6J7O7kw86rEs5el4.png",
+     "width": 2016,
+     "height": 1344
+    },
+    "prompt": "浮世绘。雪中的木桥横跨河面，撑红伞的成年行人经过桥中央，岸边有松树和低矮木屋，以平面套色组织雪景。画风重点：木版轮廓、套色、空间裁切与图案化。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_gpt_image_2_high",
+     "requestedRatio": "3:2",
+     "requestedCount": 1,
+     "quality": "high (requested; platform reported)",
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/GPT-submission.txt",
+     "resultFile": "assets/provenance/GPT-result.json",
+     "threadId": "8172608a-6903-47b0-8cc4-0c38b989478a",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "NBP",
@@ -1732,7 +5086,31 @@
     "w": 1264,
     "h": 848,
     "full": "images/full/23-NBP.jpg",
-    "thumb": "images/thumb/23-NBP.jpg"
+    "thumb": "images/thumb/23-NBP.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/Uom4b4EgBh4Pwsld.png",
+     "width": 1264,
+     "height": 848
+    },
+    "prompt": "浮世绘。雪中的木桥横跨河面，撑红伞的成年行人经过桥中央，岸边有松树和低矮木屋，以平面套色组织雪景。画风重点：木版轮廓、套色、空间裁切与图案化。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_nano_banana_pro",
+     "requestedRatio": "3:2",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/NBP-submission.txt",
+     "resultFile": "assets/provenance/NBP-result.json",
+     "threadId": "e664abf1-2146-4576-9933-416d0626ce32",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "SD",
@@ -1743,7 +5121,31 @@
     "w": 1248,
     "h": 832,
     "full": "images/full/23-SD.jpg",
-    "thumb": "images/thumb/23-SD.jpg"
+    "thumb": "images/thumb/23-SD.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/62qdB1A4a8Eo1lwA.png",
+     "width": 1248,
+     "height": 832
+    },
+    "prompt": "浮世绘。雪中的木桥横跨河面，撑红伞的成年行人经过桥中央，岸边有松树和低矮木屋，以平面套色组织雪景。画风重点：木版轮廓、套色、空间裁切与图案化。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_seedream_v5_pro",
+     "requestedRatio": "3:2",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/SD-submission.txt",
+     "resultFile": "assets/provenance/SD-result.json",
+     "threadId": "1f23f2b4-9d17-4f5a-9b1f-4c38881cf438",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "FLUX",
@@ -1754,7 +5156,31 @@
     "w": 1024,
     "h": 672,
     "full": "images/full/23-FLUX.jpg",
-    "thumb": "images/thumb/23-FLUX.jpg"
+    "thumb": "images/thumb/23-FLUX.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/Js0UsQ1wWEBVdo19.jpeg",
+     "width": 1024,
+     "height": 672
+    },
+    "prompt": "浮世绘。雪中的木桥横跨河面，撑红伞的成年行人经过桥中央，岸边有松树和低矮木屋，以平面套色组织雪景。画风重点：木版轮廓、套色、空间裁切与图案化。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_flux_2_max",
+     "requestedRatio": "3:2",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/FLUX-submission.txt",
+     "resultFile": "assets/provenance/FLUX-result.json",
+     "threadId": "0cacc718-6f4d-4c39-98ab-4c4bf16dcca4",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "LUMA",
@@ -1765,7 +5191,31 @@
     "w": 2464,
     "h": 1632,
     "full": "images/full/23-LUMA.jpg",
-    "thumb": "images/thumb/23-LUMA.jpg"
+    "thumb": "images/thumb/23-LUMA.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/aDbAqqrywS2hD8YY.png",
+     "width": 2464,
+     "height": 1632
+    },
+    "prompt": "浮世绘。雪中的木桥横跨河面，撑红伞的成年行人经过桥中央，岸边有松树和低矮木屋，以平面套色组织雪景。画风重点：木版轮廓、套色、空间裁切与图案化。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_luma_uni_1_max",
+     "requestedRatio": "3:2",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/LUMA-submission.txt",
+     "resultFile": "assets/provenance/LUMA-result.json",
+     "threadId": "cc3806d4-ab83-4e65-84a1-8a24ada31047",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    }
   ],
   "sheet": "sheets/23-浮世绘.jpg"
@@ -1787,7 +5237,37 @@
     "w": 928,
     "h": 1232,
     "full": "images/full/24-MJ82.jpg",
-    "thumb": "images/thumb/24-MJ82.jpg"
+    "thumb": "images/thumb/24-MJ82.jpg",
+    "sourceImage": {
+     "url": "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976022930_d710624ba8c34711bb6a4a10f1a79f9c.png",
+     "width": 928,
+     "height": 1232
+    },
+    "prompt": "新艺术装饰风格。一位成年女性侧身捧着百合，长发与鸢尾、藤蔓连接成流动曲线，奶油色、青绿与金色构成装饰边框。画风重点：流动曲线、人物与花卉一体化、装饰平面。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "verified_execution",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "model": "Style Image V8.2",
+     "count": 4,
+     "modeType": "text2image",
+     "settings": {
+      "quality": "auto",
+      "ratio": "3:4"
+     },
+     "advancedSettings": {
+      "personalisation": "",
+      "stylize": 100,
+      "weird": 0,
+      "chaos": 0
+     }
+    },
+    "evidence": {
+     "file": "assets/provenance/MJ82-executions.json",
+     "nodeKey": "a28cc7c8-0296-44bd-a243-938e525224b5",
+     "taskId": "20261022084603298534106",
+     "projectId": "e6e972f302324aae8d9b8a868d70be0f",
+     "returnedIndex": 1
+    }
    },
    {
     "id": "GPT",
@@ -1798,7 +5278,31 @@
     "w": 1536,
     "h": 2048,
     "full": "images/full/24-GPT.jpg",
-    "thumb": "images/thumb/24-GPT.jpg"
+    "thumb": "images/thumb/24-GPT.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/3PKrhDMgqALAV4nn.png",
+     "width": 1536,
+     "height": 2048
+    },
+    "prompt": "新艺术装饰风格。一位成年女性侧身捧着百合，长发与鸢尾、藤蔓连接成流动曲线，奶油色、青绿与金色构成装饰边框。画风重点：流动曲线、人物与花卉一体化、装饰平面。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_gpt_image_2_high",
+     "requestedRatio": "3:4",
+     "requestedCount": 1,
+     "quality": "high (requested; platform reported)",
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/GPT-submission.txt",
+     "resultFile": "assets/provenance/GPT-result.json",
+     "threadId": "8172608a-6903-47b0-8cc4-0c38b989478a",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "NBP",
@@ -1809,7 +5313,31 @@
     "w": 896,
     "h": 1200,
     "full": "images/full/24-NBP.jpg",
-    "thumb": "images/thumb/24-NBP.jpg"
+    "thumb": "images/thumb/24-NBP.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/6m3rtwjZAjH9nvzQ.png",
+     "width": 896,
+     "height": 1200
+    },
+    "prompt": "新艺术装饰风格。一位成年女性侧身捧着百合，长发与鸢尾、藤蔓连接成流动曲线，奶油色、青绿与金色构成装饰边框。画风重点：流动曲线、人物与花卉一体化、装饰平面。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_nano_banana_pro",
+     "requestedRatio": "3:4",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/NBP-submission.txt",
+     "resultFile": "assets/provenance/NBP-result.json",
+     "threadId": "e664abf1-2146-4576-9933-416d0626ce32",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "SD",
@@ -1820,7 +5348,31 @@
     "w": 864,
     "h": 1152,
     "full": "images/full/24-SD.jpg",
-    "thumb": "images/thumb/24-SD.jpg"
+    "thumb": "images/thumb/24-SD.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/xMURO06xAkLkp5So.png",
+     "width": 864,
+     "height": 1152
+    },
+    "prompt": "新艺术装饰风格。一位成年女性侧身捧着百合，长发与鸢尾、藤蔓连接成流动曲线，奶油色、青绿与金色构成装饰边框。画风重点：流动曲线、人物与花卉一体化、装饰平面。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_seedream_v5_pro",
+     "requestedRatio": "3:4",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/SD-submission.txt",
+     "resultFile": "assets/provenance/SD-result.json",
+     "threadId": "1f23f2b4-9d17-4f5a-9b1f-4c38881cf438",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "FLUX",
@@ -1831,7 +5383,31 @@
     "w": 768,
     "h": 1024,
     "full": "images/full/24-FLUX.jpg",
-    "thumb": "images/thumb/24-FLUX.jpg"
+    "thumb": "images/thumb/24-FLUX.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/Q7FzvPtqL1AuFvyW.jpeg",
+     "width": 768,
+     "height": 1024
+    },
+    "prompt": "新艺术装饰风格。一位成年女性侧身捧着百合，长发与鸢尾、藤蔓连接成流动曲线，奶油色、青绿与金色构成装饰边框。画风重点：流动曲线、人物与花卉一体化、装饰平面。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_flux_2_max",
+     "requestedRatio": "3:4",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/FLUX-submission.txt",
+     "resultFile": "assets/provenance/FLUX-result.json",
+     "threadId": "0cacc718-6f4d-4c39-98ab-4c4bf16dcca4",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "LUMA",
@@ -1842,7 +5418,31 @@
     "w": 1632,
     "h": 2464,
     "full": "images/full/24-LUMA.jpg",
-    "thumb": "images/thumb/24-LUMA.jpg"
+    "thumb": "images/thumb/24-LUMA.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/pDglTRiYaYCXj0Sh.png",
+     "width": 1632,
+     "height": 2464
+    },
+    "prompt": "新艺术装饰风格。一位成年女性侧身捧着百合，长发与鸢尾、藤蔓连接成流动曲线，奶油色、青绿与金色构成装饰边框。画风重点：流动曲线、人物与花卉一体化、装饰平面。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_luma_uni_1_max",
+     "requestedRatio": "3:4",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/LUMA-submission.txt",
+     "resultFile": "assets/provenance/LUMA-result.json",
+     "threadId": "cc3806d4-ab83-4e65-84a1-8a24ada31047",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    }
   ],
   "sheet": "sheets/24-新艺术装饰风格.jpg"
@@ -1864,7 +5464,37 @@
     "w": 1456,
     "h": 816,
     "full": "images/full/25-MJ82.jpg",
-    "thumb": "images/thumb/25-MJ82.jpg"
+    "thumb": "images/thumb/25-MJ82.jpg",
+    "sourceImage": {
+     "url": "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976023655_bfa2ea0ba97946feaff0c1f9b22f8254.png",
+     "width": 1456,
+     "height": 816
+    },
+    "prompt": "像素艺术。雨夜的小城公交站，便利店窗口透出暖光，一个撑伞的人等车，霓虹倒影用有限色板和清楚像素簇表现。画风重点：手工安排的像素簇、硬边、有限调色板，而非照片像素化。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "verified_execution",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "model": "Style Image V8.2",
+     "count": 4,
+     "modeType": "text2image",
+     "settings": {
+      "quality": "auto",
+      "ratio": "16:9"
+     },
+     "advancedSettings": {
+      "personalisation": "",
+      "stylize": 100,
+      "weird": 0,
+      "chaos": 0
+     }
+    },
+    "evidence": {
+     "file": "assets/provenance/MJ82-executions.json",
+     "nodeKey": "3ca3a423-9288-4b4d-98f8-51bc96285ad5",
+     "taskId": "20261022084803852584106",
+     "projectId": "e6e972f302324aae8d9b8a868d70be0f",
+     "returnedIndex": 1
+    }
    },
    {
     "id": "GPT",
@@ -1875,7 +5505,31 @@
     "w": 2048,
     "h": 1152,
     "full": "images/full/25-GPT.jpg",
-    "thumb": "images/thumb/25-GPT.jpg"
+    "thumb": "images/thumb/25-GPT.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/FaFERaBWb41jUGRQ.png",
+     "width": 2048,
+     "height": 1152
+    },
+    "prompt": "像素艺术。雨夜的小城公交站，便利店窗口透出暖光，一个撑伞的人等车，霓虹倒影用有限色板和清楚像素簇表现。画风重点：手工安排的像素簇、硬边、有限调色板，而非照片像素化。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_gpt_image_2_high",
+     "requestedRatio": "16:9",
+     "requestedCount": 1,
+     "quality": "high (requested; platform reported)",
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/GPT-submission.txt",
+     "resultFile": "assets/provenance/GPT-result.json",
+     "threadId": "8172608a-6903-47b0-8cc4-0c38b989478a",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "NBP",
@@ -1886,7 +5540,31 @@
     "w": 1376,
     "h": 768,
     "full": "images/full/25-NBP.jpg",
-    "thumb": "images/thumb/25-NBP.jpg"
+    "thumb": "images/thumb/25-NBP.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/JuDsaVxbNtIDunT7.png",
+     "width": 1376,
+     "height": 768
+    },
+    "prompt": "像素艺术。雨夜的小城公交站，便利店窗口透出暖光，一个撑伞的人等车，霓虹倒影用有限色板和清楚像素簇表现。画风重点：手工安排的像素簇、硬边、有限调色板，而非照片像素化。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_nano_banana_pro",
+     "requestedRatio": "16:9",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/NBP-submission.txt",
+     "resultFile": "assets/provenance/NBP-result.json",
+     "threadId": "e664abf1-2146-4576-9933-416d0626ce32",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "SD",
@@ -1897,7 +5575,31 @@
     "w": 1424,
     "h": 800,
     "full": "images/full/25-SD.jpg",
-    "thumb": "images/thumb/25-SD.jpg"
+    "thumb": "images/thumb/25-SD.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/SYKvExqHIRLlLTw1.png",
+     "width": 1424,
+     "height": 800
+    },
+    "prompt": "像素艺术。雨夜的小城公交站，便利店窗口透出暖光，一个撑伞的人等车，霓虹倒影用有限色板和清楚像素簇表现。画风重点：手工安排的像素簇、硬边、有限调色板，而非照片像素化。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_seedream_v5_pro",
+     "requestedRatio": "16:9",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/SD-submission.txt",
+     "resultFile": "assets/provenance/SD-result.json",
+     "threadId": "1f23f2b4-9d17-4f5a-9b1f-4c38881cf438",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "FLUX",
@@ -1908,7 +5610,31 @@
     "w": 1024,
     "h": 576,
     "full": "images/full/25-FLUX.jpg",
-    "thumb": "images/thumb/25-FLUX.jpg"
+    "thumb": "images/thumb/25-FLUX.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/MMdLSQepGFDdfaMw.jpeg",
+     "width": 1024,
+     "height": 576
+    },
+    "prompt": "像素艺术。雨夜的小城公交站，便利店窗口透出暖光，一个撑伞的人等车，霓虹倒影用有限色板和清楚像素簇表现。画风重点：手工安排的像素簇、硬边、有限调色板，而非照片像素化。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_flux_2_max",
+     "requestedRatio": "16:9",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/FLUX-submission.txt",
+     "resultFile": "assets/provenance/FLUX-result.json",
+     "threadId": "0cacc718-6f4d-4c39-98ab-4c4bf16dcca4",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    },
    {
     "id": "LUMA",
@@ -1919,7 +5645,31 @@
     "w": 2672,
     "h": 1504,
     "full": "images/full/25-LUMA.jpg",
-    "thumb": "images/thumb/25-LUMA.jpg"
+    "thumb": "images/thumb/25-LUMA.jpg",
+    "sourceImage": {
+     "url": "https://a.lovart.ai/artifacts/agent/9EDUCBJpnX5vEhiB.png",
+     "width": 2672,
+     "height": 1504
+    },
+    "prompt": "像素艺术。雨夜的小城公交站，便利店窗口透出暖光，一个撑伞的人等车，霓虹倒影用有限色板和清楚像素簇表现。画风重点：手工安排的像素簇、硬边、有限调色板，而非照片像素化。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+    "promptStatus": "submitted_to_agent_only",
+    "promptDiffersFromCommon": false,
+    "parameters": {
+     "requestedModel": "generate_image_luma_uni_1_max",
+     "requestedRatio": "16:9",
+     "requestedCount": 1,
+     "quality": null,
+     "seed": null,
+     "cfg": null,
+     "backendPrompt": null
+    },
+    "evidence": {
+     "file": "assets/provenance/LUMA-submission.txt",
+     "resultFile": "assets/provenance/LUMA-result.json",
+     "threadId": "cc3806d4-ab83-4e65-84a1-8a24ada31047",
+     "projectId": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+     "note": "代理提交题面；结果接口未公开底层工具调用参数、英文改写或重试历史，不能据此确认底层逐字一致。"
+    }
    }
   ],
   "sheet": "sheets/25-像素艺术.jpg"

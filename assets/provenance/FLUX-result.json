@@ -1,0 +1,118 @@
+{
+  "thread_id": "0cacc718-6f4d-4c39-98ab-4c4bf16dcca4",
+  "project_id": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+  "status": "done",
+  "requested_model": "generate_image_flux_2_max",
+  "items": [
+    {
+      "type": "assistant",
+      "text": "娜娜第二轮画风测试已完成，共25张独立图片，全部使用 `generate_image_flux_2_max` 生成，未做参考、编辑或后处理。\n\n| 题号 | 实际图片URL | 实际调用模型 | 尺寸 |\n|---|---|---|---|\n| 01｜自然纪实摄影 | https://a.lovart.ai/artifacts/agent/iMgN1gP99DubKAy9.jpeg | generate_image_flux_2_max | 1024×672 |\n| 02｜高级时尚大片 | https://a.lovart.ai/artifacts/agent/7NaFdwwyJcEc0ngg.jpeg | generate_image_flux_2_max | 768×1024 |\n| 03｜电影叙事剧照 | https://a.lovart.ai/artifacts/agent/T7mjI5dYTsGRX8Eb.jpeg | generate_image_flux_2_max | 1024×576 |\n| 04｜复古胶片摄影 | https://a.lovart.ai/artifacts/agent/NrCinfGdO12OyzUs.jpeg | generate_image_flux_2_max | 1024×672 |\n| 05｜超现实商业摄影 | https://a.lovart.ai/artifacts/agent/EWizzqyu3r9lTDqk.jpeg | generate_image_flux_2_max | 1024×768 |\n| 06｜电影级写实CG | https://a.lovart.ai/artifacts/agent/2XR6WylyNB49evri.jpeg | generate_image_flux_2_max | 768×1024 |\n| 07｜风格化3D动画 | https://a.lovart.ai/artifacts/agent/5nMzHjEbyeFukOl2.jpeg | generate_image_flux_2_max | 1024×768 |\n| 08｜黏土定格 | https://a.lovart.ai/artifacts/agent/EiwaJY4Dd0IvbeVk.jpeg | generate_image_flux_2_max | 1024×768 |\n| 09｜纸艺立体场景 | https://a.lovart.ai/artifacts/agent/pl5vkeJPqgHBD99y.jpeg | generate_image_flux_2_max | 1024×576 |\n| 10｜等距低多边形 | https://a.lovart.ai/artifacts/agent/GcM08e5tmr2sF0iT.jpeg | generate_image_flux_2_max | 1024×768 |\n| 11｜日系赛璐璐动画 | https://a.lovart.ai/artifacts/agent/3WKIMPNwW4IykyNA.jpeg | generate_image_flux_2_max | 1024×576 |\n| 12｜日系厚涂游戏插画 | https://a.lovart.ai/artifacts/agent/8RahDJ5RibGaPRLt.jpeg | generate_image_flux_2_max | 768×1024 |\n| 13｜美式漫画 | https://a.lovart.ai/artifacts/agent/auW7A2G8ikEx0dL2.jpeg | generate_image_flux_2_max | 1024×576 |\n| 14｜欧式绘本 | https://a.lovart.ai/artifacts/agent/751Z6lS23VKLnQKd.jpeg | generate_image_flux_2_max | 1024×576 |\n| 15｜平面商业插画 | https://a.lovart.ai/artifacts/agent/OdK1wWa7wnLgnrzR.jpeg | generate_image_flux_2_max | 1024×576 |\n| 16｜古典油画 | https://a.lovart.ai/artifacts/agent/ztQpEjecH86aaLMI.jpeg | generate_image_flux_2_max | 768×1024 |\n| 17｜印象派油画 | https://a.lovart.ai/artifacts/agent/FbRWbsFdmQ6qadqg.jpeg | generate_image_flux_2_max | 1024×576 |\n| 18｜透明水彩 | https://a.lovart.ai/artifacts/agent/HXa0jsHKHD4vHBEz.jpeg | generate_image_flux_2_max | 1024×768 |\n| 19｜水粉／不透明水彩 | https://a.lovart.ai/artifacts/agent/OgireStMapCrC2v1.jpeg | generate_image_flux_2_max | 1024×768 |\n| 20｜木刻／套色版画 | https://a.lovart.ai/artifacts/agent/RD5vPeKRQ2Fa7MVc.jpeg | generate_image_flux_2_max | 1024×576 |\n| 21｜中国水墨写意 | https://a.lovart.ai/artifacts/agent/zyU7NqKzdCHNR0NO.jpeg | generate_image_flux_2_max | 1024×576 |\n| 22｜工笔重彩 | https://a.lovart.ai/artifacts/agent/tD07dlkyrvLLHm7y.jpeg | generate_image_flux_2_max | 768×1024 |\n| 23｜浮世绘 | https://a.lovart.ai/artifacts/agent/Js0UsQ1wWEBVdo19.jpeg | generate_image_flux_2_max | 1024×672 |\n| 24｜新艺术装饰风格 | https://a.lovart.ai/artifacts/agent/Q7FzvPtqL1AuFvyW.jpeg | generate_image_flux_2_max | 768×1024 |\n| 25｜像素艺术 | https://a.lovart.ai/artifacts/agent/MMdLSQepGFDdfaMw.jpeg | generate_image_flux_2_max | 1024×576 |\n\n底层未暴露参数（seed、sampling、CFG、LoRA 等）：未知。"
+    },
+    {
+      "type": "generator",
+      "artifacts": [
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/7NaFdwwyJcEc0ngg.jpeg"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/EWizzqyu3r9lTDqk.jpeg"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/iMgN1gP99DubKAy9.jpeg"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/NrCinfGdO12OyzUs.jpeg"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/T7mjI5dYTsGRX8Eb.jpeg"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/5nMzHjEbyeFukOl2.jpeg"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/GcM08e5tmr2sF0iT.jpeg"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/pl5vkeJPqgHBD99y.jpeg"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/2XR6WylyNB49evri.jpeg"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/EiwaJY4Dd0IvbeVk.jpeg"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/OdK1wWa7wnLgnrzR.jpeg"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/auW7A2G8ikEx0dL2.jpeg"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/751Z6lS23VKLnQKd.jpeg"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/3WKIMPNwW4IykyNA.jpeg"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/8RahDJ5RibGaPRLt.jpeg"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/HXa0jsHKHD4vHBEz.jpeg"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/ztQpEjecH86aaLMI.jpeg"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/RD5vPeKRQ2Fa7MVc.jpeg"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/OgireStMapCrC2v1.jpeg"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/FbRWbsFdmQ6qadqg.jpeg"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/Q7FzvPtqL1AuFvyW.jpeg"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/tD07dlkyrvLLHm7y.jpeg"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/zyU7NqKzdCHNR0NO.jpeg"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/Js0UsQ1wWEBVdo19.jpeg"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/MMdLSQepGFDdfaMw.jpeg"
+        }
+      ],
+      "name": "artifacts"
+    }
+  ]
+}

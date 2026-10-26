@@ -1,0 +1,727 @@
+[
+  {
+    "styleId": "01",
+    "nodeKey": "5a5c83ea-69e0-4ab9-8a1b-dc8edd8d5791",
+    "taskId": "20261022083703293544106",
+    "status": 2,
+    "params": {
+      "prompt": "自然纪实摄影。清晨菜市场，摊主把一袋青菜递给顾客，侧面的日光穿过遮雨棚，表情与动作自然。画风重点：生活瞬间、自然光、真实皮肤与衣料。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+      "model": "Style Image V8.2",
+      "count": 4,
+      "modeType": "text2image",
+      "settings": {
+        "quality": "auto",
+        "ratio": "3:2"
+      },
+      "advancedSettings": {
+        "personalisation": "",
+        "stylize": 100,
+        "weird": 0,
+        "chaos": 0
+      }
+    },
+    "urls": [
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976018137_71b20b72d00f4c70add084b5e30f6abf.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976018137_1692c470b7ff479e8536612e513dc128.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976018137_575fc949d6a64772b3a98585d7c9b905.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976018137_1e7ea833b9f442088b528209030c4f10.png"
+    ],
+    "beforeRunAfterParamsMatch": true
+  },
+  {
+    "styleId": "02",
+    "nodeKey": "7bd93bdd-efd9-42d1-b32f-499705bf6074",
+    "taskId": "20261022083403201244106",
+    "status": 2,
+    "params": {
+      "prompt": "高级时尚大片。成年女性模特穿黑色雕塑感高级定制礼服，站在奶油色弧形楼梯平台，造型利落，服装廓形是主体。画风重点：造型、廓形、精确布光与版面感。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+      "model": "Style Image V8.2",
+      "count": 4,
+      "modeType": "text2image",
+      "settings": {
+        "quality": "auto",
+        "ratio": "3:4"
+      },
+      "advancedSettings": {
+        "personalisation": "",
+        "stylize": 100,
+        "weird": 0,
+        "chaos": 0
+      }
+    },
+    "urls": [
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976016842_3e00b204efa54f5ea18845190bcb000c.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976016842_3061cf1fff0143838a47a43bd16c5d1b.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976016842_c4f8b0a0e3364d648fd2d1d74f5edcbb.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976016842_7cae3f3688a34ad7bf8937f6e9094ace.png"
+    ],
+    "beforeRunAfterParamsMatch": true
+  },
+  {
+    "styleId": "03",
+    "nodeKey": "547bdacc-40a9-4336-a206-c81f2c6d7d16",
+    "taskId": "20261022083703446204106",
+    "status": 2,
+    "params": {
+      "prompt": "电影叙事剧照。雨后的夜间小站，末班列车刚离开，一名成年旅人拎旧皮箱站在暖色站灯下，湿地面映出尾灯。画风重点：单帧叙事、人物与环境、光源动机。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+      "model": "Style Image V8.2",
+      "count": 4,
+      "modeType": "text2image",
+      "settings": {
+        "quality": "auto",
+        "ratio": "16:9"
+      },
+      "advancedSettings": {
+        "personalisation": "",
+        "stylize": 100,
+        "weird": 0,
+        "chaos": 0
+      }
+    },
+    "urls": [
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976018138_163db235db604183997af6095dbbee26.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976018138_1d72e1f41f5c44a993393f189f5609c3.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976018138_3d299e9856f045dba5c99da2e5d149a7.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976018138_d2803c566a6f4800b16e9c95c079343d.png"
+    ],
+    "beforeRunAfterParamsMatch": true
+  },
+  {
+    "styleId": "04",
+    "nodeKey": "f9ca5d93-40a5-49db-99cb-15c94a44f95c",
+    "taskId": "20261022083703304914106",
+    "status": 2,
+    "params": {
+      "prompt": "复古胶片摄影。夏日海边公路休息区，两名成年朋友靠在旧敞篷车旁吃冰棍，阳光照着褪色遮阳伞与海风吹动的衣角。画风重点：胶片色彩、高光过渡、自然而非棚拍的气息。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+      "model": "Style Image V8.2",
+      "count": 4,
+      "modeType": "text2image",
+      "settings": {
+        "quality": "auto",
+        "ratio": "3:2"
+      },
+      "advancedSettings": {
+        "personalisation": "",
+        "stylize": 100,
+        "weird": 0,
+        "chaos": 0
+      }
+    },
+    "urls": [
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976018135_09a1e102ffef41c3b568857714a1def4.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976018135_d40255fb63194fc796a60446b1da8dae.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976018135_65dbe5bdf1264ddd9f6d19f5f89603d9.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976018135_b366e09f554a4d168d8850f45b59afc1.png"
+    ],
+    "beforeRunAfterParamsMatch": true
+  },
+  {
+    "styleId": "05",
+    "nodeKey": "de040316-57e3-405a-b49a-7421d6311c99",
+    "taskId": "20261022083803880544106",
+    "status": 2,
+    "params": {
+      "prompt": "超现实商业摄影。一瓶无品牌柑橘香水悬在剖开的巨大橙子上方，橙皮像长丝带卷起，浅杏色背景，物体轮廓清晰。画风重点：产品主次、创意物理关系、材质与广告布光。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+      "model": "Style Image V8.2",
+      "count": 4,
+      "modeType": "text2image",
+      "settings": {
+        "quality": "auto",
+        "ratio": "4:3"
+      },
+      "advancedSettings": {
+        "personalisation": "",
+        "stylize": 100,
+        "weird": 0,
+        "chaos": 0
+      }
+    },
+    "urls": [
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976018757_22cb093e9a1c49e2a335d6e02e8909ae.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976018757_9547f5d873dd4e51bed6d6e85c6b29a0.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976018757_ba7bc860476d48e082fdeba016de0ec8.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976018757_d4f62d3fffb44bdba0453e9cff57918b.png"
+    ],
+    "beforeRunAfterParamsMatch": true
+  },
+  {
+    "styleId": "06",
+    "nodeKey": "35368b5b-3faa-43ff-8869-54aa3b1ffeb9",
+    "taskId": "20261022083803123474106",
+    "status": 2,
+    "params": {
+      "prompt": "电影级写实CG。成年银甲女骑士走进巨大的废弃天文殿，破碎星盘悬在穹顶下，冷光照出铠甲、石材与轻薄披风。画风重点：角色设计、真实材质、空间尺度与CG表现。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+      "model": "Style Image V8.2",
+      "count": 4,
+      "modeType": "text2image",
+      "settings": {
+        "quality": "auto",
+        "ratio": "3:4"
+      },
+      "advancedSettings": {
+        "personalisation": "",
+        "stylize": 100,
+        "weird": 0,
+        "chaos": 0
+      }
+    },
+    "urls": [
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976018760_f1badbd765084fe0bc2f8ae3c52e8587.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976018760_ba2de4fedb804dcea916525ecb28e60a.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976018760_06fa91f6877747f195fdd0ccf08c9a0f.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976018760_b6b11bdc1a3f41c7a9ceb318b2120397.png"
+    ],
+    "beforeRunAfterParamsMatch": true
+  },
+  {
+    "styleId": "07",
+    "nodeKey": "716e1d4a-708e-43db-80b2-9f5d7d4324ab",
+    "taskId": "20261022083903487324106",
+    "status": 2,
+    "params": {
+      "prompt": "风格化3D动画。圆滚滚的小松鼠邮差披着宽大雨衣，在蘑菇屋门口踮脚把信塞进高高的信箱，造型夸张可爱。画风重点：三维体积、造型概括、表情与动作。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+      "model": "Style Image V8.2",
+      "count": 4,
+      "modeType": "text2image",
+      "settings": {
+        "quality": "auto",
+        "ratio": "4:3"
+      },
+      "advancedSettings": {
+        "personalisation": "",
+        "stylize": 100,
+        "weird": 0,
+        "chaos": 0
+      }
+    },
+    "urls": [
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976018919_b7112155f0eb4fc797cc58146fd4a959.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976018919_0c767be3503f4d259e8ba6611e35e75d.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976018919_e464b6361ce448de8648114cdb5cf900.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976018919_2530edeb619941c0a61f807ac9b36ad6.png"
+    ],
+    "beforeRunAfterParamsMatch": true
+  },
+  {
+    "styleId": "08",
+    "nodeKey": "51e9ae50-53f5-4089-90cb-3b0221dcee75",
+    "taskId": "20261022084003384204106",
+    "status": 2,
+    "params": {
+      "prompt": "黏土定格。一只系围裙的圆脸猫在微型面包房揉面，面团、烤炉、围裙和面包全部是哑光黏土，留有压痕与手工痕迹。画风重点：真正的黏土材质、手工感、定格布景。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+      "model": "Style Image V8.2",
+      "count": 4,
+      "modeType": "text2image",
+      "settings": {
+        "quality": "auto",
+        "ratio": "4:3"
+      },
+      "advancedSettings": {
+        "personalisation": "",
+        "stylize": 100,
+        "weird": 0,
+        "chaos": 0
+      }
+    },
+    "urls": [
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976019411_d4048a720a3b450f933f3291e1ea955e.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976019411_8972ac6210034b8dbb09e4713a255717.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976019411_c98c3e92e0664095ba9e4df69c8ae5e1.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976019411_80dc2f1ea397439791ba93e9b7760c86.png"
+    ],
+    "beforeRunAfterParamsMatch": true
+  },
+  {
+    "styleId": "09",
+    "nodeKey": "3ffed850-89fa-4b5e-b7ed-1dad6e8ae2e5",
+    "taskId": "20261022084003864024106",
+    "status": 2,
+    "params": {
+      "prompt": "纸艺立体场景。层层裁切的森林中，一只纸鹿站在弯曲溪流旁，鸟、树冠、河水和山峦都由折纸与纸片搭起。画风重点：纸边、折痕、叠层与投影，而非普通山水CG。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+      "model": "Style Image V8.2",
+      "count": 4,
+      "modeType": "text2image",
+      "settings": {
+        "quality": "auto",
+        "ratio": "16:9"
+      },
+      "advancedSettings": {
+        "personalisation": "",
+        "stylize": 100,
+        "weird": 0,
+        "chaos": 0
+      }
+    },
+    "urls": [
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976019506_ab691d8277f645d6860ec302125ca3d7.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976019506_03a235f1cc114fec8583b1f5f2fdc099.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976019506_d10506e3a9a94252a7cb4cd5bdcf748d.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976019506_ff1563a401754ca2b2704d71045d91fd.png"
+    ],
+    "beforeRunAfterParamsMatch": true
+  },
+  {
+    "styleId": "10",
+    "nodeKey": "a5e7b9db-449f-4bab-99c9-b2e3d116f33a",
+    "taskId": "20261022084003422514106",
+    "status": 2,
+    "params": {
+      "prompt": "等距低多边形。一座小型灯塔港湾，码头、两艘帆船、坡道和三间彩色小屋组成清晰的等距场景，使用少量平整多边形面。画风重点：正交等距关系、明确多边形、统一尺度。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+      "model": "Style Image V8.2",
+      "count": 4,
+      "modeType": "text2image",
+      "settings": {
+        "quality": "auto",
+        "ratio": "4:3"
+      },
+      "advancedSettings": {
+        "personalisation": "",
+        "stylize": 100,
+        "weird": 0,
+        "chaos": 0
+      }
+    },
+    "urls": [
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976019596_290a49ead7f843a083ea4e44579bac32.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976019596_72d35720fb6a4219a385235809afe6b9.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976019596_eccbed8935264becb528caf598142e69.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976019596_015f75c22db040f3aea92499b27386ce.png"
+    ],
+    "beforeRunAfterParamsMatch": true
+  },
+  {
+    "styleId": "11",
+    "nodeKey": "38263f03-cc43-4d18-bf21-d19345f5bcea",
+    "taskId": "20261022083403404174106",
+    "status": 2,
+    "params": {
+      "prompt": "日系赛璐璐动画。夏日傍晚的地方铁路站台，短发少女抱着书包回头，海风吹起白衬衫衣角，远处是蓝海与缓慢经过的列车。画风重点：干净线稿、平涂、硬边阴影与动画背景。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+      "model": "Style Image V8.2",
+      "count": 4,
+      "modeType": "text2image",
+      "settings": {
+        "quality": "auto",
+        "ratio": "16:9"
+      },
+      "advancedSettings": {
+        "personalisation": "",
+        "stylize": 100,
+        "weird": 0,
+        "chaos": 0
+      }
+    },
+    "urls": [
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976016843_ef22952bcad84de3a97865ac752623f8.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976016843_d42bbb2b4b674e6ab2ec102997f22f83.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976016843_a276fe2fb0854aa1acef9650499917f9.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976016843_86e9fa265f9d4c5db5d547e79f94b136.png"
+    ],
+    "beforeRunAfterParamsMatch": true
+  },
+  {
+    "styleId": "12",
+    "nodeKey": "ca0918c1-7c69-4aab-9f3b-ede81a0da5cc",
+    "taskId": "20261022084203671934106",
+    "status": 2,
+    "params": {
+      "prompt": "日系厚涂游戏插画。成年银发女术士身穿深蓝黑色长袍，手握一枚发光星核，站在有月光的古老图书馆中，脸与服装设计清楚。画风重点：绘画塑形、角色设计、材质笔触和边缘控制。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+      "model": "Style Image V8.2",
+      "count": 4,
+      "modeType": "text2image",
+      "settings": {
+        "quality": "auto",
+        "ratio": "3:4"
+      },
+      "advancedSettings": {
+        "personalisation": "",
+        "stylize": 100,
+        "weird": 0,
+        "chaos": 0
+      }
+    },
+    "urls": [
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976020249_8e1694b091bb4007840a7c1d9b9a9130.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976020249_c1810f6483e446eea6a086ae59f58102.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976020249_e4b4b42e81a84639aa054eacbbcc015e.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976020249_ec561ce867924d9db3a43dcee32595c1.png"
+    ],
+    "beforeRunAfterParamsMatch": true
+  },
+  {
+    "styleId": "13",
+    "nodeKey": "daf48f07-c24d-43a8-b625-9b86565da26f",
+    "taskId": "20261022084203305174106",
+    "status": 2,
+    "params": {
+      "prompt": "美式漫画。一位原创蒙面英雄从雨夜高楼屋顶跃起，披风形成有力黑色剪影，身后一道闪电照出城市，单幅构图。画风重点：有力墨线、黑白结构、网点与动作张力。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+      "model": "Style Image V8.2",
+      "count": 4,
+      "modeType": "text2image",
+      "settings": {
+        "quality": "auto",
+        "ratio": "16:9"
+      },
+      "advancedSettings": {
+        "personalisation": "",
+        "stylize": 100,
+        "weird": 0,
+        "chaos": 0
+      }
+    },
+    "urls": [
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976020363_f3b3630fc10042658fee9f8144929297.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976020363_4e01f522a857496fa2c3ebd3d24c6032.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976020363_7440f2b74e904ea79ddc6084fa4b0a69.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976020363_97cab0a8699e4f90a07a5bef9d123aa7.png"
+    ],
+    "beforeRunAfterParamsMatch": true
+  },
+  {
+    "styleId": "14",
+    "nodeKey": "fee0ab1d-fd2e-4126-b487-c135a16ebe27",
+    "taskId": "20261022084203856034106",
+    "status": 2,
+    "params": {
+      "prompt": "欧式绘本。秋天的小刺猬坐在树根小屋里给来访的兔子倒茶，窗边挂着落叶，木桌上有栗子和一盏小灯。画风重点：温柔造型、叙事细节、手绘线条与有限色彩。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+      "model": "Style Image V8.2",
+      "count": 4,
+      "modeType": "text2image",
+      "settings": {
+        "quality": "auto",
+        "ratio": "16:9"
+      },
+      "advancedSettings": {
+        "personalisation": "",
+        "stylize": 100,
+        "weird": 0,
+        "chaos": 0
+      }
+    },
+    "urls": [
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976020518_794ed90aebd94ecc82500f26ab19b5b9.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976020518_a7ee8210dd8345289c2934da1444d013.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976020518_17b584b7bbc34ece938eda7bd22091cd.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976020518_8f2c1066ced14da7961ae61f247cba52.png"
+    ],
+    "beforeRunAfterParamsMatch": true
+  },
+  {
+    "styleId": "15",
+    "nodeKey": "c36642a6-4970-4161-8d69-d204d33f3589",
+    "taskId": "20261022084303570504106",
+    "status": 2,
+    "params": {
+      "prompt": "平面商业插画。三名成年人在城市公园骑车、散步和读书，树木与建筑被概括成蓝绿、珊瑚红、米黄色的几何色块。画风重点：平面轮廓、色块组织、负空间，不依赖写实玻璃。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+      "model": "Style Image V8.2",
+      "count": 4,
+      "modeType": "text2image",
+      "settings": {
+        "quality": "auto",
+        "ratio": "16:9"
+      },
+      "advancedSettings": {
+        "personalisation": "",
+        "stylize": 100,
+        "weird": 0,
+        "chaos": 0
+      }
+    },
+    "urls": [
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976021174_34b92d56651f4c73a08d36c7ee3701ac.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976021174_20bd82127dd347aca38322c2cf039d56.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976021174_e922dd3b0bcb41a8ad41d9c64ce643a3.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976021174_58083db9073c433c8e97c23aef651342.png"
+    ],
+    "beforeRunAfterParamsMatch": true
+  },
+  {
+    "styleId": "16",
+    "nodeKey": "d986aa69-f390-41a4-a1ce-5bbbc9244af3",
+    "taskId": "20261022084303265594106",
+    "status": 2,
+    "params": {
+      "prompt": "古典油画。一位穿深色长裙的成年女性坐在木桌前读信，桌上有梨、瓷盘与一枝白花，窗边柔光照亮脸与双手。画风重点：罩染、明暗塑形、油彩与边缘虚实。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+      "model": "Style Image V8.2",
+      "count": 4,
+      "modeType": "text2image",
+      "settings": {
+        "quality": "auto",
+        "ratio": "3:4"
+      },
+      "advancedSettings": {
+        "personalisation": "",
+        "stylize": 100,
+        "weird": 0,
+        "chaos": 0
+      }
+    },
+    "urls": [
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976021267_985dec59b7724a528ecc6bad8a5a8498.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976021267_27e9846fa48645759df322cbcf610194.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976021267_5d1402e5c7df44318d78bbb20e15bbc8.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976021267_b4ee531ac0884d9fb7d55e986d3dbc36.png"
+    ],
+    "beforeRunAfterParamsMatch": true
+  },
+  {
+    "styleId": "17",
+    "nodeKey": "ca514596-4144-45fc-8cbd-1ac834f4988f",
+    "taskId": "20261022084403583484106",
+    "status": 2,
+    "params": {
+      "prompt": "印象派油画。晴日下午的河岸花园，树影碎落在小路上，远处有两只小船和撑浅色阳伞的游人，光与空气流动。画风重点：色彩并置、破碎笔触、光与空气，而非纹理滤镜。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+      "model": "Style Image V8.2",
+      "count": 4,
+      "modeType": "text2image",
+      "settings": {
+        "quality": "auto",
+        "ratio": "16:9"
+      },
+      "advancedSettings": {
+        "personalisation": "",
+        "stylize": 100,
+        "weird": 0,
+        "chaos": 0
+      }
+    },
+    "urls": [
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976021462_79c59f8db8e343329cdb6ca325b2f862.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976021462_9ece863738804fc6b4ad52838b4b2130.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976021462_0c0f8e3d7e324c678895fcfc82c67cd8.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976021462_253eb0ca32ac4c59a4ba788cdd45f540.png"
+    ],
+    "beforeRunAfterParamsMatch": true
+  },
+  {
+    "styleId": "18",
+    "nodeKey": "c8072e82-7ecf-4c0d-bda8-176852975640",
+    "taskId": "20261022083403455114106",
+    "status": 2,
+    "params": {
+      "prompt": "透明水彩。一只蓝白陶杯、两颗柠檬与一枝小花放在明亮窗台上，画面留出大片纸白，浅色阴影自然晕开。画风重点：透明罩染、纸白、水痕和晕边。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+      "model": "Style Image V8.2",
+      "count": 4,
+      "modeType": "text2image",
+      "settings": {
+        "quality": "auto",
+        "ratio": "4:3"
+      },
+      "advancedSettings": {
+        "personalisation": "",
+        "stylize": 100,
+        "weird": 0,
+        "chaos": 0
+      }
+    },
+    "urls": [
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976016845_7085a492dc294ca28c88bd00402871bd.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976016845_aa262e20826a4a15929da48ace6651e2.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976016845_4c2109a3699a4affac9747a01ab10eb1.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976016845_10745c26bad5405bae3bf6187b4a8544.png"
+    ],
+    "beforeRunAfterParamsMatch": true
+  },
+  {
+    "styleId": "19",
+    "nodeKey": "4aa06a40-3b31-40bd-9b7f-f10cdc61390d",
+    "taskId": "20261022084503734194106",
+    "status": 2,
+    "params": {
+      "prompt": "水粉／不透明水彩。蓝色粗布上摆三只橙红柿子、一只白色陶罐和折起的米色纸，使用哑光厚实色块和肯定笔触。画风重点：不透明覆盖、干湿笔、色块与粉质感。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+      "model": "Style Image V8.2",
+      "count": 4,
+      "modeType": "text2image",
+      "settings": {
+        "quality": "auto",
+        "ratio": "4:3"
+      },
+      "advancedSettings": {
+        "personalisation": "",
+        "stylize": 100,
+        "weird": 0,
+        "chaos": 0
+      }
+    },
+    "urls": [
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976022111_c5fdf472d9834957a27c5eccd894a136.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976022111_cfc4c8935dc44d29933333020204cbc0.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976022111_834b5be75d984f378ad36e5ca0fe138f.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976022111_eb7247d240ba4d62b9bb6dc6ee18a158.png"
+    ],
+    "beforeRunAfterParamsMatch": true
+  },
+  {
+    "styleId": "20",
+    "nodeKey": "e6cc9690-b9e7-4f3a-a3c3-ca029a3835f6",
+    "taskId": "20261022084503160794106",
+    "status": 2,
+    "params": {
+      "prompt": "木刻／套色版画。一艘小渔船穿过起风的海湾，远处灯塔射出一束光，用黑、靛蓝与赭黄三种主要印色组织画面。画风重点：刀刻线条、黑白结构与套色印刷肌理。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+      "model": "Style Image V8.2",
+      "count": 4,
+      "modeType": "text2image",
+      "settings": {
+        "quality": "auto",
+        "ratio": "16:9"
+      },
+      "advancedSettings": {
+        "personalisation": "",
+        "stylize": 100,
+        "weird": 0,
+        "chaos": 0
+      }
+    },
+    "urls": [
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976022229_79739d23119546068adacfa6f819d200.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976022229_97415d02affd4db98b3ae1cfc1e47d68.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976022229_a7aab8ece1ed4014ae97fb543931b8b7.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976022229_1a3658c1ef884225858353ceafc66272.png"
+    ],
+    "beforeRunAfterParamsMatch": true
+  },
+  {
+    "styleId": "21",
+    "nodeKey": "47acac65-b1ab-4412-bf00-36bf0f0c08d3",
+    "taskId": "20261022084503501264106",
+    "status": 2,
+    "params": {
+      "prompt": "中国水墨写意。雨后远山与江南水村，一叶小舟从芦苇旁经过，几笔屋顶与树影落在大片宣纸留白之间。画风重点：笔势、墨色干湿浓淡、留白与概括能力。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+      "model": "Style Image V8.2",
+      "count": 4,
+      "modeType": "text2image",
+      "settings": {
+        "quality": "auto",
+        "ratio": "16:9"
+      },
+      "advancedSettings": {
+        "personalisation": "",
+        "stylize": 100,
+        "weird": 0,
+        "chaos": 0
+      }
+    },
+    "urls": [
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976022248_61791b6e8b5242b8abb050b6ab500b70.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976022248_691de06228f448d29b5e235d309f67e5.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976022248_ff2505d7f0b64898bc82a59aa52f21c9.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976022248_a61b6fedf88347549245ea5bc90d4248.png"
+    ],
+    "beforeRunAfterParamsMatch": true
+  },
+  {
+    "styleId": "22",
+    "nodeKey": "c0c57af2-48e9-4666-9cb7-819123224387",
+    "taskId": "20261022084603760394106",
+    "status": 2,
+    "params": {
+      "prompt": "工笔重彩。一位穿浅色传统衣裙的成年女子站在盛开的牡丹旁，枝上停一只锦鸡，细线勾勒衣纹、羽毛和花瓣。画风重点：细劲勾线、分染、重彩和装饰性。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+      "model": "Style Image V8.2",
+      "count": 4,
+      "modeType": "text2image",
+      "settings": {
+        "quality": "auto",
+        "ratio": "3:4"
+      },
+      "advancedSettings": {
+        "personalisation": "",
+        "stylize": 100,
+        "weird": 0,
+        "chaos": 0
+      }
+    },
+    "urls": [
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976022832_cbd94ec367fd4b95a5618e15d0d74543.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976022832_fd190aa033aa40879f4099b75a4a7944.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976022832_29b1f1fddc714d75a26757f523dbb6ad.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976022832_90b548bfcf0545148626170e9923c729.png"
+    ],
+    "beforeRunAfterParamsMatch": true
+  },
+  {
+    "styleId": "23",
+    "nodeKey": "be89a406-f4be-440d-a7b9-00ef30861b21",
+    "taskId": "20261022084603871304106",
+    "status": 2,
+    "params": {
+      "prompt": "浮世绘。雪中的木桥横跨河面，撑红伞的成年行人经过桥中央，岸边有松树和低矮木屋，以平面套色组织雪景。画风重点：木版轮廓、套色、空间裁切与图案化。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+      "model": "Style Image V8.2",
+      "count": 4,
+      "modeType": "text2image",
+      "settings": {
+        "quality": "auto",
+        "ratio": "3:2"
+      },
+      "advancedSettings": {
+        "personalisation": "",
+        "stylize": 100,
+        "weird": 0,
+        "chaos": 0
+      }
+    },
+    "urls": [
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976022904_5d8e9c17aa3f43e5abd26a086f0b3da7.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976022904_668fa5eaff984da493885c2f00e27be4.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976022904_23ad6779a2b44b2d84e177fcfd3ac72a.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976022904_cf2f7f0da6224e8da5bcd4dc26735d13.png"
+    ],
+    "beforeRunAfterParamsMatch": true
+  },
+  {
+    "styleId": "24",
+    "nodeKey": "a28cc7c8-0296-44bd-a243-938e525224b5",
+    "taskId": "20261022084603298534106",
+    "status": 2,
+    "params": {
+      "prompt": "新艺术装饰风格。一位成年女性侧身捧着百合，长发与鸢尾、藤蔓连接成流动曲线，奶油色、青绿与金色构成装饰边框。画风重点：流动曲线、人物与花卉一体化、装饰平面。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+      "model": "Style Image V8.2",
+      "count": 4,
+      "modeType": "text2image",
+      "settings": {
+        "quality": "auto",
+        "ratio": "3:4"
+      },
+      "advancedSettings": {
+        "personalisation": "",
+        "stylize": 100,
+        "weird": 0,
+        "chaos": 0
+      }
+    },
+    "urls": [
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976022930_d710624ba8c34711bb6a4a10f1a79f9c.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976022930_348b7e9894f647419a9c92ea6d4167ee.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976022930_a17a8964eb4b4412840bfaad760e26ab.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976022930_17ee956041c44e8688bfdacfe14f50ed.png"
+    ],
+    "beforeRunAfterParamsMatch": true
+  },
+  {
+    "styleId": "25",
+    "nodeKey": "3ca3a423-9288-4b4d-98f8-51bc96285ad5",
+    "taskId": "20261022084803852584106",
+    "status": 2,
+    "params": {
+      "prompt": "像素艺术。雨夜的小城公交站，便利店窗口透出暖光，一个撑伞的人等车，霓虹倒影用有限色板和清楚像素簇表现。画风重点：手工安排的像素簇、硬边、有限调色板，而非照片像素化。单幅完整画面，不加标题、文字、署名、品牌或水印。不做拼贴，不使用统一后期滤镜。",
+      "model": "Style Image V8.2",
+      "count": 4,
+      "modeType": "text2image",
+      "settings": {
+        "quality": "auto",
+        "ratio": "16:9"
+      },
+      "advancedSettings": {
+        "personalisation": "",
+        "stylize": 100,
+        "weird": 0,
+        "chaos": 0
+      }
+    },
+    "urls": [
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976023655_bfa2ea0ba97946feaff0c1f9b22f8254.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976023655_bd49b592f51648e1b92feae857013d6d.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976023655_096a1da378ec477e8133d1e5db683516.png",
+      "https://libtv-res.liblib.art/sd-gen-save-img/genius_playground/image/eb2093d4fbc141238edce11400ce2ed9/976023655_ef08fbe1b5c44bf8b2328e8839ce7ab0.png"
+    ],
+    "beforeRunAfterParamsMatch": true
+  }
+]

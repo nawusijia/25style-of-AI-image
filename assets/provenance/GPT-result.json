@@ -1,0 +1,118 @@
+{
+  "thread_id": "8172608a-6903-47b0-8cc4-0c38b989478a",
+  "project_id": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+  "status": "done",
+  "requested_model": "generate_image_gpt_image_2_high",
+  "items": [
+    {
+      "type": "assistant",
+      "text": "已完成25道题的独立图片生成，全部使用 `generate_image_gpt_image_2`（quality=high），未使用参考图、未编辑、未后处理，结果原样保留。\n\n| 题号 | 实际图片URL | 实际调用模型 | 尺寸 | 其他参数 |\n|---|---|---|---|---|\n| 01 自然纪实摄影 | https://a.lovart.ai/artifacts/agent/eJs4WN4twU3ghhhL.png | generate_image_gpt_image_2 (high) | 2016×1344 | seed、cfg 等：未知 |\n| 02 高级时尚大片 | https://a.lovart.ai/artifacts/agent/yuY3dzRyWjAgUqsm.png | generate_image_gpt_image_2 (high) | 1536×2048 | seed、cfg 等：未知 |\n| 03 电影叙事剧照 | https://a.lovart.ai/artifacts/agent/WqfY86jNIXIodA1a.png | generate_image_gpt_image_2 (high) | 2048×1152 | seed、cfg 等：未知 |\n| 04 复古胶片摄影 | https://a.lovart.ai/artifacts/agent/PtIwh1SqckJImS1k.png | generate_image_gpt_image_2 (high) | 2016×1344 | seed、cfg 等：未知 |\n| 05 超现实商业摄影 | https://a.lovart.ai/artifacts/agent/l6B0J1nnubGsGa6p.png | generate_image_gpt_image_2 (high) | 2048×1536 | seed、cfg 等：未知 |\n| 06 电影级写实CG | https://a.lovart.ai/artifacts/agent/ZG9YItBtmbLw4inJ.png | generate_image_gpt_image_2 (high) | 1536×2048 | seed、cfg 等：未知 |\n| 07 风格化3D动画 | https://a.lovart.ai/artifacts/agent/uPXLOJQLWzAup5yz.png | generate_image_gpt_image_2 (high) | 2048×1536 | seed、cfg 等：未知 |\n| 08 黏土定格 | https://a.lovart.ai/artifacts/agent/oMyMvmh2H9AtJ0QI.png | generate_image_gpt_image_2 (high) | 2048×1536 | seed、cfg 等：未知 |\n| 09 纸艺立体场景 | https://a.lovart.ai/artifacts/agent/YPBiHdAs6S9qBrUq.png | generate_image_gpt_image_2 (high) | 2048×1152 | seed、cfg 等：未知 |\n| 10 等距低多边形 | https://a.lovart.ai/artifacts/agent/Dhbkr16Qn9IjdsVP.png | generate_image_gpt_image_2 (high) | 2048×1536 | seed、cfg 等：未知 |\n| 11 日系赛璐璐动画 | https://a.lovart.ai/artifacts/agent/miKsKfiDuQ82m2el.png | generate_image_gpt_image_2 (high) | 2048×1152 | seed、cfg 等：未知 |\n| 12 日系厚涂游戏插画 | https://a.lovart.ai/artifacts/agent/SWM6yugfhp87B7Aj.png | generate_image_gpt_image_2 (high) | 1536×2048 | seed、cfg 等：未知 |\n| 13 美式漫画 | https://a.lovart.ai/artifacts/agent/R4dRd7eYHMF4rzfq.png | generate_image_gpt_image_2 (high) | 2048×1152 | seed、cfg 等：未知 |\n| 14 欧式绘本 | https://a.lovart.ai/artifacts/agent/23fEX4eVNf6LH3tq.png | generate_image_gpt_image_2 (high) | 2048×1152 | seed、cfg 等：未知 |\n| 15 平面商业插画 | https://a.lovart.ai/artifacts/agent/AHM1n97Hf5EmYDZV.png | generate_image_gpt_image_2 (high) | 2048×1152 | seed、cfg 等：未知 |\n| 16 古典油画 | https://a.lovart.ai/artifacts/agent/0AbhRZ3MNg5SMLB5.png | generate_image_gpt_image_2 (high) | 1536×2048 | seed、cfg 等：未知 |\n| 17 印象派油画 | https://a.lovart.ai/artifacts/agent/vAQOP81YN1CxrvwR.png | generate_image_gpt_image_2 (high) | 2048×1152 | seed、cfg 等：未知 |\n| 18 透明水彩 | https://a.lovart.ai/artifacts/agent/tbrHCtHvwpBX57N2.png | generate_image_gpt_image_2 (high) | 2048×1536 | seed、cfg 等：未知 |\n| 19 水粉／不透明水彩 | https://a.lovart.ai/artifacts/agent/VBEy9ZPITnACNIaL.png | generate_image_gpt_image_2 (high) | 2048×1536 | seed、cfg 等：未知 |\n| 20 木刻／套色版画 | https://a.lovart.ai/artifacts/agent/UuuaOPyWRG8u1wIQ.png | generate_image_gpt_image_2 (high) | 2048×1152 | seed、cfg 等：未知 |\n| 21 中国水墨写意 | https://a.lovart.ai/artifacts/agent/IeE9yO76pk4fhf4s.png | generate_image_gpt_image_2 (high) | 2048×1152 | seed、cfg 等：未知 |\n| 22 工笔重彩 | https://a.lovart.ai/artifacts/agent/DqZbyRGD0RB1aa4W.png | generate_image_gpt_image_2 (high) | 1536×2048 | seed、cfg 等：未知 |\n| 23 浮世绘 | https://a.lovart.ai/artifacts/agent/6J7O7kw86rEs5el4.png | generate_image_gpt_image_2 (high) | 2016×1344 | seed、cfg 等：未知 |\n| 24 新艺术装饰风格 | https://a.lovart.ai/artifacts/agent/3PKrhDMgqALAV4nn.png | generate_image_gpt_image_2 (high) | 1536×2048 | seed、cfg 等：未知 |\n| 25 像素艺术 | https://a.lovart.ai/artifacts/agent/FaFERaBWb41jUGRQ.png | generate_image_gpt_image_2 (high) | 2048×1152 | seed、cfg 等：未知 |"
+    },
+    {
+      "type": "generator",
+      "artifacts": [
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/eJs4WN4twU3ghhhL.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/PtIwh1SqckJImS1k.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/yuY3dzRyWjAgUqsm.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/WqfY86jNIXIodA1a.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/l6B0J1nnubGsGa6p.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/Dhbkr16Qn9IjdsVP.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/YPBiHdAs6S9qBrUq.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/oMyMvmh2H9AtJ0QI.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/uPXLOJQLWzAup5yz.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/ZG9YItBtmbLw4inJ.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/R4dRd7eYHMF4rzfq.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/miKsKfiDuQ82m2el.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/23fEX4eVNf6LH3tq.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/SWM6yugfhp87B7Aj.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/AHM1n97Hf5EmYDZV.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/0AbhRZ3MNg5SMLB5.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/VBEy9ZPITnACNIaL.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/vAQOP81YN1CxrvwR.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/UuuaOPyWRG8u1wIQ.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/tbrHCtHvwpBX57N2.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/IeE9yO76pk4fhf4s.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/3PKrhDMgqALAV4nn.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/6J7O7kw86rEs5el4.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/FaFERaBWb41jUGRQ.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/DqZbyRGD0RB1aa4W.png"
+        }
+      ],
+      "name": "artifacts"
+    }
+  ]
+}

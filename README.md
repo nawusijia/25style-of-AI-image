@@ -1,6 +1,6 @@
 # 25 种画风 × 6 个图片模型
 
-娜乌斯嘉AI 的图片模型画风横评（第二轮）。同一道题、同一段提示词，看 Midjourney V8.2、GPT Image 2、Nano Banana Pro、Seedream 5.0 Pro、FLUX 2 Max、Luma uni-1 Max 在 25 种画风上各自画成什么样。
+娜乌斯嘉AI 的图片模型画风横评（第二轮）。同一道题，公开各模型的提交题面与可核实参数，看 Midjourney V8.2、GPT Image 2、Nano Banana Pro、Seedream 5.0 Pro、FLUX 2 Max、Luma uni-1 Max 在 25 种画风上各自画成什么样。
 
 **怎么看：** 点右上角 Code → Download ZIP，解压后双击 `index.html` 就能在浏览器里看。
 
@@ -13,10 +13,19 @@
 
 ## 怎么测的
 
-- 每种画风配一个适合它的题材（比如水墨画江南水村、像素画雨夜公交站）。同一题，六个模型用同一段提示词、同一画幅。
+- 每种画风配一个适合它的题材（比如水墨画江南水村、像素画雨夜公交站）。同一题提交相同中文题面和请求画幅；MJ 的运行原文已核实，五家 Lovart 的底层提示词未公开，不能断言六家底层逐字一致；实际输出比例也可能偏离请求。
 - 不用参考图、不加个人风格码、不做后期；所有瑕疵和跑画风都原样保留。
 - Midjourney 走 LibTV 的 V8.2 入口（mj-v8.2，stylize 100 / weird 0 / chaos 0），每题出 4 张，固定取第 1 张参加对照。其余五家在 Lovart 上调用。
 - 「很喜欢 / 可以用」是娜娜在匿名状态下的个人评分，只代表她一个人的口味。
+
+## 提示词核对与已知缺口
+
+- 150 个模型条目均有独立的 `prompt`、`promptStatus`、`promptDiffersFromCommon`、`parameters` 和 `evidence`。`assets/data.js` 与 `assets/data.json` 内容一致，离线网页逐模型展示和复制。
+- MJ：25 题均从本地归档的 LibTV `MJ82-XX.before.json / .run.json / .after.json` 找回，三份参数逐题一致，运行提示词均与公共题面相同，没有额外英文或内联参数。模型 `Style Image V8.2 / mj-v8.2`；count=4、quality=auto、stylize=100、weird=0、chaos=0、personalisation 为空、modeType=text2image，画幅逐题记录。固定取返回第 1 张。公开摘录见 [MJ 运行记录](assets/provenance/MJ82-executions.json)，含节点、taskId 和返回 URL。
+- GPT / NBP / SD / FLUX / LUMA：各 25 题的提交题面与公共题面逐字相同，但实际发给 Lovart 的是附有模型限制、逐题生成、禁止修图/重试等要求的整批指令。五份完整提交指令及平台结果保存在 [assets/provenance/](assets/provenance/)。GPT 请求 high 入口，平台报告实际调用 generate_image_gpt_image_2（quality=high）。其他模型入口见逐条 parameters。
+- 2026-10-26 对五个原 thread 做只读 result 回查：接口仍仅返回 assistant 报告和图片 artifacts，无底层工具调用参数。125 条底层 prompt（是否英文翻译、措辞改写）、seed、cfg 及内部重试历史无法找回，均明确标未知；未发现可证实的改词或重跑记录，不能据此断言从未发生。`promptStatus=submitted_to_agent_only` 表示可复制的是代理提交题面，不能冒充底层原文。MJ 为 `verified_execution`。
+- 请求画幅与真实像素分开记录，真实像素来自原始主样本清单（网页 JPEG 可能缩小）。原验收记录有 12 张比例偏离超过 2%，不能把“同一请求画幅”写成“所有输出比例一致”。
+- 原始资料位于项目归档 `02_第二轮_MJ8.2`，本次只核对第二轮对应回执与主样本，不以第一轮或历史重试替代。公开记录只包含必要提交/结果证据，无本地凭据。
 
 ## 速查：每种画风娜娜最喜欢的
 

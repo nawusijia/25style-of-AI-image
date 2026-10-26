@@ -1,0 +1,118 @@
+{
+  "thread_id": "e664abf1-2146-4576-9933-416d0626ce32",
+  "project_id": "f7af09f2ac3b4e18b6bd69f5d7e3e45c",
+  "status": "done",
+  "requested_model": "generate_image_nano_banana_pro",
+  "items": [
+    {
+      "type": "assistant",
+      "text": "25道题已全部按原样生成完毕，未做拼贴、编辑、后处理或重试。\n\n| 题号 | 实际图片URL | 实际调用模型 | 尺寸 |\n|---|---|---|---|\n| 01 | https://a.lovart.ai/artifacts/agent/rbXqphlcirBR83t5.png | generate_image_nano_banana_pro | 1264×848 |\n| 02 | https://a.lovart.ai/artifacts/agent/ZgiXqV2sOR5KTrCm.png | generate_image_nano_banana_pro | 896×1200 |\n| 03 | https://a.lovart.ai/artifacts/agent/xDFrXqZOpTVdh2Xa.png | generate_image_nano_banana_pro | 1376×768 |\n| 04 | https://a.lovart.ai/artifacts/agent/aCysvMgg96jizoO3.png | generate_image_nano_banana_pro | 1264×848 |\n| 05 | https://a.lovart.ai/artifacts/agent/vj8Ound9QB1r3dFw.png | generate_image_nano_banana_pro | 1200×896 |\n| 06 | https://a.lovart.ai/artifacts/agent/XJPTnWHzeg8if1Lq.png | generate_image_nano_banana_pro | 896×1200 |\n| 07 | https://a.lovart.ai/artifacts/agent/w95Pmrw4KgHfrxkT.png | generate_image_nano_banana_pro | 1200×896 |\n| 08 | https://a.lovart.ai/artifacts/agent/PSXLhIfN13Kh1mHF.png | generate_image_nano_banana_pro | 1200×896 |\n| 09 | https://a.lovart.ai/artifacts/agent/nV8Z7MC2HVIqAeA6.png | generate_image_nano_banana_pro | 1376×768 |\n| 10 | https://a.lovart.ai/artifacts/agent/X46NfLXsJBKSrEyJ.png | generate_image_nano_banana_pro | 1200×896 |\n| 11 | https://a.lovart.ai/artifacts/agent/GBeoGrSgms7SOppI.png | generate_image_nano_banana_pro | 1376×768 |\n| 12 | https://a.lovart.ai/artifacts/agent/nyjclW1USK38vaWe.png | generate_image_nano_banana_pro | 896×1200 |\n| 13 | https://a.lovart.ai/artifacts/agent/8eZJN6Y0yj4ZTbPz.png | generate_image_nano_banana_pro | 1376×768 |\n| 14 | https://a.lovart.ai/artifacts/agent/gNcWr5JqzP3jIE6S.png | generate_image_nano_banana_pro | 1376×768 |\n| 15 | https://a.lovart.ai/artifacts/agent/1AXuQXCwpNA618D0.png | generate_image_nano_banana_pro | 1376×768 |\n| 16 | https://a.lovart.ai/artifacts/agent/bYs3t7D5hO5NYdfz.png | generate_image_nano_banana_pro | 896×1200 |\n| 17 | https://a.lovart.ai/artifacts/agent/lvwUMrUdeW1rvjwL.png | generate_image_nano_banana_pro | 1376×768 |\n| 18 | https://a.lovart.ai/artifacts/agent/2t0eceAhcBBEr3Nk.png | generate_image_nano_banana_pro | 1200×896 |\n| 19 | https://a.lovart.ai/artifacts/agent/W089ZHesMo6s7RFA.png | generate_image_nano_banana_pro | 1200×896 |\n| 20 | https://a.lovart.ai/artifacts/agent/tWtTX7oZUMAmrOty.png | generate_image_nano_banana_pro | 1376×768 |\n| 21 | https://a.lovart.ai/artifacts/agent/2jE3oRylFu33Dg1u.png | generate_image_nano_banana_pro | 1376×768 |\n| 22 | https://a.lovart.ai/artifacts/agent/CYlUb5cRIiIsa2wd.png | generate_image_nano_banana_pro | 896×1200 |\n| 23 | https://a.lovart.ai/artifacts/agent/Uom4b4EgBh4Pwsld.png | generate_image_nano_banana_pro | 1264×848 |\n| 24 | https://a.lovart.ai/artifacts/agent/6m3rtwjZAjH9nvzQ.png | generate_image_nano_banana_pro | 896×1200 |\n| 25 | https://a.lovart.ai/artifacts/agent/JuDsaVxbNtIDunT7.png | generate_image_nano_banana_pro | 1376×768 |\n\n底层未暴露参数：未知。"
+    },
+    {
+      "type": "generator",
+      "artifacts": [
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/rbXqphlcirBR83t5.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/vj8Ound9QB1r3dFw.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/ZgiXqV2sOR5KTrCm.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/xDFrXqZOpTVdh2Xa.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/aCysvMgg96jizoO3.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/XJPTnWHzeg8if1Lq.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/nV8Z7MC2HVIqAeA6.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/w95Pmrw4KgHfrxkT.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/PSXLhIfN13Kh1mHF.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/X46NfLXsJBKSrEyJ.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/GBeoGrSgms7SOppI.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/8eZJN6Y0yj4ZTbPz.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/nyjclW1USK38vaWe.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/1AXuQXCwpNA618D0.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/gNcWr5JqzP3jIE6S.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/lvwUMrUdeW1rvjwL.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/W089ZHesMo6s7RFA.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/tWtTX7oZUMAmrOty.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/bYs3t7D5hO5NYdfz.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/2t0eceAhcBBEr3Nk.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/CYlUb5cRIiIsa2wd.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/JuDsaVxbNtIDunT7.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/Uom4b4EgBh4Pwsld.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/6m3rtwjZAjH9nvzQ.png"
+        },
+        {
+          "type": "image",
+          "content": "https://a.lovart.ai/artifacts/agent/2jE3oRylFu33Dg1u.png"
+        }
+      ],
+      "name": "artifacts"
+    }
+  ]
+}
